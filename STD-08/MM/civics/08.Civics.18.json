@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Civics.18",
+    "standard": "8",
+    "subject": "Civics",
+    "medium": "Marathi",
+    "chapter_name": "भारतीय न्यायव्यवस्था"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेचा प्रमुख कोण असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रधानमंत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रपती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुख्य न्यायाधीश",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसभा अध्यक्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुख्य न्यायाधीश"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेची सर्वोच्च संस्था कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उच्च न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्र न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वोच्च न्यायालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जिल्हा न्यायालय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वोच्च न्यायालय"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कायदे करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कायद्यांची अंमलबजावणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायदान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निवडणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायदान"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "न्यायालयांची स्वायत्तता का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न्यायनिष्ठ निर्णयासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकीय हस्तक्षेपासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खर्च कमी करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायनिष्ठ निर्णयासाठी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भारतात किती स्तरांची न्यायालये आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "उच्च न्यायालये कोणत्या राज्यात असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रत्येक जिल्ह्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्येक राज्यात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रत्येक तालुक्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रत्येक गावात",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्येक राज्यात"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सर्वोच्च न्यायालयाचे मुख्यालय कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोलकाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवी दिल्ली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चेन्नई",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवी दिल्ली"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "न्यायालयांचे निर्णय कोणावर बंधनकारक असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ नागरिकांवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वांवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "न्यायाधीशांवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांवर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेची स्वायत्तता कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संविधानामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माध्यमांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्षांमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "संविधानामुळे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्था कोणत्या शासनपद्धतीचा भाग आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्यकारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विधिमंडळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायपालिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रशासन",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायपालिका"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेचा प्रमुख कोण असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रधानमंत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रपती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुख्य न्यायाधीश",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसभा अध्यक्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुख्य न्यायाधीश"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेची सर्वोच्च संस्था कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उच्च न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्र न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वोच्च न्यायालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जिल्हा न्यायालय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वोच्च न्यायालय"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कायदे करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कायद्यांची अंमलबजावणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायदान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निवडणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायदान"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "न्यायालयांची स्वायत्तता का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न्यायनिष्ठ निर्णयासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकीय हस्तक्षेपासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खर्च कमी करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायनिष्ठ निर्णयासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "भारतात किती स्तरांची न्यायालये आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "उच्च न्यायालये कोणत्या राज्यात असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रत्येक जिल्ह्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्येक राज्यात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रत्येक तालुक्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रत्येक गावात",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्येक राज्यात"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सर्वोच्च न्यायालयाचे मुख्यालय कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोलकाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवी दिल्ली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चेन्नई",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवी दिल्ली"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "न्यायालयांचे निर्णय कोणावर बंधनकारक असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ नागरिकांवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वांवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "न्यायाधीशांवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांवर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेची स्वायत्तता कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संविधानामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माध्यमांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्षांमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "संविधानामुळे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्था कोणत्या शासनपद्धतीचा भाग आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्यकारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विधिमंडळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायपालिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रशासन",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायपालिका"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेचा प्रमुख कोण असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रधानमंत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रपती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुख्य न्यायाधीश",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसभा अध्यक्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुख्य न्यायाधीश"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेची सर्वोच्च संस्था कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उच्च न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्र न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वोच्च न्यायालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जिल्हा न्यायालय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वोच्च न्यायालय"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कायदे करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कायद्यांची अंमलबजावणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायदान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निवडणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायदान"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "न्यायालयांची स्वायत्तता का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न्यायनिष्ठ निर्णयासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकीय हस्तक्षेपासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खर्च कमी करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायनिष्ठ निर्णयासाठी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भारतात किती स्तरांची न्यायालये आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "उच्च न्यायालये कोणत्या राज्यात असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रत्येक जिल्ह्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्येक राज्यात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रत्येक तालुक्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रत्येक गावात",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्येक राज्यात"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "सर्वोच्च न्यायालयाचे मुख्यालय कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोलकाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवी दिल्ली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चेन्नई",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवी दिल्ली"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "न्यायालयांचे निर्णय कोणावर बंधनकारक असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ नागरिकांवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वांवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "न्यायाधीशांवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांवर"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेची स्वायत्तता कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संविधानामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माध्यमांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्षांमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "संविधानामुळे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्था कोणत्या शासनपद्धतीचा भाग आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्यकारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विधिमंडळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायपालिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रशासन",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायपालिका"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेचा प्रमुख कोण असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रधानमंत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रपती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुख्य न्यायाधीश",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसभा अध्यक्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुख्य न्यायाधीश"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेची सर्वोच्च संस्था कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उच्च न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्र न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वोच्च न्यायालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जिल्हा न्यायालय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वोच्च न्यायालय"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कायदे करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कायद्यांची अंमलबजावणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायदान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निवडणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायदान"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "न्यायालयांची स्वायत्तता का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न्यायनिष्ठ निर्णयासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकीय हस्तक्षेपासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खर्च कमी करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायनिष्ठ निर्णयासाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारतात किती स्तरांची न्यायालये आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "उच्च न्यायालये कोणत्या राज्यात असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रत्येक जिल्ह्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्येक राज्यात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रत्येक तालुक्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रत्येक गावात",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्येक राज्यात"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "सर्वोच्च न्यायालयाचे मुख्यालय कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोलकाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवी दिल्ली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चेन्नई",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवी दिल्ली"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "न्यायालयांचे निर्णय कोणावर बंधनकारक असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ नागरिकांवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वांवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "न्यायाधीशांवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांवर"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेची स्वायत्तता कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संविधानामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माध्यमांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्षांमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "संविधानामुळे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्था कोणत्या शासनपद्धतीचा भाग आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्यकारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विधिमंडळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायपालिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रशासन",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायपालिका"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेचा प्रमुख कोण असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रधानमंत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रपती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुख्य न्यायाधीश",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसभा अध्यक्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुख्य न्यायाधीश"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "भारतीय न्यायव्यवस्थेची सर्वोच्च संस्था कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उच्च न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्र न्यायालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वोच्च न्यायालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जिल्हा न्यायालय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वोच्च न्यायालय"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कायदे करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कायद्यांची अंमलबजावणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायदान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निवडणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायदान"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "न्यायालयांची स्वायत्तता का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न्यायनिष्ठ निर्णयासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकीय हस्तक्षेपासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खर्च कमी करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायनिष्ठ निर्णयासाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "भारतात किती स्तरांची न्यायालये आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "उच्च न्यायालये कोणत्या राज्यात असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रत्येक जिल्ह्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्येक राज्यात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रत्येक तालुक्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रत्येक गावात",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्येक राज्यात"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "सर्वोच्च न्यायालयाचे मुख्यालय कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोलकाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवी दिल्ली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चेन्नई",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवी दिल्ली"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "न्यायालयांचे निर्णय कोणावर बंधनकारक असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ नागरिकांवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वांवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "न्यायाधीशांवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांवर"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्थेची स्वायत्तता कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संविधानामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माध्यमांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्षांमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "संविधानामुळे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "न्यायव्यवस्था कोणत्या शासनपद्धतीचा भाग आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्यकारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विधिमंडळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "न्यायपालिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रशासन",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यायपालिका"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायव्यवस्था म्हणजे काय?",
+      "answer": "कायद्यांनुसार न्याय देणारी संस्था म्हणजे भारतीय न्यायव्यवस्था होय."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्थेचे मुख्य कार्य लिहा.",
+      "answer": "न्यायदान करणे आणि मूलभूत हक्कांचे संरक्षण करणे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "न्यायालयांची स्वायत्तता म्हणजे काय?",
+      "answer": "सरकारच्या हस्तक्षेपाशिवाय निर्णय घेण्याचे स्वातंत्र्य."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "भारतीय न्यायालयांचे स्तर लिहा.",
+      "answer": "सर्वोच्च न्यायालय, उच्च न्यायालये आणि जिल्हा न्यायालये."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "न्यायव्यवस्था लोकशाहीसाठी का महत्त्वाची आहे?",
+      "answer": "ती कायद्याचे राज्य टिकवते आणि नागरिकांचे हक्क जपते."
+    }
+  ]
+}

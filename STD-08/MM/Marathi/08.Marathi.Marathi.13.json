@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.Marathi.13",
+    "standard": "8",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "पाड्यावरचा चहा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘पाड्यावरचा चहा’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कथा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या कथेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रामीण जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण जीवन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कथेत पाडा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रामीण वस्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शहर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण वस्ती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आतिथ्य व आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आतिथ्य व आपुलकी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कथेतील लोकांचे जीवन कसे दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबरयुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साधे व कष्टकरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऐषआरामी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधे व कष्टकरी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "या पाठात कोणती भावना ठळक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ग्रामीण जीवनाचे कोणते वैशिष्ट्य दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "या कथेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साधेपणाचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संपत्तीचे महत्त्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधेपणाचे महत्त्व"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कथेत चहाचा प्रसंग का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा लांबवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोदासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निरर्थक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी दाखवण्यासाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ही कथा वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘पाड्यावरचा चहा’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कथा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "या कथेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रामीण जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण जीवन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कथेत पाडा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रामीण वस्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शहर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण वस्ती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आतिथ्य व आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आतिथ्य व आपुलकी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कथेतील लोकांचे जीवन कसे दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबरयुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साधे व कष्टकरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऐषआरामी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधे व कष्टकरी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "या पाठात कोणती भावना ठळक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ग्रामीण जीवनाचे कोणते वैशिष्ट्य दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "या कथेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साधेपणाचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संपत्तीचे महत्त्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधेपणाचे महत्त्व"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कथेत चहाचा प्रसंग का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा लांबवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोदासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निरर्थक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी दाखवण्यासाठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ही कथा वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘पाड्यावरचा चहा’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कथा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "या कथेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रामीण जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण जीवन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कथेत पाडा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रामीण वस्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शहर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण वस्ती"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आतिथ्य व आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आतिथ्य व आपुलकी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कथेतील लोकांचे जीवन कसे दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबरयुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साधे व कष्टकरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऐषआरामी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधे व कष्टकरी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "या पाठात कोणती भावना ठळक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ग्रामीण जीवनाचे कोणते वैशिष्ट्य दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "या कथेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साधेपणाचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संपत्तीचे महत्त्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधेपणाचे महत्त्व"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कथेत चहाचा प्रसंग का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा लांबवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोदासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निरर्थक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी दाखवण्यासाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ही कथा वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘पाड्यावरचा चहा’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कथा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "या कथेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रामीण जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण जीवन"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कथेत पाडा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रामीण वस्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शहर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण वस्ती"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आतिथ्य व आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आतिथ्य व आपुलकी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कथेतील लोकांचे जीवन कसे दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबरयुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साधे व कष्टकरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऐषआरामी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधे व कष्टकरी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "या पाठात कोणती भावना ठळक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "ग्रामीण जीवनाचे कोणते वैशिष्ट्य दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "या कथेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साधेपणाचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संपत्तीचे महत्त्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधेपणाचे महत्त्व"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कथेत चहाचा प्रसंग का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा लांबवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोदासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निरर्थक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी दाखवण्यासाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "ही कथा वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘पाड्यावरचा चहा’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कथा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "या कथेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रामीण जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण जीवन"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कथेत पाडा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रामीण वस्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शहर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण वस्ती"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आतिथ्य व आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आतिथ्य व आपुलकी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कथेतील लोकांचे जीवन कसे दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आडंबरयुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साधे व कष्टकरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऐषआरामी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधे व कष्टकरी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "या पाठात कोणती भावना ठळक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "ग्रामीण जीवनाचे कोणते वैशिष्ट्य दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "या कथेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साधेपणाचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संपत्तीचे महत्त्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधेपणाचे महत्त्व"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कथेत चहाचा प्रसंग का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा लांबवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोदासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निरर्थक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी दाखवण्यासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "ही कथा वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "‘पाड्यावरचा चहा’ या कथेचा आशय लिहा.",
+      "answer": "या कथेत ग्रामीण भागातील साधेपणा, आपुलकी व माणुसकीचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "कथेत चहा कशाचे प्रतीक आहे?",
+      "answer": "चहा हा आपुलकी, आदरातिथ्य व माणुसकीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "ग्रामीण जीवनाचे वैशिष्ट्ये लिहा.",
+      "answer": "साधेपणा, कष्टाळूपणा व परस्पर सहकार्य ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुख्य संदेश लिहा.",
+      "answer": "साध्या जीवनातही माणुसकी व आनंद असतो हा संदेश आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "ही कथा विद्यार्थ्यांना काय शिकवते?",
+      "answer": "आपुलकी व मानवतेचे महत्त्व शिकवते."
+    }
+  ]
+}

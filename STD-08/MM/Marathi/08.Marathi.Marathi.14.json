@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.Marathi.14",
+    "standard": "8",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "फुलपाखरे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बालपण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांचे वर्णन कसे केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रंगीत व मुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व मुक्त"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे कशाचे प्रतीक मानले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांची हालचाल कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुक्तपणे उडणारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जड",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्तपणे उडणारी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ कवितेत कोणती भावना व्यक्त होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याची ओढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व काव्यमय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गंभीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तांत्रिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व काव्यमय"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे पाहून कवीला काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद व प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद व प्रेरणा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "या कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन स्वीकारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याचा आनंद घ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास रहा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्याचा आनंद घ्या"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बालपण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांचे वर्णन कसे केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रंगीत व मुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व मुक्त"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे कशाचे प्रतीक मानले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांची हालचाल कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुक्तपणे उडणारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जड",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्तपणे उडणारी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ कवितेत कोणती भावना व्यक्त होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याची ओढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व काव्यमय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गंभीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तांत्रिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व काव्यमय"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे पाहून कवीला काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद व प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद व प्रेरणा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "या कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन स्वीकारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याचा आनंद घ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास रहा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्याचा आनंद घ्या"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बालपण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांचे वर्णन कसे केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रंगीत व मुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व मुक्त"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे कशाचे प्रतीक मानले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांची हालचाल कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुक्तपणे उडणारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जड",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्तपणे उडणारी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ कवितेत कोणती भावना व्यक्त होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याची ओढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व काव्यमय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गंभीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तांत्रिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व काव्यमय"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे पाहून कवीला काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद व प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद व प्रेरणा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "या कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन स्वीकारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याचा आनंद घ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास रहा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्याचा आनंद घ्या"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बालपण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांचे वर्णन कसे केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रंगीत व मुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व मुक्त"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे कशाचे प्रतीक मानले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांची हालचाल कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुक्तपणे उडणारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जड",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्तपणे उडणारी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ कवितेत कोणती भावना व्यक्त होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याची ओढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व काव्यमय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गंभीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तांत्रिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व काव्यमय"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे पाहून कवीला काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद व प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद व प्रेरणा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "या कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन स्वीकारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याचा आनंद घ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास रहा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्याचा आनंद घ्या"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बालपण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांचे वर्णन कसे केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रंगीत व मुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व मुक्त"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे कशाचे प्रतीक मानले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कवितेत फुलपाखरांची हालचाल कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुक्तपणे उडणारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जड",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्तपणे उडणारी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "‘फुलपाखरे’ कवितेत कोणती भावना व्यक्त होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याची ओढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व काव्यमय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गंभीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तांत्रिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व काव्यमय"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे पाहून कवीला काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद व प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद व प्रेरणा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "या कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधन स्वीकारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्याचा आनंद घ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास रहा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्याचा आनंद घ्या"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचताना कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "‘फुलपाखरे’ या कवितेचा आशय लिहा.",
+      "answer": "या कवितेत कवीने फुलपाखरांच्या माध्यमातून स्वातंत्र्य, आनंद व निसर्गसौंदर्य व्यक्त केले आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "फुलपाखरे कशाचे प्रतीक आहेत?",
+      "answer": "फुलपाखरे स्वातंत्र्य व मुक्त जीवनाचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावना व्यक्त झाल्या आहेत?",
+      "answer": "आनंद, उत्साह व स्वातंत्र्याची ओढ या भावना व्यक्त झाल्या आहेत."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश लिहा.",
+      "answer": "स्वातंत्र्याचा आनंद घ्यावा व जीवन मुक्तपणे जगावे हा संदेश आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "answer": "ती निसर्गप्रेम व स्वातंत्र्याची जाणीव करून देते."
+    }
+  ]
+}

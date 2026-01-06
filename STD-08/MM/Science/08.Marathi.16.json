@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.16",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "प्रकाशाचे परावर्तन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "प्रकाश म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाशाचे परत येणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश विघटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाशाचे परत येणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचे नियम किती आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "समतल आरशात प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काल्पनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "काल्पनिक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिरकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमेचे अंतर कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अनिश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "आरसा कोणत्या पदार्थाचा बनलेला असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लाकूड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रबर",
+          "is_correct": false
+        }
+      ],
+      "answer": "काच"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचा कोन कोणत्या कोनास सम आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपतन कोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन कोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीव्रता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपतन कोन"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "प्रकाश कोणत्या वेगाने प्रवास करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अतिवेगाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अतिवेगाने"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "परावर्तनासाठी कोणती पृष्ठभाग आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गुळगुळीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ओलसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मऊ",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुळगुळीत"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "प्रकाश म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाशाचे परत येणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश विघटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाशाचे परत येणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचे नियम किती आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "समतल आरशात प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काल्पनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "काल्पनिक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिरकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमेचे अंतर कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अनिश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "आरसा कोणत्या पदार्थाचा बनलेला असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लाकूड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रबर",
+          "is_correct": false
+        }
+      ],
+      "answer": "काच"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचा कोन कोणत्या कोनास सम आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपतन कोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन कोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीव्रता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपतन कोन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "प्रकाश कोणत्या वेगाने प्रवास करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अतिवेगाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अतिवेगाने"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "परावर्तनासाठी कोणती पृष्ठभाग आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गुळगुळीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ओलसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मऊ",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुळगुळीत"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "प्रकाश म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाशाचे परत येणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश विघटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाशाचे परत येणे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचे नियम किती आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "समतल आरशात प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काल्पनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "काल्पनिक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिरकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमेचे अंतर कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अनिश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "आरसा कोणत्या पदार्थाचा बनलेला असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लाकूड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रबर",
+          "is_correct": false
+        }
+      ],
+      "answer": "काच"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचा कोन कोणत्या कोनास सम आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपतन कोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन कोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीव्रता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपतन कोन"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "प्रकाश कोणत्या वेगाने प्रवास करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अतिवेगाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अतिवेगाने"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "परावर्तनासाठी कोणती पृष्ठभाग आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गुळगुळीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ओलसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मऊ",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुळगुळीत"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "प्रकाश म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाशाचे परत येणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश विघटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाशाचे परत येणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचे नियम किती आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "समतल आरशात प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काल्पनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "काल्पनिक"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिरकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमेचे अंतर कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अनिश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "आरसा कोणत्या पदार्थाचा बनलेला असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लाकूड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रबर",
+          "is_correct": false
+        }
+      ],
+      "answer": "काच"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचा कोन कोणत्या कोनास सम आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपतन कोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन कोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीव्रता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपतन कोन"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "प्रकाश कोणत्या वेगाने प्रवास करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अतिवेगाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अतिवेगाने"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "परावर्तनासाठी कोणती पृष्ठभाग आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गुळगुळीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ओलसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मऊ",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुळगुळीत"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "प्रकाश म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाशाचे परत येणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश विघटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाशाचे परत येणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचे नियम किती आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "समतल आरशात प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काल्पनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "काल्पनिक"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिरकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "समतल आरशातील प्रतिमेचे अंतर कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अनिश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "आरसा कोणत्या पदार्थाचा बनलेला असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लाकूड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रबर",
+          "is_correct": false
+        }
+      ],
+      "answer": "काच"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "परावर्तनाचा कोन कोणत्या कोनास सम आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपतन कोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन कोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीव्रता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपतन कोन"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "प्रकाश कोणत्या वेगाने प्रवास करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अतिवेगाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अतिवेगाने"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "परावर्तनासाठी कोणती पृष्ठभाग आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गुळगुळीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ओलसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मऊ",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुळगुळीत"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "प्रकाशाची व्याख्या लिहा.",
+      "answer": "ज्यामुळे वस्तू दिसतात ती ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण पृष्ठभागावर आदळून परत येण्यास प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "परावर्तनाचे नियम लिहा.",
+      "answer": "आपतन कोन व परावर्तन कोन समान असतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "समतल आरशातील प्रतिमा कशी असते?",
+      "answer": "समतल आरशातील प्रतिमा काल्पनिक व सरळ असते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "आरशाचा एक उपयोग लिहा.",
+      "answer": "आरसा प्रतिमा पाहण्यासाठी वापरतात."
+    }
+  ]
+}

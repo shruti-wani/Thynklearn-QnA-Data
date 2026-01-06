@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.04",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "धाराविद्युत आणि चुंबकत्व"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "धाराविद्युत म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णतेचा प्रवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युत भारांचे स्थिर स्वरूप",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी तरंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय क्षेत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत भारांचे स्थिर स्वरूप"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "विद्युत भारांचे प्रकार कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन व ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण व थंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड व हलके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर व गतिमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन व ऋण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "काच दांड्यावर रेशीम कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "धनभार"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रबर दांड्यावर लोकरीचे कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋणभार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "विद्युत वाहक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "तांबे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "विद्युत रोधक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अॅल्युमिनियम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "समान विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "विकर्षित"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भिन्न विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकर्षित"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "चुंबकाला किती ध्रुव असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "चुंबकाचे ध्रुव कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व-पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर-दक्षिण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वर-खाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डावे-उजवे",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर-दक्षिण"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "धाराविद्युत म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णतेचा प्रवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युत भारांचे स्थिर स्वरूप",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी तरंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय क्षेत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत भारांचे स्थिर स्वरूप"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "विद्युत भारांचे प्रकार कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन व ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण व थंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड व हलके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर व गतिमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन व ऋण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "काच दांड्यावर रेशीम कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "धनभार"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "रबर दांड्यावर लोकरीचे कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋणभार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "विद्युत वाहक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "तांबे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "विद्युत रोधक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अॅल्युमिनियम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "समान विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "विकर्षित"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भिन्न विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकर्षित"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "चुंबकाला किती ध्रुव असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "चुंबकाचे ध्रुव कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व-पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर-दक्षिण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वर-खाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डावे-उजवे",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर-दक्षिण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "धाराविद्युत म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णतेचा प्रवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युत भारांचे स्थिर स्वरूप",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी तरंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय क्षेत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत भारांचे स्थिर स्वरूप"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "विद्युत भारांचे प्रकार कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन व ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण व थंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड व हलके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर व गतिमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन व ऋण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "काच दांड्यावर रेशीम कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "धनभार"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "रबर दांड्यावर लोकरीचे कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋणभार"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "विद्युत वाहक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "तांबे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "विद्युत रोधक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अॅल्युमिनियम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "समान विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "विकर्षित"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "भिन्न विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकर्षित"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "चुंबकाला किती ध्रुव असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "चुंबकाचे ध्रुव कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व-पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर-दक्षिण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वर-खाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डावे-उजवे",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर-दक्षिण"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "धाराविद्युत म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णतेचा प्रवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युत भारांचे स्थिर स्वरूप",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी तरंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय क्षेत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत भारांचे स्थिर स्वरूप"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "विद्युत भारांचे प्रकार कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन व ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण व थंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड व हलके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर व गतिमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन व ऋण"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "काच दांड्यावर रेशीम कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "धनभार"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "रबर दांड्यावर लोकरीचे कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋणभार"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "विद्युत वाहक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "तांबे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "विद्युत रोधक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अॅल्युमिनियम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "समान विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "विकर्षित"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "भिन्न विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकर्षित"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "चुंबकाला किती ध्रुव असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "चुंबकाचे ध्रुव कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व-पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर-दक्षिण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वर-खाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डावे-उजवे",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर-दक्षिण"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "धाराविद्युत म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णतेचा प्रवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युत भारांचे स्थिर स्वरूप",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी तरंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय क्षेत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत भारांचे स्थिर स्वरूप"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "विद्युत भारांचे प्रकार कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन व ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण व थंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड व हलके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर व गतिमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन व ऋण"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "काच दांड्यावर रेशीम कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "धनभार"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "रबर दांड्यावर लोकरीचे कापड घासल्यास कोणता भार निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धनभार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋणभार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋणभार"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "विद्युत वाहक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "तांबे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "विद्युत रोधक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अॅल्युमिनियम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "समान विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "विकर्षित"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "भिन्न विद्युत भार एकमेकांना काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विकर्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकर्षित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकर्षित"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "चुंबकाला किती ध्रुव असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "चुंबकाचे ध्रुव कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व-पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर-दक्षिण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वर-खाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डावे-उजवे",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर-दक्षिण"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "धाराविद्युत भार म्हणजे काय?",
+      "answer": "घासण्यामुळे वस्तूवर निर्माण होणारा स्थिर विद्युत भार म्हणजे धाराविद्युत भार."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "विद्युत वाहक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकतो त्यांना विद्युत वाहक म्हणतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "विद्युत रोधक म्हणजे काय?",
+      "answer": "ज्या पदार्थांमधून विद्युत प्रवाह जाऊ शकत नाही त्यांना विद्युत रोधक म्हणतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाला लोखंड आकर्षित करण्याची क्षमता असते तो चुंबक होय."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकाच्या सभोवतालचा प्रभाव क्षेत्र म्हणजे चुंबकीय क्षेत्र."
+    }
+  ]
+}

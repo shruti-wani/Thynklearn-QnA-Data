@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Hindi.03",
+    "standard": "8",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "नन्हीं-सी चिड़िया की बढ़ती हुई उड़ान"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘नन्हीं-सी चिड़िया की बढ़ती हुई उड़ान’ पाठ का प्रकार क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कहानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कविता का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास और प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकृति विनाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास और प्रगति"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कविता में चिड़िया किसका प्रतीक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमज़ोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बालमन/आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "असफलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "बालमन/आत्मविश्वास"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चिड़िया की उड़ान क्या दर्शाती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रुकावट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रगति"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कविता में किस भावना पर बल है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कविता का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार मानो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लगातार प्रयास करो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डरो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रुको",
+          "is_correct": false
+        }
+      ],
+      "answer": "लगातार प्रयास करो"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "चिड़िया शुरुआत में कैसी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निडर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डरी हुई",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आत्मविश्वासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोधित",
+          "is_correct": false
+        }
+      ],
+      "answer": "डरी हुई"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "धीरे-धीरे चिड़िया क्या सीखती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उड़ना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भागना",
+          "is_correct": false
+        }
+      ],
+      "answer": "उड़ना"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कविता किस आयु वर्ग के लिए प्रेरक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवल वयस्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवल बच्चे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सभी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कविता का भाव किससे जुड़ा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पराजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘नन्हीं-सी चिड़िया की बढ़ती हुई उड़ान’ पाठ का प्रकार क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कहानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कविता का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास और प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकृति विनाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास और प्रगति"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कविता में चिड़िया किसका प्रतीक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमज़ोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बालमन/आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "असफलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "बालमन/आत्मविश्वास"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "चिड़िया की उड़ान क्या दर्शाती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रुकावट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रगति"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कविता में किस भावना पर बल है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कविता का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार मानो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लगातार प्रयास करो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डरो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रुको",
+          "is_correct": false
+        }
+      ],
+      "answer": "लगातार प्रयास करो"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "चिड़िया शुरुआत में कैसी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निडर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डरी हुई",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आत्मविश्वासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोधित",
+          "is_correct": false
+        }
+      ],
+      "answer": "डरी हुई"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "धीरे-धीरे चिड़िया क्या सीखती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उड़ना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भागना",
+          "is_correct": false
+        }
+      ],
+      "answer": "उड़ना"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कविता किस आयु वर्ग के लिए प्रेरक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवल वयस्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवल बच्चे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सभी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कविता का भाव किससे जुड़ा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पराजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘नन्हीं-सी चिड़िया की बढ़ती हुई उड़ान’ पाठ का प्रकार क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कहानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कविता का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास और प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकृति विनाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास और प्रगति"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कविता में चिड़िया किसका प्रतीक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमज़ोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बालमन/आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "असफलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "बालमन/आत्मविश्वास"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "चिड़िया की उड़ान क्या दर्शाती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रुकावट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रगति"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कविता में किस भावना पर बल है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कविता का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार मानो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लगातार प्रयास करो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डरो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रुको",
+          "is_correct": false
+        }
+      ],
+      "answer": "लगातार प्रयास करो"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "चिड़िया शुरुआत में कैसी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निडर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डरी हुई",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आत्मविश्वासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोधित",
+          "is_correct": false
+        }
+      ],
+      "answer": "डरी हुई"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "धीरे-धीरे चिड़िया क्या सीखती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उड़ना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भागना",
+          "is_correct": false
+        }
+      ],
+      "answer": "उड़ना"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कविता किस आयु वर्ग के लिए प्रेरक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवल वयस्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवल बच्चे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सभी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कविता का भाव किससे जुड़ा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पराजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘नन्हीं-सी चिड़िया की बढ़ती हुई उड़ान’ पाठ का प्रकार क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कहानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कविता का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास और प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकृति विनाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास और प्रगति"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कविता में चिड़िया किसका प्रतीक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमज़ोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बालमन/आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "असफलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "बालमन/आत्मविश्वास"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "चिड़िया की उड़ान क्या दर्शाती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रुकावट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रगति"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कविता में किस भावना पर बल है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कविता का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार मानो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लगातार प्रयास करो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डरो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रुको",
+          "is_correct": false
+        }
+      ],
+      "answer": "लगातार प्रयास करो"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "चिड़िया शुरुआत में कैसी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निडर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डरी हुई",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आत्मविश्वासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोधित",
+          "is_correct": false
+        }
+      ],
+      "answer": "डरी हुई"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "धीरे-धीरे चिड़िया क्या सीखती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उड़ना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भागना",
+          "is_correct": false
+        }
+      ],
+      "answer": "उड़ना"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कविता किस आयु वर्ग के लिए प्रेरक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवल वयस्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवल बच्चे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सभी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कविता का भाव किससे जुड़ा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पराजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘नन्हीं-सी चिड़िया की बढ़ती हुई उड़ान’ पाठ का प्रकार क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कहानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कविता का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास और प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकृति विनाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास और प्रगति"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कविता में चिड़िया किसका प्रतीक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमज़ोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बालमन/आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "असफलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "बालमन/आत्मविश्वास"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "चिड़िया की उड़ान क्या दर्शाती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रुकावट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रगति"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कविता में किस भावना पर बल है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कविता का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार मानो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लगातार प्रयास करो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डरो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रुको",
+          "is_correct": false
+        }
+      ],
+      "answer": "लगातार प्रयास करो"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "चिड़िया शुरुआत में कैसी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निडर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डरी हुई",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आत्मविश्वासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोधित",
+          "is_correct": false
+        }
+      ],
+      "answer": "डरी हुई"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "धीरे-धीरे चिड़िया क्या सीखती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उड़ना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भागना",
+          "is_correct": false
+        }
+      ],
+      "answer": "उड़ना"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कविता किस आयु वर्ग के लिए प्रेरक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवल वयस्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवल बच्चे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सभी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कविता का भाव किससे जुड़ा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पराजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता हमें निरंतर प्रयास और आत्मविश्वास के साथ आगे बढ़ने की प्रेरणा देती है।"
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "चिड़िया किसका प्रतीक है?",
+      "answer": "चिड़िया आत्मविश्वास और सीखने की प्रक्रिया का प्रतीक है।"
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "कविता में उड़ान का क्या अर्थ है?",
+      "answer": "उड़ान प्रगति और सफलता की ओर बढ़ने का संकेत है।"
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "कविता से विद्यार्थियों को क्या सीख मिलती है?",
+      "answer": "विद्यार्थियों को धैर्य और निरंतर प्रयास की सीख मिलती है।"
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "यह कविता प्रेरक क्यों है?",
+      "answer": "क्योंकि यह छोटे प्रयासों से बड़ी सफलता का संदेश देती है।"
+    }
+  ]
+}

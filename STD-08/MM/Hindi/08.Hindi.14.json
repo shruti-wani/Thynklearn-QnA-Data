@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Hindi.14",
+    "standard": "8",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "खेत से आई तबदीली"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि में परिवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शहर जीवन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि में परिवर्तन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पाठ में किस परिवर्तन का वर्णन है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषि और तकनीकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजनीतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सामाजिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि और तकनीकी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खेतों में बदलाव किस कारण आया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन तकनीक और मेहनत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन तकनीक और मेहनत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "किससे किसानों की स्थिति में सुधार हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि सुधार से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भाग्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध से",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि सुधार से"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पाठ किस मूल्य पर बल देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिश्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "किसान का जीवन कैसे बदला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बेहतर हुआ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खराब हुआ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जैसा का तैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेहतर हुआ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पाठ में आधुनिक कृषि का क्या लाभ बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अधिक उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कम काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक उत्पादन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कृषि परिवर्तन से समाज को क्या लाभ हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आर्थिक प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अशांति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्थिक प्रगति"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाठ का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिवर्तन आवश्यक है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरना चाहिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाग्य सब कुछ है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य ठीक है",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिवर्तन आवश्यक है"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "यह पाठ विद्यार्थियों को क्या सिखाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनत और नवाचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनत और नवाचार"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि में परिवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शहर जीवन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि में परिवर्तन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाठ में किस परिवर्तन का वर्णन है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषि और तकनीकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजनीतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सामाजिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि और तकनीकी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खेतों में बदलाव किस कारण आया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन तकनीक और मेहनत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन तकनीक और मेहनत"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "किससे किसानों की स्थिति में सुधार हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि सुधार से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भाग्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध से",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि सुधार से"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाठ किस मूल्य पर बल देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिश्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "किसान का जीवन कैसे बदला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बेहतर हुआ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खराब हुआ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जैसा का तैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेहतर हुआ"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पाठ में आधुनिक कृषि का क्या लाभ बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अधिक उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कम काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक उत्पादन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कृषि परिवर्तन से समाज को क्या लाभ हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आर्थिक प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अशांति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्थिक प्रगति"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पाठ का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिवर्तन आवश्यक है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरना चाहिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाग्य सब कुछ है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य ठीक है",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिवर्तन आवश्यक है"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "यह पाठ विद्यार्थियों को क्या सिखाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनत और नवाचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनत और नवाचार"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि में परिवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शहर जीवन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि में परिवर्तन"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाठ में किस परिवर्तन का वर्णन है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषि और तकनीकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजनीतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सामाजिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि और तकनीकी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "खेतों में बदलाव किस कारण आया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन तकनीक और मेहनत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन तकनीक और मेहनत"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "किससे किसानों की स्थिति में सुधार हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि सुधार से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भाग्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध से",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि सुधार से"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाठ किस मूल्य पर बल देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिश्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "किसान का जीवन कैसे बदला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बेहतर हुआ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खराब हुआ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जैसा का तैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेहतर हुआ"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पाठ में आधुनिक कृषि का क्या लाभ बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अधिक उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कम काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक उत्पादन"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कृषि परिवर्तन से समाज को क्या लाभ हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आर्थिक प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अशांति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्थिक प्रगति"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाठ का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिवर्तन आवश्यक है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरना चाहिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाग्य सब कुछ है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य ठीक है",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिवर्तन आवश्यक है"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "यह पाठ विद्यार्थियों को क्या सिखाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनत और नवाचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनत और नवाचार"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि में परिवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शहर जीवन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि में परिवर्तन"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पाठ में किस परिवर्तन का वर्णन है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषि और तकनीकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजनीतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सामाजिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि और तकनीकी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "खेतों में बदलाव किस कारण आया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन तकनीक और मेहनत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन तकनीक और मेहनत"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "किससे किसानों की स्थिति में सुधार हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि सुधार से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भाग्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध से",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि सुधार से"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पाठ किस मूल्य पर बल देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिश्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "किसान का जीवन कैसे बदला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बेहतर हुआ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खराब हुआ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जैसा का तैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेहतर हुआ"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पाठ में आधुनिक कृषि का क्या लाभ बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अधिक उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कम काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक उत्पादन"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कृषि परिवर्तन से समाज को क्या लाभ हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आर्थिक प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अशांति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्थिक प्रगति"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पाठ का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिवर्तन आवश्यक है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरना चाहिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाग्य सब कुछ है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य ठीक है",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिवर्तन आवश्यक है"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "यह पाठ विद्यार्थियों को क्या सिखाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनत और नवाचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनत और नवाचार"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि में परिवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शहर जीवन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि में परिवर्तन"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "पाठ में किस परिवर्तन का वर्णन है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषि और तकनीकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजनीतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सामाजिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि और तकनीकी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "खेतों में बदलाव किस कारण आया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन तकनीक और मेहनत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन तकनीक और मेहनत"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "किससे किसानों की स्थिति में सुधार हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषि सुधार से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भाग्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध से",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृषि सुधार से"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "पाठ किस मूल्य पर बल देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिश्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "किसान का जीवन कैसे बदला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बेहतर हुआ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खराब हुआ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जैसा का तैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेहतर हुआ"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पाठ में आधुनिक कृषि का क्या लाभ बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अधिक उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कम काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक उत्पादन"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कृषि परिवर्तन से समाज को क्या लाभ हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आर्थिक प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अशांति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानि",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्थिक प्रगति"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पाठ का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिवर्तन आवश्यक है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरना चाहिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाग्य सब कुछ है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य ठीक है",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिवर्तन आवश्यक है"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "यह पाठ विद्यार्थियों को क्या सिखाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनत और नवाचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनत और नवाचार"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "‘खेत से आई तबदीली’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ कृषि में आए सकारात्मक परिवर्तनों और उनके लाभों को दर्शाता है।"
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "किसानों के जीवन में क्या बदलाव आया?",
+      "answer": "आधुनिक कृषि तकनीकों से किसानों का जीवन बेहतर हुआ।"
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "कृषि में परिवर्तन क्यों आवश्यक है?",
+      "answer": "अधिक उत्पादन और बेहतर जीवन के लिए कृषि में परिवर्तन आवश्यक है।"
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का क्या महत्व बताया गया है?",
+      "answer": "परिश्रम से ही परिवर्तन और प्रगति संभव है।"
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "यह पाठ विद्यार्थियों के लिए क्यों उपयोगी है?",
+      "answer": "यह उन्हें मेहनत, नवाचार और विकास का महत्व सिखाता है।"
+    }
+  ]
+}

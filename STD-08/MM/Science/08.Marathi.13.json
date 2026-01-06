@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.13",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "रासायनिक बदल व रासायनिक बंध"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकार बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन पदार्थ तयार होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी रासायनिक बदल कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोखंड गंजणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कापड वाळवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोखंड गंजणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणूंमधील आकर्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अणूंमधील विकर्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणूंचे विभाजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणूंमधील आकर्षण"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आयनिक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉनांची देवाणघेवाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूट्रॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सहसंयोजक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन देणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉन घेणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची साझेदारी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता भौतिक बदल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दूध आंबणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड गंजणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कागद फाडणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लाकूड जळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कागद फाडणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदलात काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन पदार्थ तयार होतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त आकार बदलतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होतो"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "बंधन ऊर्जेचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंध तोडण्यासाठी लागणारी ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा निर्माण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंध तोडण्यासाठी लागणारी ऊर्जा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "रेणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन किंवा अधिक अणूंचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एक अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन किंवा अधिक अणूंचा समूह"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल कायमस्वरूपी असतो का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कधी कधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "होय"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकार बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन पदार्थ तयार होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होणे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी रासायनिक बदल कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोखंड गंजणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कापड वाळवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोखंड गंजणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणूंमधील आकर्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अणूंमधील विकर्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणूंचे विभाजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणूंमधील आकर्षण"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "आयनिक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉनांची देवाणघेवाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूट्रॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सहसंयोजक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन देणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉन घेणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची साझेदारी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता भौतिक बदल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दूध आंबणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड गंजणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कागद फाडणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लाकूड जळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कागद फाडणे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदलात काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन पदार्थ तयार होतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त आकार बदलतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होतो"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बंधन ऊर्जेचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंध तोडण्यासाठी लागणारी ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा निर्माण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंध तोडण्यासाठी लागणारी ऊर्जा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "रेणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन किंवा अधिक अणूंचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एक अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन किंवा अधिक अणूंचा समूह"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल कायमस्वरूपी असतो का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कधी कधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "होय"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकार बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन पदार्थ तयार होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी रासायनिक बदल कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोखंड गंजणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कापड वाळवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोखंड गंजणे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणूंमधील आकर्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अणूंमधील विकर्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणूंचे विभाजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणूंमधील आकर्षण"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आयनिक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉनांची देवाणघेवाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूट्रॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सहसंयोजक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन देणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉन घेणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची साझेदारी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता भौतिक बदल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दूध आंबणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड गंजणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कागद फाडणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लाकूड जळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कागद फाडणे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदलात काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन पदार्थ तयार होतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त आकार बदलतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होतो"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "बंधन ऊर्जेचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंध तोडण्यासाठी लागणारी ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा निर्माण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंध तोडण्यासाठी लागणारी ऊर्जा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "रेणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन किंवा अधिक अणूंचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एक अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन किंवा अधिक अणूंचा समूह"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल कायमस्वरूपी असतो का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कधी कधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "होय"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकार बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन पदार्थ तयार होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी रासायनिक बदल कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोखंड गंजणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कापड वाळवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोखंड गंजणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणूंमधील आकर्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अणूंमधील विकर्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणूंचे विभाजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणूंमधील आकर्षण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "आयनिक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉनांची देवाणघेवाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूट्रॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "सहसंयोजक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन देणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉन घेणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची साझेदारी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता भौतिक बदल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दूध आंबणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड गंजणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कागद फाडणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लाकूड जळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कागद फाडणे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदलात काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन पदार्थ तयार होतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त आकार बदलतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होतो"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "बंधन ऊर्जेचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंध तोडण्यासाठी लागणारी ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा निर्माण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंध तोडण्यासाठी लागणारी ऊर्जा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "रेणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन किंवा अधिक अणूंचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एक अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन किंवा अधिक अणूंचा समूह"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल कायमस्वरूपी असतो का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कधी कधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "होय"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकार बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन पदार्थ तयार होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होणे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी रासायनिक बदल कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोखंड गंजणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कापड वाळवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोखंड गंजणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणूंमधील आकर्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अणूंमधील विकर्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणूंचे विभाजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणूंमधील आकर्षण"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "आयनिक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉनांची देवाणघेवाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूट्रॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "सहसंयोजक बंध कशामुळे तयार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन देणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉन घेणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनांची साझेदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनांची साझेदारी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता भौतिक बदल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दूध आंबणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड गंजणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कागद फाडणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लाकूड जळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कागद फाडणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदलात काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन पदार्थ तयार होतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त आकार बदलतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ तयार होतो"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "बंधन ऊर्जेचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंध तोडण्यासाठी लागणारी ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा निर्माण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंध तोडण्यासाठी लागणारी ऊर्जा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "रेणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन किंवा अधिक अणूंचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एक अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन किंवा अधिक अणूंचा समूह"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदल कायमस्वरूपी असतो का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कधी कधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "होय"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाची व्याख्या लिहा.",
+      "answer": "ज्या बदलात नवीन पदार्थ तयार होतो त्याला रासायनिक बदल म्हणतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "ज्या बदलात पदार्थाचे स्वरूप बदलते पण नवीन पदार्थ तयार होत नाही तो भौतिक बदल."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "रासायनिक बंध म्हणजे काय?",
+      "answer": "अणूंना एकत्र बांधून ठेवणारे आकर्षण म्हणजे रासायनिक बंध."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची देवाणघेवाण होऊन तयार होणारा बंध म्हणजे आयनिक बंध."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "सहसंयोजक बंध म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची साझेदारी होऊन तयार होणारा बंध म्हणजे सहसंयोजक बंध."
+    }
+  ]
+}

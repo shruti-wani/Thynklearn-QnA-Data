@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.Geography.03",
+    "standard": "8",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "आर्द्रता व ढग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील पाण्याच्या वाफेचे प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील पाण्याच्या वाफेचे प्रमाण"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हवेतील आर्द्रता मोजण्यासाठी कोणते उपकरण वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थर्मामीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हायग्रोमीटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बॅरोमीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अॅनेमोमीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "हायग्रोमीटर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील एकूण वाफ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील वाफेचे टक्केवारी प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचे प्रमाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील वाफेचे टक्केवारी प्रमाण"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हवेचे संतृप्ती बिंदू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाफेचे कमाल धारण क्षमतेचे बिंदू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचा बिंदू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबाचा बिंदू",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे कमाल धारण क्षमतेचे बिंदू"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ढग कसे तयार होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धूळ व धूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जलवाष्पाचे संघनन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाऱ्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "जलवाष्पाचे संघनन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "संघनन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाफेचे द्रवरूपात रूपांतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्याचे वाफेत रूपांतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे द्रवरूपात रूपांतर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ढगांचे किती प्रमुख प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "क्युम्युलस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पातळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कापसासारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घनदाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कापसासारखे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सिरस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जाड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पातळ व पिसांसारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पातळ व पिसांसारखे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पर्जन्य देणारे ढग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सिरस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्युम्युलस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निंबस",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्ट्रॅटस",
+          "is_correct": false
+        }
+      ],
+      "answer": "निंबस"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील पाण्याच्या वाफेचे प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील पाण्याच्या वाफेचे प्रमाण"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "हवेतील आर्द्रता मोजण्यासाठी कोणते उपकरण वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थर्मामीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हायग्रोमीटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बॅरोमीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अॅनेमोमीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "हायग्रोमीटर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील एकूण वाफ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील वाफेचे टक्केवारी प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचे प्रमाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील वाफेचे टक्केवारी प्रमाण"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "हवेचे संतृप्ती बिंदू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाफेचे कमाल धारण क्षमतेचे बिंदू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचा बिंदू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबाचा बिंदू",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे कमाल धारण क्षमतेचे बिंदू"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ढग कसे तयार होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धूळ व धूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जलवाष्पाचे संघनन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाऱ्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "जलवाष्पाचे संघनन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "संघनन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाफेचे द्रवरूपात रूपांतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्याचे वाफेत रूपांतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे द्रवरूपात रूपांतर"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ढगांचे किती प्रमुख प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "क्युम्युलस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पातळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कापसासारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घनदाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कापसासारखे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "सिरस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जाड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पातळ व पिसांसारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पातळ व पिसांसारखे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पर्जन्य देणारे ढग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सिरस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्युम्युलस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निंबस",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्ट्रॅटस",
+          "is_correct": false
+        }
+      ],
+      "answer": "निंबस"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील पाण्याच्या वाफेचे प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील पाण्याच्या वाफेचे प्रमाण"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "हवेतील आर्द्रता मोजण्यासाठी कोणते उपकरण वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थर्मामीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हायग्रोमीटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बॅरोमीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अॅनेमोमीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "हायग्रोमीटर"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील एकूण वाफ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील वाफेचे टक्केवारी प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचे प्रमाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील वाफेचे टक्केवारी प्रमाण"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "हवेचे संतृप्ती बिंदू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाफेचे कमाल धारण क्षमतेचे बिंदू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचा बिंदू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबाचा बिंदू",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे कमाल धारण क्षमतेचे बिंदू"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "ढग कसे तयार होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धूळ व धूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जलवाष्पाचे संघनन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाऱ्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "जलवाष्पाचे संघनन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "संघनन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाफेचे द्रवरूपात रूपांतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्याचे वाफेत रूपांतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे द्रवरूपात रूपांतर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ढगांचे किती प्रमुख प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "क्युम्युलस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पातळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कापसासारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घनदाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कापसासारखे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सिरस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जाड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पातळ व पिसांसारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पातळ व पिसांसारखे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पर्जन्य देणारे ढग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सिरस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्युम्युलस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निंबस",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्ट्रॅटस",
+          "is_correct": false
+        }
+      ],
+      "answer": "निंबस"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील पाण्याच्या वाफेचे प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील पाण्याच्या वाफेचे प्रमाण"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "हवेतील आर्द्रता मोजण्यासाठी कोणते उपकरण वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थर्मामीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हायग्रोमीटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बॅरोमीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अॅनेमोमीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "हायग्रोमीटर"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील एकूण वाफ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील वाफेचे टक्केवारी प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचे प्रमाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील वाफेचे टक्केवारी प्रमाण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "हवेचे संतृप्ती बिंदू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाफेचे कमाल धारण क्षमतेचे बिंदू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचा बिंदू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबाचा बिंदू",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे कमाल धारण क्षमतेचे बिंदू"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "ढग कसे तयार होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धूळ व धूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जलवाष्पाचे संघनन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाऱ्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "जलवाष्पाचे संघनन"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "संघनन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाफेचे द्रवरूपात रूपांतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्याचे वाफेत रूपांतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे द्रवरूपात रूपांतर"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "ढगांचे किती प्रमुख प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "क्युम्युलस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पातळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कापसासारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घनदाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कापसासारखे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सिरस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जाड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पातळ व पिसांसारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पातळ व पिसांसारखे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पर्जन्य देणारे ढग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सिरस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्युम्युलस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निंबस",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्ट्रॅटस",
+          "is_correct": false
+        }
+      ],
+      "answer": "निंबस"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील पाण्याच्या वाफेचे प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील पाण्याच्या वाफेचे प्रमाण"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "हवेतील आर्द्रता मोजण्यासाठी कोणते उपकरण वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थर्मामीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हायग्रोमीटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बॅरोमीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अॅनेमोमीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "हायग्रोमीटर"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेतील एकूण वाफ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील वाफेचे टक्केवारी प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचे प्रमाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील वाफेचे टक्केवारी प्रमाण"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "हवेचे संतृप्ती बिंदू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाफेचे कमाल धारण क्षमतेचे बिंदू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाचा बिंदू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबाचा बिंदू",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे कमाल धारण क्षमतेचे बिंदू"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "ढग कसे तयार होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धूळ व धूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जलवाष्पाचे संघनन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाऱ्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "जलवाष्पाचे संघनन"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "संघनन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाफेचे द्रवरूपात रूपांतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्याचे वाफेत रूपांतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाफेचे द्रवरूपात रूपांतर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "ढगांचे किती प्रमुख प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "क्युम्युलस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पातळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कापसासारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घनदाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कापसासारखे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "सिरस ढग कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जाड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पातळ व पिसांसारखे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पातळ व पिसांसारखे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "पर्जन्य देणारे ढग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सिरस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्युम्युलस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निंबस",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्ट्रॅटस",
+          "is_correct": false
+        }
+      ],
+      "answer": "निंबस"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "आर्द्रतेची व्याख्या लिहा.",
+      "answer": "हवेतील पाण्याच्या वाफेच्या प्रमाणाला आर्द्रता म्हणतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "हवेत असलेल्या वाफेचे टक्केवारी प्रमाण म्हणजे सापेक्ष आर्द्रता."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "जलवाष्पाचे द्रव पाण्यात रूपांतर होण्याची प्रक्रिया म्हणजे संघनन."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "ढग कसे तयार होतात?",
+      "answer": "संघनन प्रक्रियेमुळे ढग तयार होतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "ढगांचे प्रकार लिहा.",
+      "answer": "सिरस, क्युम्युलस व निंबस हे ढगांचे प्रमुख प्रकार आहेत."
+    }
+  ]
+}

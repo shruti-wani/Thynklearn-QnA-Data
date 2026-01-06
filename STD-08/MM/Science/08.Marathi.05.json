@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.05",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "अणूचे अंतरंग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "अणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रव्याचा सर्वात लहान कण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पेशीचा भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्रव्याचा सर्वात लहान कण"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अणूचे केंद्रक कशाने बनलेले असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रोटॉन व न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉन व न्यूट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन व न्यूट्रॉन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋण"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "प्रोटॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "न्यूट्रॉनचा विद्युत भार कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ऋण व धन",
+          "is_correct": false
+        }
+      ],
+      "answer": "तटस्थ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अणुक्रमांक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉनची संख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "न्यूट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अणुभार",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉनची संख्या"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "अणुभार म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉन + न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन + न्यूट्रॉन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉन कोणत्या भागात फिरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केंद्रकात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कवचात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "न्यूट्रॉनमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉनमध्ये",
+          "is_correct": false
+        }
+      ],
+      "answer": "कवचात"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "समान अणुक्रमांक पण वेगळा अणुभार असलेल्या अणूंना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्थानिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समभारिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूलद्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्थानिक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "समभारिक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान अणुभार असलेले अणू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समान अणुक्रमांक असलेले अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेगळे मूलद्रव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रेणू",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान अणुभार असलेले अणू"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "अणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रव्याचा सर्वात लहान कण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पेशीचा भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्रव्याचा सर्वात लहान कण"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अणूचे केंद्रक कशाने बनलेले असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रोटॉन व न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉन व न्यूट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन व न्यूट्रॉन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋण"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "प्रोटॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "न्यूट्रॉनचा विद्युत भार कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ऋण व धन",
+          "is_correct": false
+        }
+      ],
+      "answer": "तटस्थ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "अणुक्रमांक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉनची संख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "न्यूट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अणुभार",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉनची संख्या"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "अणुभार म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉन + न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन + न्यूट्रॉन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉन कोणत्या भागात फिरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केंद्रकात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कवचात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "न्यूट्रॉनमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉनमध्ये",
+          "is_correct": false
+        }
+      ],
+      "answer": "कवचात"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "समान अणुक्रमांक पण वेगळा अणुभार असलेल्या अणूंना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्थानिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समभारिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूलद्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्थानिक"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "समभारिक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान अणुभार असलेले अणू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समान अणुक्रमांक असलेले अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेगळे मूलद्रव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रेणू",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान अणुभार असलेले अणू"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रव्याचा सर्वात लहान कण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पेशीचा भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्रव्याचा सर्वात लहान कण"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "अणूचे केंद्रक कशाने बनलेले असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रोटॉन व न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉन व न्यूट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन व न्यूट्रॉन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋण"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "प्रोटॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "न्यूट्रॉनचा विद्युत भार कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ऋण व धन",
+          "is_correct": false
+        }
+      ],
+      "answer": "तटस्थ"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "अणुक्रमांक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉनची संख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "न्यूट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अणुभार",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉनची संख्या"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "अणुभार म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉन + न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन + न्यूट्रॉन"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉन कोणत्या भागात फिरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केंद्रकात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कवचात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "न्यूट्रॉनमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉनमध्ये",
+          "is_correct": false
+        }
+      ],
+      "answer": "कवचात"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "समान अणुक्रमांक पण वेगळा अणुभार असलेल्या अणूंना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्थानिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समभारिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूलद्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्थानिक"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "समभारिक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान अणुभार असलेले अणू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समान अणुक्रमांक असलेले अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेगळे मूलद्रव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रेणू",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान अणुभार असलेले अणू"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "अणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रव्याचा सर्वात लहान कण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पेशीचा भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्रव्याचा सर्वात लहान कण"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "अणूचे केंद्रक कशाने बनलेले असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रोटॉन व न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉन व न्यूट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन व न्यूट्रॉन"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "प्रोटॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "न्यूट्रॉनचा विद्युत भार कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ऋण व धन",
+          "is_correct": false
+        }
+      ],
+      "answer": "तटस्थ"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "अणुक्रमांक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉनची संख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "न्यूट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अणुभार",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉनची संख्या"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "अणुभार म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉन + न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन + न्यूट्रॉन"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉन कोणत्या भागात फिरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केंद्रकात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कवचात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "न्यूट्रॉनमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉनमध्ये",
+          "is_correct": false
+        }
+      ],
+      "answer": "कवचात"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "समान अणुक्रमांक पण वेगळा अणुभार असलेल्या अणूंना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्थानिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समभारिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूलद्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्थानिक"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "समभारिक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान अणुभार असलेले अणू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समान अणुक्रमांक असलेले अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेगळे मूलद्रव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रेणू",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान अणुभार असलेले अणू"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "अणू म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रव्याचा सर्वात लहान कण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पेशीचा भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्रव्याचा सर्वात लहान कण"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "अणूचे केंद्रक कशाने बनलेले असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रोटॉन व न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉन व न्यूट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन व न्यूट्रॉन"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋण"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "प्रोटॉनवर कोणता विद्युत भार असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "न्यूट्रॉनचा विद्युत भार कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ऋण व धन",
+          "is_correct": false
+        }
+      ],
+      "answer": "तटस्थ"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "अणुक्रमांक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉनची संख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "न्यूट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इलेक्ट्रॉनची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अणुभार",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉनची संख्या"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "अणुभार म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोटॉन + न्यूट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रोटॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन + न्यूट्रॉन"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉन कोणत्या भागात फिरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केंद्रकात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कवचात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "न्यूट्रॉनमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोटॉनमध्ये",
+          "is_correct": false
+        }
+      ],
+      "answer": "कवचात"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "समान अणुक्रमांक पण वेगळा अणुभार असलेल्या अणूंना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्थानिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समभारिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूलद्रव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्थानिक"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "समभारिक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान अणुभार असलेले अणू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समान अणुक्रमांक असलेले अणू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेगळे मूलद्रव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रेणू",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान अणुभार असलेले अणू"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "अणूची व्याख्या लिहा.",
+      "answer": "द्रव्याचा सर्वात लहान कण जो रासायनिक अभिक्रियेत भाग घेतो त्याला अणू म्हणतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "अणूचे मुख्य भाग कोणते?",
+      "answer": "अणूचे मुख्य भाग केंद्रक व इलेक्ट्रॉन कवच हे आहेत."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "प्रोटॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला धनभारित कण म्हणजे प्रोटॉन."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "न्यूट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकात असलेला तटस्थ कण म्हणजे न्यूट्रॉन."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन म्हणजे काय?",
+      "answer": "केंद्रकाभोवती फिरणारा ऋणभारित कण म्हणजे इलेक्ट्रॉन."
+    }
+  ]
+}

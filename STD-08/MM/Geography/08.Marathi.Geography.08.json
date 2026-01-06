@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.Geography.08",
+    "standard": "8",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "उद्योग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्तू उत्पादनाची क्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तू उत्पादनाची क्रिया"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "उद्योगांचे प्रमुख प्रकार किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "प्राथमिक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खनन व शेती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "खनन व शेती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "द्वितीयक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कारखाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कारखाने"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "तृतीयक उद्योग कशाशी संबंधित आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृषी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "उद्योगांच्या स्थाननिर्धारणावर कोणते घटक परिणाम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कच्चा माल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बाजार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक रोजगार कोणत्या उद्योगात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुटीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कुटीर उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोठे कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घरगुती पातळीवरील उद्योग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "घरगुती पातळीवरील उद्योग"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मोठ्या प्रमाणावरील उद्योगांचे वैशिष्ट्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी भांडवल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घरगुती काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हातमजुरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त उत्पादन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "उद्योगांचा एक परिणाम कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोजगार निर्मिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आर्थिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्तू उत्पादनाची क्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तू उत्पादनाची क्रिया"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "उद्योगांचे प्रमुख प्रकार किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "प्राथमिक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खनन व शेती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "खनन व शेती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "द्वितीयक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कारखाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कारखाने"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "तृतीयक उद्योग कशाशी संबंधित आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृषी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "उद्योगांच्या स्थाननिर्धारणावर कोणते घटक परिणाम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कच्चा माल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बाजार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक रोजगार कोणत्या उद्योगात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुटीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कुटीर उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोठे कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घरगुती पातळीवरील उद्योग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "घरगुती पातळीवरील उद्योग"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मोठ्या प्रमाणावरील उद्योगांचे वैशिष्ट्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी भांडवल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घरगुती काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हातमजुरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त उत्पादन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "उद्योगांचा एक परिणाम कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोजगार निर्मिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आर्थिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्तू उत्पादनाची क्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तू उत्पादनाची क्रिया"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "उद्योगांचे प्रमुख प्रकार किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "प्राथमिक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खनन व शेती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "खनन व शेती"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "द्वितीयक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कारखाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कारखाने"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "तृतीयक उद्योग कशाशी संबंधित आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृषी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "उद्योगांच्या स्थाननिर्धारणावर कोणते घटक परिणाम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कच्चा माल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बाजार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक रोजगार कोणत्या उद्योगात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुटीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कुटीर उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोठे कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घरगुती पातळीवरील उद्योग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "घरगुती पातळीवरील उद्योग"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "मोठ्या प्रमाणावरील उद्योगांचे वैशिष्ट्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी भांडवल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घरगुती काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हातमजुरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त उत्पादन"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "उद्योगांचा एक परिणाम कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोजगार निर्मिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आर्थिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्तू उत्पादनाची क्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तू उत्पादनाची क्रिया"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "उद्योगांचे प्रमुख प्रकार किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "प्राथमिक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खनन व शेती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "खनन व शेती"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "द्वितीयक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कारखाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कारखाने"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "तृतीयक उद्योग कशाशी संबंधित आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृषी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "उद्योगांच्या स्थाननिर्धारणावर कोणते घटक परिणाम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कच्चा माल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बाजार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक रोजगार कोणत्या उद्योगात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुटीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कुटीर उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोठे कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घरगुती पातळीवरील उद्योग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "घरगुती पातळीवरील उद्योग"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "मोठ्या प्रमाणावरील उद्योगांचे वैशिष्ट्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी भांडवल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घरगुती काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हातमजुरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त उत्पादन"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "उद्योगांचा एक परिणाम कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोजगार निर्मिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आर्थिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्तू उत्पादनाची क्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तू उत्पादनाची क्रिया"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "उद्योगांचे प्रमुख प्रकार किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "प्राथमिक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खनन व शेती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "खनन व शेती"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "द्वितीयक उद्योग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कारखाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कारखाने"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "तृतीयक उद्योग कशाशी संबंधित आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृषी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "उद्योगांच्या स्थाननिर्धारणावर कोणते घटक परिणाम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कच्चा माल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बाजार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक रोजगार कोणत्या उद्योगात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुटीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कुटीर उद्योग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोठे कारखाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घरगुती पातळीवरील उद्योग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "घरगुती पातळीवरील उद्योग"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "मोठ्या प्रमाणावरील उद्योगांचे वैशिष्ट्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी भांडवल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घरगुती काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हातमजुरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त उत्पादन"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "उद्योगांचा एक परिणाम कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोजगार निर्मिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शहरीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आर्थिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "उद्योगाची व्याख्या लिहा.",
+      "answer": "वस्तू उत्पादनाची व सेवा देण्याची क्रिया म्हणजे उद्योग."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे प्रकार लिहा.",
+      "answer": "प्राथमिक, द्वितीयक व तृतीयक असे उद्योगांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "प्राथमिक उद्योगांचे उदाहरण लिहा.",
+      "answer": "शेती व खनन हे प्राथमिक उद्योग आहेत."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "द्वितीयक उद्योगांचे महत्त्व लिहा.",
+      "answer": "कच्च्या मालाचे तयार वस्तूंमध्ये रूपांतर होते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे महत्त्व लिहा.",
+      "answer": "रोजगार निर्मिती व आर्थिक विकासासाठी उद्योग महत्त्वाचे आहेत."
+    }
+  ]
+}
