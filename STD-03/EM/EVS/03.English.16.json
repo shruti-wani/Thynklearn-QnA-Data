@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.16",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Sensory Organs"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Sensory organs help us to ________.",
+      "options": [
+        { "option_id": 1, "text": "eat food", "is_correct": false },
+        { "option_id": 2, "text": "feel the world around us", "is_correct": true },
+        { "option_id": 3, "text": "sleep", "is_correct": false },
+        { "option_id": 4, "text": "run fast", "is_correct": false }
+      ],
+      "answer": "feel the world around us"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How many sensory organs do we have?",
+      "options": [
+        { "option_id": 1, "text": "Three", "is_correct": false },
+        { "option_id": 2, "text": "Four", "is_correct": false },
+        { "option_id": 3, "text": "Five", "is_correct": true },
+        { "option_id": 4, "text": "Six", "is_correct": false }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us to see?",
+      "options": [
+        { "option_id": 1, "text": "Ears", "is_correct": false },
+        { "option_id": 2, "text": "Eyes", "is_correct": true },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Tongue", "is_correct": false }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us to hear?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Ears", "is_correct": true },
+        { "option_id": 3, "text": "Skin", "is_correct": false },
+        { "option_id": 4, "text": "Nose", "is_correct": false }
+      ],
+      "answer": "Ears"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us to smell?",
+      "options": [
+        { "option_id": 1, "text": "Tongue", "is_correct": false },
+        { "option_id": 2, "text": "Nose", "is_correct": true },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
+      ],
+      "answer": "Nose"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us to taste food?",
+      "options": [
+        { "option_id": 1, "text": "Skin", "is_correct": false },
+        { "option_id": 2, "text": "Tongue", "is_correct": true },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Nose", "is_correct": false }
+      ],
+      "answer": "Tongue"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us to feel hot or cold?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Skin", "is_correct": true },
+        { "option_id": 3, "text": "Ears", "is_correct": false },
+        { "option_id": 4, "text": "Tongue", "is_correct": false }
+      ],
+      "answer": "Skin"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us feel pain?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Skin", "is_correct": true },
+        { "option_id": 3, "text": "Ears", "is_correct": false },
+        { "option_id": 4, "text": "Nose", "is_correct": false }
+      ],
+      "answer": "Skin"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us enjoy food?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Tongue", "is_correct": true },
+        { "option_id": 3, "text": "Skin", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
+      ],
+      "answer": "Tongue"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us enjoy music?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Ears", "is_correct": true },
+        { "option_id": 3, "text": "Skin", "is_correct": false },
+        { "option_id": 4, "text": "Tongue", "is_correct": false }
+      ],
+      "answer": "Ears"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us know the colour of objects?",
+      "options": [
+        { "option_id": 1, "text": "Ears", "is_correct": false },
+        { "option_id": 2, "text": "Eyes", "is_correct": true },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Tongue", "is_correct": false }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us know if something is soft or hard?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Skin", "is_correct": true },
+        { "option_id": 3, "text": "Ears", "is_correct": false },
+        { "option_id": 4, "text": "Nose", "is_correct": false }
+      ],
+      "answer": "Skin"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which sense organ works when we close our eyes?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Ears", "is_correct": true },
+        { "option_id": 3, "text": "Tongue", "is_correct": false },
+        { "option_id": 4, "text": "Skin", "is_correct": false }
+      ],
+      "answer": "Ears"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us smell flowers?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Nose", "is_correct": true },
+        { "option_id": 3, "text": "Tongue", "is_correct": false },
+        { "option_id": 4, "text": "Skin", "is_correct": false }
+      ],
+      "answer": "Nose"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us feel touch?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Skin", "is_correct": true },
+        { "option_id": 3, "text": "Ears", "is_correct": false },
+        { "option_id": 4, "text": "Tongue", "is_correct": false }
+      ],
+      "answer": "Skin"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are sensory organs?",
+      "answer": "Sensory organs help us feel and understand our surroundings."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How many sensory organs do we have?",
+      "answer": "We have five sensory organs."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name the five sensory organs.",
+      "answer": "Eyes, ears, nose, tongue and skin."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us see?",
+      "answer": "Eyes help us see."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us hear?",
+      "answer": "Ears help us hear."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us smell?",
+      "answer": "Nose helps us smell."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us taste?",
+      "answer": "Tongue helps us taste."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us feel touch?",
+      "answer": "Skin helps us feel touch."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us feel hot and cold?",
+      "answer": "Skin helps us feel hot and cold."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us enjoy music?",
+      "answer": "Ears help us enjoy music."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us enjoy food?",
+      "answer": "Tongue helps us enjoy food."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are sensory organs important?",
+      "answer": "They help us know what is happening around us."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us know colours?",
+      "answer": "Eyes help us know colours."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which sensory organ helps us know sounds?",
+      "answer": "Ears help us know sounds."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How should we take care of our sensory organs?",
+      "answer": "We should keep them clean and safe."
+    }
+  ]
+}
+

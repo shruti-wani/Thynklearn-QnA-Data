@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.25",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Changes in Our Surroundings"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Changes happen ________ us.",
+      "options": [
+        { "option_id": 1, "text": "only at night", "is_correct": false },
+        { "option_id": 2, "text": "around", "is_correct": true },
+        { "option_id": 3, "text": "inside books", "is_correct": false },
+        { "option_id": 4, "text": "only at school", "is_correct": false }
+      ],
+      "answer": "around"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of these shows a change?",
+      "options": [
+        { "option_id": 1, "text": "A plant growing", "is_correct": true },
+        { "option_id": 2, "text": "A stone", "is_correct": false },
+        { "option_id": 3, "text": "A chair", "is_correct": false },
+        { "option_id": 4, "text": "A wall", "is_correct": false }
+      ],
+      "answer": "A plant growing"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which change happens every day?",
+      "options": [
+        { "option_id": 1, "text": "Day changing to night", "is_correct": true },
+        { "option_id": 2, "text": "Building a house", "is_correct": false },
+        { "option_id": 3, "text": "Cutting a tree", "is_correct": false },
+        { "option_id": 4, "text": "Painting a wall", "is_correct": false }
+      ],
+      "answer": "Day changing to night"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which change takes a long time?",
+      "options": [
+        { "option_id": 1, "text": "Child growing into an adult", "is_correct": true },
+        { "option_id": 2, "text": "Switching on a light", "is_correct": false },
+        { "option_id": 3, "text": "Closing a door", "is_correct": false },
+        { "option_id": 4, "text": "Clapping hands", "is_correct": false }
+      ],
+      "answer": "Child growing into an adult"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which change happens quickly?",
+      "options": [
+        { "option_id": 1, "text": "Growing of a tree", "is_correct": false },
+        { "option_id": 2, "text": "Melting of ice", "is_correct": true },
+        { "option_id": 3, "text": "Building a road", "is_correct": false },
+        { "option_id": 4, "text": "Growing crops", "is_correct": false }
+      ],
+      "answer": "Melting of ice"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of these is a natural change?",
+      "options": [
+        { "option_id": 1, "text": "Change of seasons", "is_correct": true },
+        { "option_id": 2, "text": "Making a toy", "is_correct": false },
+        { "option_id": 3, "text": "Building a house", "is_correct": false },
+        { "option_id": 4, "text": "Cooking food", "is_correct": false }
+      ],
+      "answer": "Change of seasons"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which season comes after summer?",
+      "options": [
+        { "option_id": 1, "text": "Winter", "is_correct": false },
+        { "option_id": 2, "text": "Rainy", "is_correct": true },
+        { "option_id": 3, "text": "Spring", "is_correct": false },
+        { "option_id": 4, "text": "Autumn", "is_correct": false }
+      ],
+      "answer": "Rainy"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these changes is caused by humans?",
+      "options": [
+        { "option_id": 1, "text": "Building roads", "is_correct": true },
+        { "option_id": 2, "text": "Rainfall", "is_correct": false },
+        { "option_id": 3, "text": "Sunrise", "is_correct": false },
+        { "option_id": 4, "text": "Wind blowing", "is_correct": false }
+      ],
+      "answer": "Building roads"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these shows change in weather?",
+      "options": [
+        { "option_id": 1, "text": "Hot and cold days", "is_correct": true },
+        { "option_id": 2, "text": "Books on shelf", "is_correct": false },
+        { "option_id": 3, "text": "Table and chair", "is_correct": false },
+        { "option_id": 4, "text": "Closed door", "is_correct": false }
+      ],
+      "answer": "Hot and cold days"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which change is useful for us?",
+      "options": [
+        { "option_id": 1, "text": "Cooking food", "is_correct": true },
+        { "option_id": 2, "text": "Spoiling food", "is_correct": false },
+        { "option_id": 3, "text": "Breaking toys", "is_correct": false },
+        { "option_id": 4, "text": "Cutting trees", "is_correct": false }
+      ],
+      "answer": "Cooking food"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which change happens in plants?",
+      "options": [
+        { "option_id": 1, "text": "Flower turning into fruit", "is_correct": true },
+        { "option_id": 2, "text": "Stone breaking", "is_correct": false },
+        { "option_id": 3, "text": "Paper tearing", "is_correct": false },
+        { "option_id": 4, "text": "Glass breaking", "is_correct": false }
+      ],
+      "answer": "Flower turning into fruit"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these changes is slow?",
+      "options": [
+        { "option_id": 1, "text": "Rusting of iron", "is_correct": true },
+        { "option_id": 2, "text": "Switching on fan", "is_correct": false },
+        { "option_id": 3, "text": "Blinking eyes", "is_correct": false },
+        { "option_id": 4, "text": "Clapping hands", "is_correct": false }
+      ],
+      "answer": "Rusting of iron"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which change happens because of time?",
+      "options": [
+        { "option_id": 1, "text": "A baby growing", "is_correct": true },
+        { "option_id": 2, "text": "Opening a book", "is_correct": false },
+        { "option_id": 3, "text": "Turning off light", "is_correct": false },
+        { "option_id": 4, "text": "Throwing a ball", "is_correct": false }
+      ],
+      "answer": "A baby growing"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these is a seasonal change?",
+      "options": [
+        { "option_id": 1, "text": "Summer to winter", "is_correct": true },
+        { "option_id": 2, "text": "Chair moving", "is_correct": false },
+        { "option_id": 3, "text": "Door opening", "is_correct": false },
+        { "option_id": 4, "text": "Book falling", "is_correct": false }
+      ],
+      "answer": "Summer to winter"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why should we understand changes around us?",
+      "options": [
+        { "option_id": 1, "text": "To live safely and happily", "is_correct": true },
+        { "option_id": 2, "text": "To waste time", "is_correct": false },
+        { "option_id": 3, "text": "To break things", "is_correct": false },
+        { "option_id": 4, "text": "To ignore nature", "is_correct": false }
+      ],
+      "answer": "To live safely and happily"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are changes?",
+      "answer": "Changes are things that do not remain the same."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one change you see every day.",
+      "answer": "Day changing into night."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one natural change.",
+      "answer": "Change of seasons is a natural change."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one change caused by humans.",
+      "answer": "Building houses is a change caused by humans."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which change takes a long time?",
+      "answer": "A baby growing into an adult takes a long time."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which change happens quickly?",
+      "answer": "Melting of ice happens quickly."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one seasonal change.",
+      "answer": "Summer changing to rainy season."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is cooking food a change?",
+      "answer": "Cooking changes raw food into cooked food."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What change happens in plants?",
+      "answer": "Plants grow and bear fruits."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one slow change.",
+      "answer": "Rusting of iron is a slow change."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name one fast change.",
+      "answer": "Breaking of glass is a fast change."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why do seasons change?",
+      "answer": "Seasons change due to changes in weather."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What change happens in our body as we grow?",
+      "answer": "We grow taller and stronger."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why should we observe changes?",
+      "answer": "Observing changes helps us understand our surroundings."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give one example of change around you.",
+      "answer": "Plants growing in a garden."
+    }
+  ]
+}
+

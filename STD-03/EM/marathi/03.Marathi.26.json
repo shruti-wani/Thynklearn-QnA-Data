@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.26",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Fruits, Vegetables and Colours"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word tells colour?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of these is a fruit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chair",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word is a naming word?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of these is a vegetable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carrot",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carrot"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word shows action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walk",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walk"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word tells colour? (26-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these is a fruit? (26-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chair",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word is a naming word? (26-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is a vegetable? (26-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carrot",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carrot"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word shows action? (26-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walk",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walk"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word tells colour? (26-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a fruit? (26-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chair",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word is a naming word? (26-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these is a vegetable? (26-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carrot",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carrot"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word shows action? (26-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walk",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walk"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Name one fruit.",
+      "answer": "Apple is a fruit."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Name one vegetable.",
+      "answer": "Carrot is a vegetable."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write one colour word.",
+      "answer": "Red is a colour word."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write one naming word.",
+      "answer": "Dog is a naming word."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Write one action word.",
+      "answer": "Walk is an action word."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Name one fruit. (26-6)",
+      "answer": "Apple is a fruit."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name one vegetable. (26-7)",
+      "answer": "Carrot is a vegetable."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Write one colour word. (26-8)",
+      "answer": "Red is a colour word."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write one naming word. (26-9)",
+      "answer": "Dog is a naming word."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Write one action word. (26-10)",
+      "answer": "Walk is an action word."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Name one fruit. (26-11)",
+      "answer": "Apple is a fruit."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Name one vegetable. (26-12)",
+      "answer": "Carrot is a vegetable."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one colour word. (26-13)",
+      "answer": "Red is a colour word."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Write one naming word. (26-14)",
+      "answer": "Dog is a naming word."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Write one action word. (26-15)",
+      "answer": "Walk is an action word."
+    }
+  ]
+}

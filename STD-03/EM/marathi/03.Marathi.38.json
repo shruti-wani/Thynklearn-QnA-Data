@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.38",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Capital Letters"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which letter should begin a sentence?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Capital",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Small",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Any",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Capital"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word should start with a capital letter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ravi",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ravi"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which sentence is correct?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "My name is Ravi.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "my name is ravi.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "my Name is Ravi.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "My name is ravi.",
+          "is_correct": false
+        }
+      ],
+      "answer": "My name is Ravi."
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which letter is used for names?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Capital",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Small",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Number",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Symbol",
+          "is_correct": false
+        }
+      ],
+      "answer": "Capital"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these needs a capital letter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "and",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "the",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "but",
+          "is_correct": false
+        }
+      ],
+      "answer": "I"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which letter should begin a sentence? (38-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Capital",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Small",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Any",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Capital"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word should start with a capital letter? (38-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ravi",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ravi"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which sentence is correct? (38-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "My name is Ravi.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "my name is ravi.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "my Name is Ravi.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "My name is ravi.",
+          "is_correct": false
+        }
+      ],
+      "answer": "My name is Ravi."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which letter is used for names? (38-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Capital",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Small",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Number",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Symbol",
+          "is_correct": false
+        }
+      ],
+      "answer": "Capital"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these needs a capital letter? (38-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "and",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "the",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "but",
+          "is_correct": false
+        }
+      ],
+      "answer": "I"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which letter should begin a sentence? (38-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Capital",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Small",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Any",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Capital"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word should start with a capital letter? (38-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ravi",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ravi"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which sentence is correct? (38-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "My name is Ravi.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "my name is ravi.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "my Name is Ravi.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "My name is ravi.",
+          "is_correct": false
+        }
+      ],
+      "answer": "My name is Ravi."
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which letter is used for names? (38-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Capital",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Small",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Number",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Symbol",
+          "is_correct": false
+        }
+      ],
+      "answer": "Capital"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these needs a capital letter? (38-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "and",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "the",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "but",
+          "is_correct": false
+        }
+      ],
+      "answer": "I"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "When do we use capital letters?",
+      "answer": "We use capital letters at the beginning of a sentence and for names."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Write one word that should start with a capital letter.",
+      "answer": "Ravi."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Correct the sentence: 'my name is soham.'",
+      "answer": "My name is Soham."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Which letter is used for 'I'?",
+      "answer": "The letter 'I' is always capital."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why do we use capital letters?",
+      "answer": "We use them to write correctly."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "When do we use capital letters? (38-6)",
+      "answer": "We use capital letters at the beginning of a sentence and for names."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Write one word that should start with a capital letter. (38-7)",
+      "answer": "Ravi."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Correct the sentence: 'my name is soham.' (38-8)",
+      "answer": "My name is Soham."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Which letter is used for 'I'? (38-9)",
+      "answer": "The letter 'I' is always capital."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why do we use capital letters? (38-10)",
+      "answer": "We use them to write correctly."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "When do we use capital letters? (38-11)",
+      "answer": "We use capital letters at the beginning of a sentence and for names."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Write one word that should start with a capital letter. (38-12)",
+      "answer": "Ravi."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Correct the sentence: 'my name is soham.' (38-13)",
+      "answer": "My name is Soham."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Which letter is used for 'I'? (38-14)",
+      "answer": "The letter 'I' is always capital."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do we use capital letters? (38-15)",
+      "answer": "We use them to write correctly."
+    }
+  ]
+}

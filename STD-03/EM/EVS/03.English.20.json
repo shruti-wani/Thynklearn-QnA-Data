@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.20",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Our Community Life"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A community is a group of people who ________ together.",
+      "options": [
+        { "option_id": 1, "text": "fight", "is_correct": false },
+        { "option_id": 2, "text": "live and work", "is_correct": true },
+        { "option_id": 3, "text": "travel", "is_correct": false },
+        { "option_id": 4, "text": "play only", "is_correct": false }
+      ],
+      "answer": "live and work"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "People living in the same area form a ________.",
+      "options": [
+        { "option_id": 1, "text": "family", "is_correct": false },
+        { "option_id": 2, "text": "community", "is_correct": true },
+        { "option_id": 3, "text": "school", "is_correct": false },
+        { "option_id": 4, "text": "team", "is_correct": false }
+      ],
+      "answer": "community"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these people helps keep our area clean?",
+      "options": [
+        { "option_id": 1, "text": "Doctor", "is_correct": false },
+        { "option_id": 2, "text": "Sweeper", "is_correct": true },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Shopkeeper", "is_correct": false }
+      ],
+      "answer": "Sweeper"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who helps sick people in the community?",
+      "options": [
+        { "option_id": 1, "text": "Farmer", "is_correct": false },
+        { "option_id": 2, "text": "Doctor", "is_correct": true },
+        { "option_id": 3, "text": "Postman", "is_correct": false },
+        { "option_id": 4, "text": "Carpenter", "is_correct": false }
+      ],
+      "answer": "Doctor"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who brings letters to our homes?",
+      "options": [
+        { "option_id": 1, "text": "Policeman", "is_correct": false },
+        { "option_id": 2, "text": "Postman", "is_correct": true },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Driver", "is_correct": false }
+      ],
+      "answer": "Postman"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of these maintains law and order?",
+      "options": [
+        { "option_id": 1, "text": "Policeman", "is_correct": true },
+        { "option_id": 2, "text": "Shopkeeper", "is_correct": false },
+        { "option_id": 3, "text": "Tailor", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Policeman"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which person grows crops for us?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": false },
+        { "option_id": 2, "text": "Farmer", "is_correct": true },
+        { "option_id": 3, "text": "Doctor", "is_correct": false },
+        { "option_id": 4, "text": "Postman", "is_correct": false }
+      ],
+      "answer": "Farmer"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these helps us learn?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": true },
+        { "option_id": 2, "text": "Sweeper", "is_correct": false },
+        { "option_id": 3, "text": "Driver", "is_correct": false },
+        { "option_id": 4, "text": "Carpenter", "is_correct": false }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which place is important for community meetings?",
+      "options": [
+        { "option_id": 1, "text": "Park", "is_correct": true },
+        { "option_id": 2, "text": "Bedroom", "is_correct": false },
+        { "option_id": 3, "text": "Kitchen", "is_correct": false },
+        { "option_id": 4, "text": "Bathroom", "is_correct": false }
+      ],
+      "answer": "Park"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which habit makes community life better?",
+      "options": [
+        { "option_id": 1, "text": "Helping each other", "is_correct": true },
+        { "option_id": 2, "text": "Fighting", "is_correct": false },
+        { "option_id": 3, "text": "Being rude", "is_correct": false },
+        { "option_id": 4, "text": "Littering", "is_correct": false }
+      ],
+      "answer": "Helping each other"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these places helps people when there is a fire?",
+      "options": [
+        { "option_id": 1, "text": "Fire station", "is_correct": true },
+        { "option_id": 2, "text": "School", "is_correct": false },
+        { "option_id": 3, "text": "Library", "is_correct": false },
+        { "option_id": 4, "text": "Market", "is_correct": false }
+      ],
+      "answer": "Fire station"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these helps us buy daily needs?",
+      "options": [
+        { "option_id": 1, "text": "Market", "is_correct": true },
+        { "option_id": 2, "text": "Hospital", "is_correct": false },
+        { "option_id": 3, "text": "School", "is_correct": false },
+        { "option_id": 4, "text": "Park", "is_correct": false }
+      ],
+      "answer": "Market"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who repairs furniture?",
+      "options": [
+        { "option_id": 1, "text": "Carpenter", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Postman", "is_correct": false }
+      ],
+      "answer": "Carpenter"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these places helps sick people?",
+      "options": [
+        { "option_id": 1, "text": "Hospital", "is_correct": true },
+        { "option_id": 2, "text": "Market", "is_correct": false },
+        { "option_id": 3, "text": "Playground", "is_correct": false },
+        { "option_id": 4, "text": "Park", "is_correct": false }
+      ],
+      "answer": "Hospital"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why do we need community helpers?",
+      "options": [
+        { "option_id": 1, "text": "They help us in daily life", "is_correct": true },
+        { "option_id": 2, "text": "They make noise", "is_correct": false },
+        { "option_id": 3, "text": "They disturb us", "is_correct": false },
+        { "option_id": 4, "text": "They play with us", "is_correct": false }
+      ],
+      "answer": "They help us in daily life"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a community?",
+      "answer": "A community is a group of people living and working together."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name any two community helpers.",
+      "answer": "Doctor and teacher are community helpers."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who keeps our surroundings clean?",
+      "answer": "A sweeper keeps our surroundings clean."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who helps sick people?",
+      "answer": "A doctor helps sick people."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who brings letters to our homes?",
+      "answer": "A postman brings letters to our homes."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why is a community important?",
+      "answer": "A community helps us live together happily."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one place in your community.",
+      "answer": "Market is one place in my community."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who maintains law and order?",
+      "answer": "A policeman maintains law and order."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who grows food for us?",
+      "answer": "A farmer grows food for us."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why should we help our neighbours?",
+      "answer": "We should help neighbours to live happily together."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which place helps during fire accidents?",
+      "answer": "The fire station helps during fire accidents."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why should we keep our community clean?",
+      "answer": "A clean community keeps us healthy."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Who repairs furniture in the community?",
+      "answer": "A carpenter repairs furniture."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How can children help the community?",
+      "answer": "Children can help by keeping surroundings clean."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What makes community life happy?",
+      "answer": "Helping and caring for each other makes community life happy."
+    }
+  ]
+}
+

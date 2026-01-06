@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.02",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Go and Come"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which two action words are used in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go and come",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run and jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Read and write",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing and dance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go and come"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word shows movement away?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleep",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word shows movement towards?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Come",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stop",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wait",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sentence shows 'come'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Come here, please.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go away.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sit down.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleep now.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come here, please."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which sentence shows 'go'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go to school.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Come here.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stand up.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be quiet.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go to school."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which two action words are used in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go and come",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run and jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Read and write",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing and dance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go and come"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word shows movement away?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleep",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word shows movement towards?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Come",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stop",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wait",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which sentence shows 'come'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Come here, please.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go away.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sit down.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleep now.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come here, please."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which sentence shows 'go'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go to school.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Come here.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stand up.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be quiet.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go to school."
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which two action words are used in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go and come",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run and jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Read and write",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing and dance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go and come"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word shows movement away?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleep",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word shows movement towards?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Come",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stop",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wait",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which sentence shows 'come'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Come here, please.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go away.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sit down.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleep now.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come here, please."
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which sentence shows 'go'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go to school.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Come here.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stand up.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be quiet.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go to school."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What does 'go' mean?",
+      "answer": "It means to move away from a place."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What does 'come' mean?",
+      "answer": "It means to move towards a place."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'go'.",
+      "answer": "Go to school."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'come'.",
+      "answer": "Come here."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why are these words important?",
+      "answer": "They show direction of movement."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What does 'go' mean?",
+      "answer": "It means to move away from a place."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What does 'come' mean?",
+      "answer": "It means to move towards a place."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'go'.",
+      "answer": "Go to school."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'come'.",
+      "answer": "Come here."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why are these words important?",
+      "answer": "They show direction of movement."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What does 'go' mean?",
+      "answer": "It means to move away from a place."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What does 'come' mean?",
+      "answer": "It means to move towards a place."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'go'.",
+      "answer": "Go to school."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'come'.",
+      "answer": "Come here."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why are these words important?",
+      "answer": "They show direction of movement."
+    }
+  ]
+}

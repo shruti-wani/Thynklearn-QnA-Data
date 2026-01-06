@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.27",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "One and Many"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word tells number?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of these is a plural word?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apples",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apples"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word means more than one?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Many",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Many"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which shows one item?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apples",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Many",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Some",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which is correct?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I have two pens.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I have two pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I have pen two.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I two have pen.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I have two pens."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word tells number? (27-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these is a plural word? (27-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apples",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apples"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word means more than one? (27-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Many",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Many"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which shows one item? (27-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apples",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Many",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Some",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which is correct? (27-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I have two pens.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I have two pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I have pen two.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I two have pen.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I have two pens."
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word tells number? (27-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a plural word? (27-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apples",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apples"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word means more than one? (27-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Many",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Many"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which shows one item? (27-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apples",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Many",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Some",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which is correct? (27-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I have two pens.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I have two pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I have pen two.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I two have pen.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I have two pens."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What does 'many' mean?",
+      "answer": "'Many' means more than one."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Write the plural of 'pen'.",
+      "answer": "The plural of pen is pens."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write one sentence with a number.",
+      "answer": "I have two books."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Why do we use plurals?",
+      "answer": "We use plurals to show more than one."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Write one word that means one.",
+      "answer": "One."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What does 'many' mean? (27-6)",
+      "answer": "'Many' means more than one."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Write the plural of 'pen'. (27-7)",
+      "answer": "The plural of pen is pens."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Write one sentence with a number. (27-8)",
+      "answer": "I have two books."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Why do we use plurals? (27-9)",
+      "answer": "We use plurals to show more than one."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Write one word that means one. (27-10)",
+      "answer": "One."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What does 'many' mean? (27-11)",
+      "answer": "'Many' means more than one."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Write the plural of 'pen'. (27-12)",
+      "answer": "The plural of pen is pens."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one sentence with a number. (27-13)",
+      "answer": "I have two books."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why do we use plurals? (27-14)",
+      "answer": "We use plurals to show more than one."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Write one word that means one. (27-15)",
+      "answer": "One."
+    }
+  ]
+}

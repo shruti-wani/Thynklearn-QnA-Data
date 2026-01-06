@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.24",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "h-l-r-s"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which letter comes in the word 'hat'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "h",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "l",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "r",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "s",
+          "is_correct": false
+        }
+      ],
+      "answer": "h"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which letter comes in the word 'lion'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "h",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "l",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "r",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "s",
+          "is_correct": false
+        }
+      ],
+      "answer": "l"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which letter comes in the word 'rat'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "h",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "l",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "r",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "s",
+          "is_correct": false
+        }
+      ],
+      "answer": "r"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which letter comes in the word 'sun'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "h",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "l",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "r",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "s",
+          "is_correct": true
+        }
+      ],
+      "answer": "s"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word starts with 'h'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hat",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hat"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word starts with 'l'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lion"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word starts with 'r'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rat",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rat"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word starts with 's'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sun",
+          "is_correct": true
+        }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which letter is in the word 'house'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "h",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "l",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "r",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "s",
+          "is_correct": false
+        }
+      ],
+      "answer": "h"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which letter is in the word 'rose'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "h",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "l",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "r",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "s",
+          "is_correct": false
+        }
+      ],
+      "answer": "r"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which letter is in the word 'school'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "h",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "l",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "r",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "s",
+          "is_correct": true
+        }
+      ],
+      "answer": "s"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word begins with 'h'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hen"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word begins with 'l'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lamp",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lamp"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word begins with 'r'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lamp",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ring",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ring"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word begins with 's'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lamp",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ring",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Star",
+          "is_correct": true
+        }
+      ],
+      "answer": "Star"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Write one word that starts with 'h'.",
+      "answer": "Hat."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Write one word that starts with 'l'.",
+      "answer": "Lion."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write one word that starts with 'r'.",
+      "answer": "Rat."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write one word that starts with 's'.",
+      "answer": "Sun."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Which letter is in the word 'house'?",
+      "answer": "The letter 'h' is in the word 'house'."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Which letter is in the word 'rose'?",
+      "answer": "The letter 'r' is in the word 'rose'."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Which letter is in the word 'school'?",
+      "answer": "The letter 's' is in the word 'school'."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Write a word using the letter 'l'.",
+      "answer": "Lamp."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write a word using the letter 'h'.",
+      "answer": "Hen."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Write a word using the letter 'r'.",
+      "answer": "Ring."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Write a word using the letter 's'.",
+      "answer": "Star."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Circle the starting letter of 'hat'.",
+      "answer": "The starting letter is 'h'."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Circle the starting letter of 'lion'.",
+      "answer": "The starting letter is 'l'."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Circle the starting letter of 'rat'.",
+      "answer": "The starting letter is 'r'."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Circle the starting letter of 'sun'.",
+      "answer": "The starting letter is 's'."
+    }
+  ]
+}

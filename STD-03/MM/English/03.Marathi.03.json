@@ -1,0 +1,381 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.03",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "आपण काय खेळू"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'आपण काय खेळू' या धड्यात कशाबद्दल सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेगवेगळे खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेगवेगळे खेळ"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मुलांना खेळ का आवडतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळायला मजा येते",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ कठीण असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळामुळे शिक्षा मिळते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ निरुपयोगी असतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "खेळायला मजा येते"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खेळ खेळताना काय पाळावे लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नियम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "नियम"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खेळ खेळल्याने शरीर कसे राहते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तंदुरुस्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कमजोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आजारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकलेले",
+          "is_correct": false
+        }
+      ],
+      "answer": "तंदुरुस्त"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "धड्यात कोणत्या प्रकारच्या खेळांचा उल्लेख आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मैदानी खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तक वाचन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रकला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वयंपाक",
+          "is_correct": false
+        }
+      ],
+      "answer": "मैदानी खेळ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खेळ खेळताना मित्रांशी कसे वागावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मिळून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागावून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुर्लक्ष करून",
+          "is_correct": false
+        }
+      ],
+      "answer": "मिळून"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "खेळामुळे कोणता गुण वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहकार्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहकार्य"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "खेळ खेळण्याची योग्य वेळ कधी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोकळ्या वेळेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वर्गात बोलताना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झोपताना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडताना",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोकळ्या वेळेत"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खेळ खेळल्याने मन कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दु:खी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "या धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळ महत्त्वाचे आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ टाळावेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ निरुपयोगी आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ फक्त मोठ्यांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "खेळ महत्त्वाचे आहेत"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "'आपण काय खेळू' या धड्यात कशाबद्दल सांगितले आहे?",
+      "answer": "या धड्यात वेगवेगळ्या खेळांबद्दल सांगितले आहे."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "मुलांना खेळ का आवडतात?",
+      "answer": "खेळायला मजा येते म्हणून मुलांना खेळ आवडतात."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "खेळ खेळताना नियम का पाळावे लागतात?",
+      "answer": "खेळ नीट खेळण्यासाठी नियम पाळावे लागतात."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "खेळ खेळल्याने शरीरावर काय परिणाम होतो?",
+      "answer": "खेळ खेळल्याने शरीर तंदुरुस्त राहते."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "खेळ खेळताना मित्रांशी कसे वागावे?",
+      "answer": "खेळताना मित्रांशी मिळून वागावे."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "खेळामुळे कोणते गुण वाढतात?",
+      "answer": "खेळामुळे सहकार्य आणि शिस्त वाढते."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "खेळ खेळण्याची योग्य वेळ कोणती?",
+      "answer": "मोकळ्या वेळेत खेळ खेळावा."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "खेळ खेळल्याने मन कसे होते?",
+      "answer": "खेळ खेळल्याने मन आनंदी होते."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "या धड्याचा मुख्य संदेश काय आहे?",
+      "answer": "खेळ शारीरिक आणि मानसिक आरोग्यासाठी महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "तुम्हाला कोणता खेळ आवडतो आणि का?",
+      "answer": "मला क्रिकेट आवडते कारण ते खेळायला मजा येते."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "खेळ खेळताना काय टाळावे?",
+      "answer": "खेळताना भांडण आणि राग टाळावा."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "खेळ खेळल्याने मित्रांमध्ये काय वाढते?",
+      "answer": "खेळामुळे मित्रांमध्ये मैत्री वाढते."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "खेळ आणि अभ्यास यांचा संबंध काय?",
+      "answer": "खेळ आणि अभ्यास दोन्ही महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "खेळ खेळताना सुरक्षितता का महत्त्वाची आहे?",
+      "answer": "इजा होऊ नये म्हणून सुरक्षितता महत्त्वाची आहे."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुम्हाला काय शिकायला मिळते?",
+      "answer": "खेळाचे महत्त्व आणि नियम पाळणे शिकायला मिळते."
+    }
+  ]
+}

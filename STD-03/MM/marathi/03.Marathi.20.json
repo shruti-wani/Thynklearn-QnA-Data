@@ -1,0 +1,715 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.20",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "एक भारतीय संशोधक"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "डॉ. शंकर आबाजी मुळे यांचा जन्म कधी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२८ एप्रिल १९१६",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१५ ऑगस्ट १९४७",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२६ जानेवारी १९५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१ मे १९६०",
+          "is_correct": false
+        }
+      ],
+      "answer": "२८ एप्रिल १९१६"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "लहानपणी शंकरांना कोणत्या गोष्टीची गोडी लागली होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वजन मोजण्याची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढण्याची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाण्याची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळण्याची",
+          "is_correct": false
+        }
+      ],
+      "answer": "वजन मोजण्याची"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दुकानदाराने कमी वजन दिल्यामुळे शंकरांनी काय ठरवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अचूक वजन मोजणारे यंत्र बनवायचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुकान उघडायचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तक्रार करायची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ सोडायचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अचूक वजन मोजणारे यंत्र बनवायचे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "डॉ. मुळे कोणत्या क्षेत्रात संशोधनासाठी प्रसिद्ध झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वजन मापन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "औषधनिर्माण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खगोलशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वनस्पतीशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "वजन मापन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "इंग्लंडमध्ये मुळे यांनी काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संशोधन केले",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ खेळले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेती केली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्रकला शिकली",
+          "is_correct": false
+        }
+      ],
+      "answer": "संशोधन केले"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "डॉ. शंकर आबाजी मुळे यांचा जन्म कधी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२८ एप्रिल १९१६",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१५ ऑगस्ट १९४७",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२६ जानेवारी १९५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१ मे १९६०",
+          "is_correct": false
+        }
+      ],
+      "answer": "२८ एप्रिल १९१६"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "लहानपणी शंकरांना कोणत्या गोष्टीची गोडी लागली होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वजन मोजण्याची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढण्याची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाण्याची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळण्याची",
+          "is_correct": false
+        }
+      ],
+      "answer": "वजन मोजण्याची"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "दुकानदाराने कमी वजन दिल्यामुळे शंकरांनी काय ठरवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अचूक वजन मोजणारे यंत्र बनवायचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुकान उघडायचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तक्रार करायची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ सोडायचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अचूक वजन मोजणारे यंत्र बनवायचे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "डॉ. मुळे कोणत्या क्षेत्रात संशोधनासाठी प्रसिद्ध झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वजन मापन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "औषधनिर्माण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खगोलशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वनस्पतीशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "वजन मापन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "इंग्लंडमध्ये मुळे यांनी काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संशोधन केले",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ खेळले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेती केली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्रकला शिकली",
+          "is_correct": false
+        }
+      ],
+      "answer": "संशोधन केले"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "डॉ. शंकर आबाजी मुळे यांचा जन्म कधी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२८ एप्रिल १९१६",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१५ ऑगस्ट १९४७",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२६ जानेवारी १९५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१ मे १९६०",
+          "is_correct": false
+        }
+      ],
+      "answer": "२८ एप्रिल १९१६"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लहानपणी शंकरांना कोणत्या गोष्टीची गोडी लागली होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वजन मोजण्याची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढण्याची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाण्याची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळण्याची",
+          "is_correct": false
+        }
+      ],
+      "answer": "वजन मोजण्याची"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "दुकानदाराने कमी वजन दिल्यामुळे शंकरांनी काय ठरवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अचूक वजन मोजणारे यंत्र बनवायचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुकान उघडायचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तक्रार करायची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ सोडायचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अचूक वजन मोजणारे यंत्र बनवायचे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "डॉ. मुळे कोणत्या क्षेत्रात संशोधनासाठी प्रसिद्ध झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वजन मापन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "औषधनिर्माण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खगोलशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वनस्पतीशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "वजन मापन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "इंग्लंडमध्ये मुळे यांनी काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संशोधन केले",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ खेळले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेती केली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्रकला शिकली",
+          "is_correct": false
+        }
+      ],
+      "answer": "संशोधन केले"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "डॉ. शंकर आबाजी मुळे यांचा जन्म कधी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२८ एप्रिल १९१६",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१५ ऑगस्ट १९४७",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२६ जानेवारी १९५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१ मे १९६०",
+          "is_correct": false
+        }
+      ],
+      "answer": "२८ एप्रिल १९१६"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "लहानपणी शंकरांना कोणत्या गोष्टीची गोडी लागली होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वजन मोजण्याची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढण्याची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाण्याची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळण्याची",
+          "is_correct": false
+        }
+      ],
+      "answer": "वजन मोजण्याची"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "दुकानदाराने कमी वजन दिल्यामुळे शंकरांनी काय ठरवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अचूक वजन मोजणारे यंत्र बनवायचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुकान उघडायचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तक्रार करायची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ सोडायचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अचूक वजन मोजणारे यंत्र बनवायचे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "डॉ. मुळे कोणत्या क्षेत्रात संशोधनासाठी प्रसिद्ध झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वजन मापन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "औषधनिर्माण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खगोलशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वनस्पतीशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "वजन मापन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "इंग्लंडमध्ये मुळे यांनी काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संशोधन केले",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ खेळले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेती केली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्रकला शिकली",
+          "is_correct": false
+        }
+      ],
+      "answer": "संशोधन केले"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
+      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
+      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "मुळे यांनी कोणते यंत्र बनवले?",
+      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
+      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
+      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
+      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "मुळे यांनी कोणते यंत्र बनवले?",
+      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
+      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
+      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
+      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "मुळे यांनी कोणते यंत्र बनवले?",
+      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
+      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
+      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
+      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "मुळे यांनी कोणते यंत्र बनवले?",
+      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
+      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
+      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
+      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "मुळे यांनी कोणते यंत्र बनवले?",
+      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
+      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
+      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
+      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "मुळे यांनी कोणते यंत्र बनवले?",
+      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
+      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.64",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Let’s Speak"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are students asked to do in this lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speak",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Write only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Draw only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speak"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which sentence shows asking politely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please come here.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Come here!",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Go away!",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop now!",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please come here."
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word shows politeness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is a speaking activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Talking to friends",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating",
+          "is_correct": false
+        }
+      ],
+      "answer": "Talking to friends"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What skill does this lesson develop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speaking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaking"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What are students asked to do in this lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speak",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Write only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Draw only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speak"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which sentence shows asking politely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please come here.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Come here!",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Go away!",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop now!",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please come here."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word shows politeness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which is a speaking activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Talking to friends",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating",
+          "is_correct": false
+        }
+      ],
+      "answer": "Talking to friends"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What skill does this lesson develop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speaking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaking"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What are students asked to do in this lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speak",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Write only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Draw only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speak"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which sentence shows asking politely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please come here.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Come here!",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Go away!",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop now!",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please come here."
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word shows politeness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which is a speaking activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Talking to friends",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating",
+          "is_correct": false
+        }
+      ],
+      "answer": "Talking to friends"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What skill does this lesson develop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speaking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaking"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "It is about speaking."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Write one polite sentence.",
+      "answer": "Please help me."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Which word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Why should we speak politely?",
+      "answer": "It makes communication better."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Name one speaking activity.",
+      "answer": "Talking with friends."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "It is about speaking."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Write one polite sentence.",
+      "answer": "Please help me."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Which word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Why should we speak politely?",
+      "answer": "It makes communication better."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Name one speaking activity.",
+      "answer": "Talking with friends."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "It is about speaking."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Write one polite sentence.",
+      "answer": "Please help me."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Which word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why should we speak politely?",
+      "answer": "It makes communication better."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Name one speaking activity.",
+      "answer": "Talking with friends."
+    }
+  ]
+}

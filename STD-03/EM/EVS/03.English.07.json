@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.07",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Our Village, Our City"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A village usually has ________ people.",
+      "options": [
+        { "option_id": 1, "text": "very few", "is_correct": false },
+        { "option_id": 2, "text": "many", "is_correct": false },
+        { "option_id": 3, "text": "a small number of", "is_correct": true },
+        { "option_id": 4, "text": "millions of", "is_correct": false }
+      ],
+      "answer": "a small number of"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "A city usually has ________ people.",
+      "options": [
+        { "option_id": 1, "text": "very few", "is_correct": false },
+        { "option_id": 2, "text": "a small number of", "is_correct": false },
+        { "option_id": 3, "text": "many", "is_correct": true },
+        { "option_id": 4, "text": "no", "is_correct": false }
+      ],
+      "answer": "many"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is common in villages?",
+      "options": [
+        { "option_id": 1, "text": "Farms", "is_correct": true },
+        { "option_id": 2, "text": "Flyovers", "is_correct": false },
+        { "option_id": 3, "text": "Metro trains", "is_correct": false },
+        { "option_id": 4, "text": "Big malls", "is_correct": false }
+      ],
+      "answer": "Farms"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is common in cities?",
+      "options": [
+        { "option_id": 1, "text": "Fields", "is_correct": false },
+        { "option_id": 2, "text": "Tall buildings", "is_correct": true },
+        { "option_id": 3, "text": "Huts", "is_correct": false },
+        { "option_id": 4, "text": "Bullock carts", "is_correct": false }
+      ],
+      "answer": "Tall buildings"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "People in villages mostly work in ________.",
+      "options": [
+        { "option_id": 1, "text": "factories", "is_correct": false },
+        { "option_id": 2, "text": "farms", "is_correct": true },
+        { "option_id": 3, "text": "offices", "is_correct": false },
+        { "option_id": 4, "text": "shops", "is_correct": false }
+      ],
+      "answer": "farms"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "People in cities mostly work in ________.",
+      "options": [
+        { "option_id": 1, "text": "fields", "is_correct": false },
+        { "option_id": 2, "text": "offices", "is_correct": true },
+        { "option_id": 3, "text": "farms", "is_correct": false },
+        { "option_id": 4, "text": "forests", "is_correct": false }
+      ],
+      "answer": "offices"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which place usually has less pollution?",
+      "options": [
+        { "option_id": 1, "text": "City", "is_correct": false },
+        { "option_id": 2, "text": "Village", "is_correct": true },
+        { "option_id": 3, "text": "Market", "is_correct": false },
+        { "option_id": 4, "text": "Bus stand", "is_correct": false }
+      ],
+      "answer": "Village"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which place usually has more vehicles?",
+      "options": [
+        { "option_id": 1, "text": "Village", "is_correct": false },
+        { "option_id": 2, "text": "City", "is_correct": true },
+        { "option_id": 3, "text": "Forest", "is_correct": false },
+        { "option_id": 4, "text": "Farm", "is_correct": false }
+      ],
+      "answer": "City"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Houses in villages are usually ________.",
+      "options": [
+        { "option_id": 1, "text": "very close", "is_correct": false },
+        { "option_id": 2, "text": "far apart", "is_correct": true },
+        { "option_id": 3, "text": "very tall", "is_correct": false },
+        { "option_id": 4, "text": "inside buildings", "is_correct": false }
+      ],
+      "answer": "far apart"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Houses in cities are usually ________.",
+      "options": [
+        { "option_id": 1, "text": "far apart", "is_correct": false },
+        { "option_id": 2, "text": "close together", "is_correct": true },
+        { "option_id": 3, "text": "made of mud", "is_correct": false },
+        { "option_id": 4, "text": "near farms", "is_correct": false }
+      ],
+      "answer": "close together"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which transport is commonly seen in villages?",
+      "options": [
+        { "option_id": 1, "text": "Metro train", "is_correct": false },
+        { "option_id": 2, "text": "Bullock cart", "is_correct": true },
+        { "option_id": 3, "text": "Aeroplane", "is_correct": false },
+        { "option_id": 4, "text": "Taxi", "is_correct": false }
+      ],
+      "answer": "Bullock cart"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which transport is commonly used in cities?",
+      "options": [
+        { "option_id": 1, "text": "Bullock cart", "is_correct": false },
+        { "option_id": 2, "text": "Bus", "is_correct": true },
+        { "option_id": 3, "text": "Plough", "is_correct": false },
+        { "option_id": 4, "text": "Boat", "is_correct": false }
+      ],
+      "answer": "Bus"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which place usually has cleaner air?",
+      "options": [
+        { "option_id": 1, "text": "City", "is_correct": false },
+        { "option_id": 2, "text": "Village", "is_correct": true },
+        { "option_id": 3, "text": "Bus stop", "is_correct": false },
+        { "option_id": 4, "text": "Factory area", "is_correct": false }
+      ],
+      "answer": "Village"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is found in both villages and cities?",
+      "options": [
+        { "option_id": 1, "text": "People", "is_correct": true },
+        { "option_id": 2, "text": "Farms only", "is_correct": false },
+        { "option_id": 3, "text": "Tall buildings only", "is_correct": false },
+        { "option_id": 4, "text": "Forests only", "is_correct": false }
+      ],
+      "answer": "People"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which place has more schools and hospitals?",
+      "options": [
+        { "option_id": 1, "text": "Village", "is_correct": false },
+        { "option_id": 2, "text": "City", "is_correct": true },
+        { "option_id": 3, "text": "Forest", "is_correct": false },
+        { "option_id": 4, "text": "Farm", "is_correct": false }
+      ],
+      "answer": "City"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a village?",
+      "answer": "A village is a place with a small number of people and houses."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a city?",
+      "answer": "A city is a place with many people and buildings."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one occupation in a village.",
+      "answer": "Farming is a common occupation in a village."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one occupation in a city.",
+      "answer": "Office work is a common occupation in a city."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How are village houses different from city houses?",
+      "answer": "Village houses are far apart, while city houses are close together."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which place has less pollution?",
+      "answer": "Villages usually have less pollution."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is pollution less in villages?",
+      "answer": "Villages have fewer vehicles and factories."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which place has more vehicles?",
+      "answer": "Cities have more vehicles."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one means of transport used in villages.",
+      "answer": "A bullock cart is used in villages."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one means of transport used in cities.",
+      "answer": "A bus is used in cities."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which place has cleaner air?",
+      "answer": "Villages usually have cleaner air."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one thing common to both village and city.",
+      "answer": "People live in both villages and cities."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why do people like to live in cities?",
+      "answer": "Cities have more jobs, schools and hospitals."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why do people like to live in villages?",
+      "answer": "Villages are peaceful and have clean surroundings."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why are villages and cities important?",
+      "answer": "Villages and cities are important because people live and work there."
+    }
+  ]
+}

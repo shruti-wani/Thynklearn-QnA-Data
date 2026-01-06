@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.22",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Action Time - 1"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of these is an action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word shows what we do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jump",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jump"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do action words tell us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Colour",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Place",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Work done",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Name",
+          "is_correct": false
+        }
+      ],
+      "answer": "Work done"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of these is not an action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happy"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which sentence has an action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I run.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I am red.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "This is a pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I have a bag.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I run."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which is an action at school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Write",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cup",
+          "is_correct": false
+        }
+      ],
+      "answer": "Write"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word is not an action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Book",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Book"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these is an action we do with legs?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walk",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walk"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which sentence shows an action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She sings.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She is tall.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "This is a cat.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I like milk.",
+          "is_correct": false
+        }
+      ],
+      "answer": "She sings."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word shows movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these is an action in the playground?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word tells what someone is doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dance",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Green",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Table",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dance"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which sentence has two actions?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I read and write.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I am happy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "This is a pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I like milk.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I read and write."
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which is an action done with hands?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Write",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "Write"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these is a correct action sentence?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I jump.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I blue.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I apple.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I jump."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is an action word?",
+      "answer": "An action word tells what someone does."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Give one example of an action word.",
+      "answer": "Run is an action word."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What do action words show?",
+      "answer": "They show what someone is doing."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write two action words.",
+      "answer": "Jump and walk are action words."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Write one sentence with an action word.",
+      "answer": "I run."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Name one action you do in school.",
+      "answer": "I write in school."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name one action you do at home.",
+      "answer": "I eat at home."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Find the action word: 'She sings.'",
+      "answer": "The action word is 'sings'."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write a sentence using 'play'.",
+      "answer": "I play in the playground."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What action do you do with your hands?",
+      "answer": "I write with my hands."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What action do you do with your legs?",
+      "answer": "I walk with my legs."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why do we use action words?",
+      "answer": "We use them to show actions in sentences."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write a sentence with two actions.",
+      "answer": "I read and write."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Is 'run' an action word?",
+      "answer": "Yes, 'run' is an action word."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why is action time important?",
+      "answer": "It helps us understand actions clearly."
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.10",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Pretty as a Picture"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the class teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Miss Nina",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Miss Rita",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Miss Meena",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Miss Sita",
+          "is_correct": false
+        }
+      ],
+      "answer": "Miss Nina"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which day was story time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Monday",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wednesday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sunday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friday"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why were the children excited?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They loved stories",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They wanted to go home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They had a test",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They were tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "They loved stories"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did the teacher say at first?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The story would have to wait",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She would tell a story",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She was angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She left the class",
+          "is_correct": false
+        }
+      ],
+      "answer": "The story would have to wait"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did the children say?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "That's not fair!",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thank you",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "We are happy",
+          "is_correct": false
+        }
+      ],
+      "answer": "That's not fair!"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the class teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Miss Nina",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Miss Rita",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Miss Meena",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Miss Sita",
+          "is_correct": false
+        }
+      ],
+      "answer": "Miss Nina"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which day was story time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Monday",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wednesday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sunday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friday"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Why were the children excited?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They loved stories",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They wanted to go home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They had a test",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They were tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "They loved stories"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did the teacher say at first?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The story would have to wait",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She would tell a story",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She was angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She left the class",
+          "is_correct": false
+        }
+      ],
+      "answer": "The story would have to wait"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What did the children say?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "That's not fair!",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thank you",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "We are happy",
+          "is_correct": false
+        }
+      ],
+      "answer": "That's not fair!"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the class teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Miss Nina",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Miss Rita",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Miss Meena",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Miss Sita",
+          "is_correct": false
+        }
+      ],
+      "answer": "Miss Nina"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which day was story time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Monday",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wednesday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sunday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friday"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why were the children excited?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They loved stories",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They wanted to go home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They had a test",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They were tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "They loved stories"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What did the teacher say at first?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The story would have to wait",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She would tell a story",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She was angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She left the class",
+          "is_correct": false
+        }
+      ],
+      "answer": "The story would have to wait"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did the children say?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "That's not fair!",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thank you",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "We are happy",
+          "is_correct": false
+        }
+      ],
+      "answer": "That's not fair!"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Who was the class teacher?",
+      "answer": "The class teacher was Miss Nina."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Which day was story time?",
+      "answer": "Friday was story time."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Why did the children love Fridays?",
+      "answer": "Because they could listen to stories."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What did the teacher say at first?",
+      "answer": "She said the story would have to wait."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What did the children reply?",
+      "answer": "They said, 'That's not fair!'"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who was the class teacher?",
+      "answer": "The class teacher was Miss Nina."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Which day was story time?",
+      "answer": "Friday was story time."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Why did the children love Fridays?",
+      "answer": "Because they could listen to stories."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What did the teacher say at first?",
+      "answer": "She said the story would have to wait."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What did the children reply?",
+      "answer": "They said, 'That's not fair!'"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who was the class teacher?",
+      "answer": "The class teacher was Miss Nina."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Which day was story time?",
+      "answer": "Friday was story time."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Why did the children love Fridays?",
+      "answer": "Because they could listen to stories."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What did the teacher say at first?",
+      "answer": "She said the story would have to wait."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What did the children reply?",
+      "answer": "They said, 'That's not fair!'"
+    }
+  ]
+}

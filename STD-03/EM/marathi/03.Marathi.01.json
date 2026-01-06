@@ -1,0 +1,181 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.MarathiMedium.English.01",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi Medium",
+    "chapter_name": "Play Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the children’s favourite time?",
+      "options": [
+        { "option_id": 1, "text": "Study time", "is_correct": false },
+        { "option_id": 2, "text": "Play time", "is_correct": true },
+        { "option_id": 3, "text": "Sleep time", "is_correct": false },
+        { "option_id": 4, "text": "Reading time", "is_correct": false }
+      ],
+      "answer": "Play time"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where do children like to play?",
+      "options": [
+        { "option_id": 1, "text": "Classroom", "is_correct": false },
+        { "option_id": 2, "text": "Playground", "is_correct": true },
+        { "option_id": 3, "text": "Library", "is_correct": false },
+        { "option_id": 4, "text": "Kitchen", "is_correct": false }
+      ],
+      "answer": "Playground"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which activity do children enjoy the most?",
+      "options": [
+        { "option_id": 1, "text": "Writing", "is_correct": false },
+        { "option_id": 2, "text": "Playing", "is_correct": true },
+        { "option_id": 3, "text": "Cleaning", "is_correct": false },
+        { "option_id": 4, "text": "Reading", "is_correct": false }
+      ],
+      "answer": "Playing"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What do children do during play time?",
+      "options": [
+        { "option_id": 1, "text": "Sleep", "is_correct": false },
+        { "option_id": 2, "text": "Play games", "is_correct": true },
+        { "option_id": 3, "text": "Study lessons", "is_correct": false },
+        { "option_id": 4, "text": "Eat food", "is_correct": false }
+      ],
+      "answer": "Play games"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these is a game?",
+      "options": [
+        { "option_id": 1, "text": "Cricket", "is_correct": true },
+        { "option_id": 2, "text": "Book", "is_correct": false },
+        { "option_id": 3, "text": "Chair", "is_correct": false },
+        { "option_id": 4, "text": "Bag", "is_correct": false }
+      ],
+      "answer": "Cricket"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why is play time important?",
+      "options": [
+        { "option_id": 1, "text": "It makes us tired", "is_correct": false },
+        { "option_id": 2, "text": "It keeps us happy and healthy", "is_correct": true },
+        { "option_id": 3, "text": "It wastes time", "is_correct": false },
+        { "option_id": 4, "text": "It makes us sleepy", "is_correct": false }
+      ],
+      "answer": "It keeps us happy and healthy"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "With whom do children like to play?",
+      "options": [
+        { "option_id": 1, "text": "Teachers", "is_correct": false },
+        { "option_id": 2, "text": "Friends", "is_correct": true },
+        { "option_id": 3, "text": "Doctors", "is_correct": false },
+        { "option_id": 4, "text": "Shopkeepers", "is_correct": false }
+      ],
+      "answer": "Friends"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should children do while playing?",
+      "options": [
+        { "option_id": 1, "text": "Fight", "is_correct": false },
+        { "option_id": 2, "text": "Follow rules", "is_correct": true },
+        { "option_id": 3, "text": "Shout", "is_correct": false },
+        { "option_id": 4, "text": "Push others", "is_correct": false }
+      ],
+      "answer": "Follow rules"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is played outdoors?",
+      "options": [
+        { "option_id": 1, "text": "Cricket", "is_correct": true },
+        { "option_id": 2, "text": "Chess", "is_correct": false },
+        { "option_id": 3, "text": "Carrom", "is_correct": false },
+        { "option_id": 4, "text": "Ludo", "is_correct": false }
+      ],
+      "answer": "Cricket"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Play time helps children to stay ________.",
+      "options": [
+        { "option_id": 1, "text": "weak", "is_correct": false },
+        { "option_id": 2, "text": "active", "is_correct": true },
+        { "option_id": 3, "text": "lazy", "is_correct": false },
+        { "option_id": 4, "text": "sad", "is_correct": false }
+      ],
+      "answer": "active"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is play time?",
+      "answer": "Play time is the time when children play games."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why do children like play time?",
+      "answer": "Children like play time because it makes them happy."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Where do children usually play?",
+      "answer": "Children usually play in the playground."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one game children play.",
+      "answer": "Children play cricket."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "With whom do children play?",
+      "answer": "Children play with their friends."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why is play time important?",
+      "answer": "Play time keeps children healthy and active."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should children do while playing?",
+      "answer": "Children should follow rules while playing."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Is play time good for health?",
+      "answer": "Yes, play time is good for health."
+    }
+  ]
+}
+

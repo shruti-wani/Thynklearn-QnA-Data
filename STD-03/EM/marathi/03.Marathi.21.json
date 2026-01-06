@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.21",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "We can read and write - 1"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What do we use to read?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eyes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ears",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What do we use to write?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spoon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bottle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pen"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these helps us to read words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Book",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Book"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which tool is used for writing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pencil",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cup",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shoe",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pencil"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do we write in a notebook?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Words",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Air",
+          "is_correct": false
+        }
+      ],
+      "answer": "Words"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of these is used to read in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Textbook",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Bed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ball",
+          "is_correct": false
+        }
+      ],
+      "answer": "Textbook"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What helps us to write neatly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these is for reading?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story book",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Bottle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shoe",
+          "is_correct": false
+        }
+      ],
+      "answer": "Story book"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is for writing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fan",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cap",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pen"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What do we learn by reading?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Words",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Stones",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Air",
+          "is_correct": false
+        }
+      ],
+      "answer": "Words"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which object helps you to write?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pencil",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Banana",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Orange",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pencil"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is used in class?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Notebook",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pillow",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blanket",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Notebook"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What do we read in a book?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Letters and words",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sand",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Air",
+          "is_correct": false
+        }
+      ],
+      "answer": "Letters and words"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which helps us to write on paper?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cup",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ball",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pen"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why do we read and write?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To play only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "To learn"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What do we use to read?",
+      "answer": "We use our eyes to read."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What do we use to write?",
+      "answer": "We use a pen or pencil to write."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What do we read in school?",
+      "answer": "We read books in school."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What do we write in a notebook?",
+      "answer": "We write words and sentences in a notebook."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Name one thing used for writing.",
+      "answer": "Pen is used for writing."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Name one thing used for reading.",
+      "answer": "Book is used for reading."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Why do we read?",
+      "answer": "We read to learn new things."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Why do we write?",
+      "answer": "We write to show our thoughts."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What do we learn by reading?",
+      "answer": "We learn words and ideas by reading."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Where do we write our work?",
+      "answer": "We write our work in a notebook."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What helps us to write better?",
+      "answer": "Practice helps us to write better."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'read'.",
+      "answer": "I read a book."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'write'.",
+      "answer": "I write in my notebook."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What do we need to write neatly?",
+      "answer": "We need practice to write neatly."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why are reading and writing important?",
+      "answer": "They are important because they help us to learn."
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.02",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "So Many Kinds of Animals!"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Animals are living things because they ________.",
+      "options": [
+        { "option_id": 1, "text": "do not grow", "is_correct": false },
+        { "option_id": 2, "text": "need food and grow", "is_correct": true },
+        { "option_id": 3, "text": "are made of stone", "is_correct": false },
+        { "option_id": 4, "text": "do not move", "is_correct": false }
+      ],
+      "answer": "need food and grow"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which animal lives in water?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Fish", "is_correct": true },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Fish"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which animal can fly?",
+      "options": [
+        { "option_id": 1, "text": "Snake", "is_correct": false },
+        { "option_id": 2, "text": "Bird", "is_correct": true },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Dog", "is_correct": false }
+      ],
+      "answer": "Bird"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which animal crawls on the ground?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": false },
+        { "option_id": 2, "text": "Snake", "is_correct": true },
+        { "option_id": 3, "text": "Horse", "is_correct": false },
+        { "option_id": 4, "text": "Cow", "is_correct": false }
+      ],
+      "answer": "Snake"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which animal lives both on land and in water?",
+      "options": [
+        { "option_id": 1, "text": "Fish", "is_correct": false },
+        { "option_id": 2, "text": "Frog", "is_correct": true },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Dog", "is_correct": false }
+      ],
+      "answer": "Frog"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which animal has four legs?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": false },
+        { "option_id": 2, "text": "Cow", "is_correct": true },
+        { "option_id": 3, "text": "Fish", "is_correct": false },
+        { "option_id": 4, "text": "Snake", "is_correct": false }
+      ],
+      "answer": "Cow"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which animal has no legs?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Snake", "is_correct": true },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Snake"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which animal gives us milk?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Cow", "is_correct": true },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Hen", "is_correct": false }
+      ],
+      "answer": "Cow"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which animal helps us guard our house?",
+      "options": [
+        { "option_id": 1, "text": "Goat", "is_correct": false },
+        { "option_id": 2, "text": "Dog", "is_correct": true },
+        { "option_id": 3, "text": "Hen", "is_correct": false },
+        { "option_id": 4, "text": "Cow", "is_correct": false }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which animal gives us eggs?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Hen", "is_correct": true },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Hen"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Animals like cows and dogs are called ________ animals.",
+      "options": [
+        { "option_id": 1, "text": "wild", "is_correct": false },
+        { "option_id": 2, "text": "domestic", "is_correct": true },
+        { "option_id": 3, "text": "forest", "is_correct": false },
+        { "option_id": 4, "text": "water", "is_correct": false }
+      ],
+      "answer": "domestic"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Animals like lions and tigers are called ________ animals.",
+      "options": [
+        { "option_id": 1, "text": "pet", "is_correct": false },
+        { "option_id": 2, "text": "wild", "is_correct": true },
+        { "option_id": 3, "text": "farm", "is_correct": false },
+        { "option_id": 4, "text": "domestic", "is_correct": false }
+      ],
+      "answer": "wild"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which animal is very big in size?",
+      "options": [
+        { "option_id": 1, "text": "Ant", "is_correct": false },
+        { "option_id": 2, "text": "Elephant", "is_correct": true },
+        { "option_id": 3, "text": "Rat", "is_correct": false },
+        { "option_id": 4, "text": "Sparrow", "is_correct": false }
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which animal is very small in size?",
+      "options": [
+        { "option_id": 1, "text": "Horse", "is_correct": false },
+        { "option_id": 2, "text": "Elephant", "is_correct": false },
+        { "option_id": 3, "text": "Ant", "is_correct": true },
+        { "option_id": 4, "text": "Cow", "is_correct": false }
+      ],
+      "answer": "Ant"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why are animals called living things?",
+      "answer": "Animals are called living things because they need food, grow and move."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name two animals that live on land.",
+      "answer": "Cow and dog live on land."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name two animals that live in water.",
+      "answer": "Fish and whale live in water."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one animal that can fly.",
+      "answer": "A bird can fly."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which animal crawls?",
+      "answer": "A snake crawls."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name one animal that lives both on land and in water.",
+      "answer": "A frog lives both on land and in water."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one domestic animal.",
+      "answer": "A cow is a domestic animal."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name one wild animal.",
+      "answer": "A lion is a wild animal."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which animal gives us milk?",
+      "answer": "A cow gives us milk."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which animal helps us guard our house?",
+      "answer": "A dog helps us guard our house."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which animal gives us eggs?",
+      "answer": "A hen gives us eggs."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are animals useful to us?",
+      "answer": "Animals give us food, help us in work and guard our homes."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which animal has no legs?",
+      "answer": "A snake has no legs."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which animal is the biggest land animal?",
+      "answer": "The elephant is the biggest land animal."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why should we take care of animals?",
+      "answer": "We should take care of animals because they are part of our environment."
+    }
+  ]
+}

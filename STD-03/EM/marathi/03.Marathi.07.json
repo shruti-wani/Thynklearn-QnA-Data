@@ -1,0 +1,181 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.MarathiMedium.English.07",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi Medium",
+    "chapter_name": "Who Are You?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the lesson mainly about?",
+      "options": [
+        { "option_id": 1, "text": "Games", "is_correct": false },
+        { "option_id": 2, "text": "Introducing oneself", "is_correct": true },
+        { "option_id": 3, "text": "Animals", "is_correct": false },
+        { "option_id": 4, "text": "Days of the week", "is_correct": false }
+      ],
+      "answer": "Introducing oneself"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which question do we ask to know someone’s name?",
+      "options": [
+        { "option_id": 1, "text": "How old are you?", "is_correct": false },
+        { "option_id": 2, "text": "Who are you?", "is_correct": true },
+        { "option_id": 3, "text": "Where are you?", "is_correct": false },
+        { "option_id": 4, "text": "What do you do?", "is_correct": false }
+      ],
+      "answer": "Who are you?"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When someone asks your name, what should you do?",
+      "options": [
+        { "option_id": 1, "text": "Keep quiet", "is_correct": false },
+        { "option_id": 2, "text": "Tell your name politely", "is_correct": true },
+        { "option_id": 3, "text": "Run away", "is_correct": false },
+        { "option_id": 4, "text": "Shout", "is_correct": false }
+      ],
+      "answer": "Tell your name politely"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of these is used while introducing yourself?",
+      "options": [
+        { "option_id": 1, "text": "Rude words", "is_correct": false },
+        { "option_id": 2, "text": "Polite words", "is_correct": true },
+        { "option_id": 3, "text": "Loud voice", "is_correct": false },
+        { "option_id": 4, "text": "Angry words", "is_correct": false }
+      ],
+      "answer": "Polite words"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word is polite while answering?",
+      "options": [
+        { "option_id": 1, "text": "Please", "is_correct": true },
+        { "option_id": 2, "text": "Hey", "is_correct": false },
+        { "option_id": 3, "text": "Go away", "is_correct": false },
+        { "option_id": 4, "text": "No", "is_correct": false }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which sentence is correct while introducing yourself?",
+      "options": [
+        { "option_id": 1, "text": "My name is Riya.", "is_correct": true },
+        { "option_id": 2, "text": "Name Riya.", "is_correct": false },
+        { "option_id": 3, "text": "Riya.", "is_correct": false },
+        { "option_id": 4, "text": "I Riya.", "is_correct": false }
+      ],
+      "answer": "My name is Riya."
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why should we introduce ourselves?",
+      "options": [
+        { "option_id": 1, "text": "To make friends", "is_correct": true },
+        { "option_id": 2, "text": "To fight", "is_correct": false },
+        { "option_id": 3, "text": "To shout", "is_correct": false },
+        { "option_id": 4, "text": "To hide", "is_correct": false }
+      ],
+      "answer": "To make friends"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these should you tell while introducing yourself?",
+      "options": [
+        { "option_id": 1, "text": "Your name", "is_correct": true },
+        { "option_id": 2, "text": "Someone else’s name", "is_correct": false },
+        { "option_id": 3, "text": "Wrong name", "is_correct": false },
+        { "option_id": 4, "text": "No name", "is_correct": false }
+      ],
+      "answer": "Your name"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How should we speak while introducing ourselves?",
+      "options": [
+        { "option_id": 1, "text": "Rudely", "is_correct": false },
+        { "option_id": 2, "text": "Politely", "is_correct": true },
+        { "option_id": 3, "text": "Angrily", "is_correct": false },
+        { "option_id": 4, "text": "Carelessly", "is_correct": false }
+      ],
+      "answer": "Politely"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word do we say at the end to be polite?",
+      "options": [
+        { "option_id": 1, "text": "Thanks", "is_correct": true },
+        { "option_id": 2, "text": "Go", "is_correct": false },
+        { "option_id": 3, "text": "Stop", "is_correct": false },
+        { "option_id": 4, "text": "No", "is_correct": false }
+      ],
+      "answer": "Thanks"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does introducing yourself mean?",
+      "answer": "Introducing yourself means telling your name."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How should you speak while introducing yourself?",
+      "answer": "We should speak politely."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a polite way to tell your name?",
+      "answer": "We say, 'My name is ...'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why should we introduce ourselves?",
+      "answer": "To know each other and make friends."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which word shows good manners?",
+      "answer": "Please shows good manners."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What should you say after speaking?",
+      "answer": "We should say thank you."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Is it good to speak politely?",
+      "answer": "Yes, it is good to speak politely."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What should we not do while introducing ourselves?",
+      "answer": "We should not speak rudely."
+    }
+  ]
+}
+

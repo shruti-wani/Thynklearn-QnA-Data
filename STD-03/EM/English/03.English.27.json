@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.27",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Bremen Town Musicians"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which animals are in the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Donkey, dog, cat, cock",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lion, tiger, bear, wolf",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cow, goat, sheep, horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bird, fish, frog, snake",
+          "is_correct": false
+        }
+      ],
+      "answer": "Donkey, dog, cat, cock"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where were they going?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To Bremen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To a city",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To a village",
+          "is_correct": false
+        }
+      ],
+      "answer": "To Bremen"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did they see in the house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Robbers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Children",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Robbers"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did the animals do together?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sang loudly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Slept",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sang loudly"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What happened to the robbers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They ran away",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They stayed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They laughed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They returned",
+          "is_correct": false
+        }
+      ],
+      "answer": "They ran away"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which animals are in the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Donkey, dog, cat, cock",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lion, tiger, bear, wolf",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cow, goat, sheep, horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bird, fish, frog, snake",
+          "is_correct": false
+        }
+      ],
+      "answer": "Donkey, dog, cat, cock"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where were they going?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To Bremen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To a city",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To a village",
+          "is_correct": false
+        }
+      ],
+      "answer": "To Bremen"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did they see in the house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Robbers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Children",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Robbers"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did the animals do together?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sang loudly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Slept",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sang loudly"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What happened to the robbers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They ran away",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They stayed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They laughed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They returned",
+          "is_correct": false
+        }
+      ],
+      "answer": "They ran away"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which animals are in the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Donkey, dog, cat, cock",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lion, tiger, bear, wolf",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cow, goat, sheep, horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bird, fish, frog, snake",
+          "is_correct": false
+        }
+      ],
+      "answer": "Donkey, dog, cat, cock"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where were they going?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To Bremen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To a city",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To a village",
+          "is_correct": false
+        }
+      ],
+      "answer": "To Bremen"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What did they see in the house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Robbers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Children",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Robbers"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What did the animals do together?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sang loudly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Slept",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sang loudly"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What happened to the robbers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They ran away",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They stayed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They laughed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They returned",
+          "is_correct": false
+        }
+      ],
+      "answer": "They ran away"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Which animals are in the story?",
+      "answer": "A donkey, dog, cat and cock."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Where were they going?",
+      "answer": "They were going to Bremen."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What did they see in the house?",
+      "answer": "They saw robbers."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What did the animals do?",
+      "answer": "They sang together loudly."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "Unity is strength."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Which animals are in the story?",
+      "answer": "A donkey, dog, cat and cock."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Where were they going?",
+      "answer": "They were going to Bremen."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What did they see in the house?",
+      "answer": "They saw robbers."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What did the animals do?",
+      "answer": "They sang together loudly."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "Unity is strength."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Which animals are in the story?",
+      "answer": "A donkey, dog, cat and cock."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Where were they going?",
+      "answer": "They were going to Bremen."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What did they see in the house?",
+      "answer": "They saw robbers."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What did the animals do?",
+      "answer": "They sang together loudly."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "Unity is strength."
+    }
+  ]
+}

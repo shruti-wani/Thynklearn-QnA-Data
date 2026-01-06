@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.37",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Adverbs"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word tells how an action is done?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Slowly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "Slowly"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is an adverb?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Quickly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quickly"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word tells when?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Today",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Big",
+          "is_correct": false
+        }
+      ],
+      "answer": "Today"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sentence has an adverb?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She runs fast.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She is tall.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "This is a pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I like milk.",
+          "is_correct": false
+        }
+      ],
+      "answer": "She runs fast."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word tells where?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Here",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple",
+          "is_correct": false
+        }
+      ],
+      "answer": "Here"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word tells how an action is done? (37-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Slowly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "Slowly"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is an adverb? (37-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Quickly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quickly"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word tells when? (37-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Today",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Big",
+          "is_correct": false
+        }
+      ],
+      "answer": "Today"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which sentence has an adverb? (37-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She runs fast.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She is tall.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "This is a pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I like milk.",
+          "is_correct": false
+        }
+      ],
+      "answer": "She runs fast."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word tells where? (37-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Here",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple",
+          "is_correct": false
+        }
+      ],
+      "answer": "Here"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word tells how an action is done? (37-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Slowly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "Slowly"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which is an adverb? (37-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Quickly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quickly"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word tells when? (37-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Today",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Big",
+          "is_correct": false
+        }
+      ],
+      "answer": "Today"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which sentence has an adverb? (37-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She runs fast.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She is tall.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "This is a pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I like milk.",
+          "is_correct": false
+        }
+      ],
+      "answer": "She runs fast."
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word tells where? (37-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Here",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple",
+          "is_correct": false
+        }
+      ],
+      "answer": "Here"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is an adverb?",
+      "answer": "An adverb tells how, when or where an action happens."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Give one example of an adverb.",
+      "answer": "Fast is an adverb."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write one sentence using an adverb.",
+      "answer": "He walks slowly."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Which word tells time?",
+      "answer": "Today tells time."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why do we use adverbs?",
+      "answer": "We use adverbs to add more meaning to actions."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is an adverb? (37-6)",
+      "answer": "An adverb tells how, when or where an action happens."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Give one example of an adverb. (37-7)",
+      "answer": "Fast is an adverb."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Write one sentence using an adverb. (37-8)",
+      "answer": "He walks slowly."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Which word tells time? (37-9)",
+      "answer": "Today tells time."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why do we use adverbs? (37-10)",
+      "answer": "We use adverbs to add more meaning to actions."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is an adverb? (37-11)",
+      "answer": "An adverb tells how, when or where an action happens."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Give one example of an adverb. (37-12)",
+      "answer": "Fast is an adverb."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one sentence using an adverb. (37-13)",
+      "answer": "He walks slowly."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Which word tells time? (37-14)",
+      "answer": "Today tells time."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do we use adverbs? (37-15)",
+      "answer": "We use adverbs to add more meaning to actions."
+    }
+  ]
+}

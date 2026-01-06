@@ -1,0 +1,1672 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03-Marathi-14",
+    "standard": "3",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "खजिनाशोध",
+    "chapter_type": "कथा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘खजिनाशोध’ या कथेत शाळेत कोणता खेळ खेळला गेला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खजिनाशोधाचा खेळ कधी खेळला गेला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खेळासाठी मुलांना काय दिले गेले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सूचना कुठे लपवलेल्या होत्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सूचना वाचल्यानंतर मुले काय करत होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "सूचनांमधून मुलांना काय शोधायचे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "खजिनाशोधाच्या खेळात किती गट होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पहिली सूचना कुठे मिळाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "दुसरी सूचना कुठे मिळाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सूचना वाचताना मुले कशी वागत होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मुले एकत्र का फिरत होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सूचना समजून घेण्यासाठी मुले काय करत होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खजिनाशोधाचा खेळ कोणी आयोजित केला होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "शिक्षिकेची भूमिका काय होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सूचना शोधताना मुलांना काय अनुभव आला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "खेळात मुलांनी कोणते गुण दाखवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "खजिनाशोध खेळातून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सूचनांमुळे मुलांना काय करावे लागले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "खेळात धावपळ का झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "मुले एकमेकांना कशी मदत करत होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सूचना शोधताना मुले आनंदी का होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "खेळाचा शेवट कसा झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "खजिना म्हणजे नेमके काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "खजिनाशोध खेळात मुलांना काय बक्षीस मिळाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "खेळातून कोणती सवय लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "सूचना वाचण्याचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "खजिनाशोध खेळ का मजेशीर वाटतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "खेळात मुलांना कोणते नियम पाळावे लागले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सूचना न समजल्यास काय अडचण येऊ शकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "खजिनाशोध खेळातून कोणते मूल्य शिकवले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "खेळात नेतृत्व कोणी केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "खेळात गटात काम का आवश्यक होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "सूचना शोधताना कोणते ठिकाण वापरले गेले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "खेळात वेळेचे महत्त्व काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "खजिनाशोध खेळात धाडस कसे दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "खेळात कोणती कौशल्ये विकसित होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "सूचना शोधताना मुले कुठे गेली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "खेळात शिस्त का आवश्यक होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "खजिनाशोध खेळातून सहकार्य कसे शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "खेळात मुलांनी काय निरीक्षण केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "खजिनाशोध खेळ का आयोजित केला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "सूचना वाचून योग्य निर्णय का घ्यावा लागतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "खेळात सर्व मुले सहभागी का झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "खजिनाशोध खेळाचा उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "खेळातून मुलांना काय समाधान मिळाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सूचना शोधताना कोणती मजा आली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "खजिनाशोध खेळात कोणती अडचण आली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "खेळाचा शेवट आनंददायी का होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "‘खजिनाशोध’ या कथेचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खजिनाशोध खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खजिनाशोध खेळ"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध म्हणजे काय?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शाळेत खजिनाशोध खेळ का खेळला गेला?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "खेळासाठी मुलांना काय सूचना दिल्या होत्या?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सूचना कुठे लपवलेल्या होत्या?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सूचना वाचल्यानंतर मुले काय करत होती?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "खेळात किती गट होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळात शिक्षकांची भूमिका काय होती?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मुले एकत्र का काम करत होती?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "सूचना समजून घेणे का आवश्यक होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "खेळात मुलांनी कोणते गुण दाखवले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळातून काय शिकायला मिळते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "खेळात सहकार्य का आवश्यक होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सूचना शोधताना मुलांना काय अनुभव आला?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "खेळात धावपळ का झाली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळातून नेतृत्व कसे शिकायला मिळते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "खेळात शिस्त का आवश्यक होती?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "सूचना वाचण्याचे महत्त्व काय आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळ मजेशीर का वाटतो?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "खेळात वेळेचे नियोजन का आवश्यक होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "खेळातून कोणती कौशल्ये विकसित होतात?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सूचना शोधताना मुलांनी काय निरीक्षण केले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "खेळात सर्व मुले सहभागी का झाली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळाचा उद्देश काय होता?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "खेळातून मुलांना काय समाधान मिळाले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "खेळाचा शेवट कसा झाला?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "खजिना म्हणजे नेमके काय होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "खेळात मुलांना काय बक्षीस मिळाले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "खेळातून कोणती सवय लागते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "सूचना न समजल्यास काय अडचण येते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळातून कोणते मूल्य शिकवले जाते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "खेळात गटात काम का महत्त्वाचे आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "सूचना शोधताना कोणती ठिकाणे वापरली गेली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "खेळात मुलांनी कशी मदत केली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळात धाडस कसे दिसते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "खेळात निरीक्षणाचे महत्त्व काय आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "खेळातून मुलांना काय शिकायला मिळते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "सूचना वाचून निर्णय घेणे का गरजेचे आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "खेळात अडचणी कशा सोडविल्या?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळातून आनंद कसा मिळतो?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "खेळात मुलांनी कोणते नियम पाळले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "खेळातून जबाबदारी कशी वाढते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळातून आत्मविश्वास कसा वाढतो?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "खेळात मुलांनी कोणते अनुभव घेतले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "सूचना शोधताना कोणती मजा आली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "खेळातून कोणते नैतिक मूल्य शिकायला मिळते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "खजिनाशोध खेळ का उपयुक्त आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "खेळात एकजूट कशी दिसते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "खेळाचा मुख्य संदेश काय आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    }
+  ]
+}

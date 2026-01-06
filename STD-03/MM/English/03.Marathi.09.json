@@ -1,0 +1,721 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.09",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "आईचा वाढदिवस"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'आईचा वाढदिवस' या धड्यात कशाबद्दल सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आईच्या वाढदिवसाबद्दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेच्या कार्यक्रमाबद्दल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळाबद्दल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवासाबद्दल",
+          "is_correct": false
+        }
+      ],
+      "answer": "आईच्या वाढदिवसाबद्दल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आईचा वाढदिवस कधी साजरा केला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आईच्या जन्मदिनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सणाच्या दिवशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीच्या दिवशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आईच्या जन्मदिनी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वाढदिवसाच्या दिवशी मुलांनी काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आईला शुभेच्छा दिल्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ खेळले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडण केले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोप घेतली",
+          "is_correct": false
+        }
+      ],
+      "answer": "आईला शुभेच्छा दिल्या"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आईला वाढदिवसाच्या दिवशी कसे वाटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद वाटला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग आला",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दु:ख झाले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती वाटली",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद वाटला"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "आईसाठी मुलांनी काय तयारी केली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लहानसे आयोजन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काम टाळले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शाळेत गेले",
+          "is_correct": false
+        }
+      ],
+      "answer": "लहानसे आयोजन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वाढदिवस साजरा करताना कोणती भावना दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "आईचा वाढदिवस साजरा करण्याचा मुख्य उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आईवर प्रेम दाखवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ खेळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ घालवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळ करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आईवर प्रेम दाखवणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वाढदिवसाच्या दिवशी घरातील वातावरण कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडणाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शांत नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मुलांनी आईसाठी काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "छान शुभेच्छा दिल्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तिला दुर्लक्ष केले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तिच्यावर रागावले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिच्याशी भांडले",
+          "is_correct": false
+        }
+      ],
+      "answer": "छान शुभेच्छा दिल्या"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आईसाठी केलेल्या कृतीतून काय दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर आणि प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आदर आणि प्रेम"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आईवर प्रेम करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थी असणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागावणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आईवर प्रेम करणे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वाढदिवस साजरा करताना कोणता गुण वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "आईसाठी भेटवस्तू देण्याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम व्यक्त करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दाखवा करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ वाया घालवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम व्यक्त करणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वाढदिवसाच्या दिवशी कोणते शब्द महत्त्वाचे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शुभेच्छांचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कठीण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शुभेच्छांचे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आईचा वाढदिवस साजरा केल्याने काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाते घट्ट होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस वाढतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "नाते घट्ट होते"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "या कथेत कोणते नाते दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आई आणि मूल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आई आणि मूल"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वाढदिवस साजरा करताना कसे वागावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदराने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उद्धटपणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुर्लक्ष करून",
+          "is_correct": false
+        }
+      ],
+      "answer": "आदराने"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "आईसाठी केलेल्या कृती मुलांना काय शिकवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम आणि आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम आणि आदर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त मोठ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आईचा वाढदिवस साजरा करण्यामागील भावना कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दु:ख",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "'आईचा वाढदिवस' या धड्यात कशाबद्दल सांगितले आहे?",
+      "answer": "या धड्यात आईच्या वाढदिवसाबद्दल सांगितले आहे."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "आईचा वाढदिवस कधी साजरा केला जातो?",
+      "answer": "आईच्या जन्मदिनी वाढदिवस साजरा केला जातो."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "मुलांनी आईसाठी काय केले?",
+      "answer": "मुलांनी आईला शुभेच्छा दिल्या आणि आनंद दिला."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "वाढदिवसाच्या दिवशी आईला कसे वाटले?",
+      "answer": "वाढदिवसाच्या दिवशी आईला आनंद वाटला."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "वाढदिवस साजरा करताना घरातील वातावरण कसे होते?",
+      "answer": "घरातील वातावरण आनंदी होते."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "या धड्यात कोणती भावना दिसते?",
+      "answer": "या धड्यात प्रेमाची भावना दिसते."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "आईचा वाढदिवस साजरा करण्याचा उद्देश काय आहे?",
+      "answer": "आईवर प्रेम आणि आदर दाखवणे हा उद्देश आहे."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "आईसाठी भेट देण्याचा अर्थ काय?",
+      "answer": "भेट देऊन प्रेम व्यक्त केले जाते."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "वाढदिवस साजरा केल्याने नात्यावर काय परिणाम होतो?",
+      "answer": "नाते अधिक घट्ट होते."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "आईवर प्रेम आणि आदर करायला शिकायला मिळते."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "आईसाठी शुभेच्छा देताना कसे बोलावे?",
+      "answer": "शांतपणे आणि प्रेमाने बोलावे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "वाढदिवस साजरा करताना कसे वागावे?",
+      "answer": "आदराने वागावे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "आईसाठी केलेल्या कृती मुलांना काय शिकवतात?",
+      "answer": "प्रेम आणि कृतज्ञता शिकवतात."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "वाढदिवस साजरा करताना कोणता गुण वाढतो?",
+      "answer": "कृतज्ञतेचा गुण वाढतो."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "या कथेत कोणते नाते दाखवले आहे?",
+      "answer": "आई आणि मुलाचे नाते दाखवले आहे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "आईसाठी खास दिवस का महत्त्वाचा आहे?",
+      "answer": "तो तिच्या प्रेमाचा सन्मान करण्याचा दिवस आहे."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "वाढदिवस साजरा केल्याने मुलांना काय वाटते?",
+      "answer": "मुलांना आनंद वाटतो."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "आईचा वाढदिवस साजरा करताना कोणते शब्द वापरावेत?",
+      "answer": "शुभेच्छांचे आणि प्रेमाचे शब्द वापरावेत."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "या धड्यामुळे घरातील वातावरण कसे होते?",
+      "answer": "घरातील वातावरण आनंदी होते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "आईसाठी लहानसे आयोजन का करावे?",
+      "answer": "आईला आनंद देण्यासाठी करावे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "वाढदिवस साजरा करताना काय टाळावे?",
+      "answer": "भांडण आणि गोंधळ टाळावा."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "आईवर प्रेम कसे दाखवता येते?",
+      "answer": "शुभेच्छा देऊन आणि मदत करून दाखवता येते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "या धड्यातील मुख्य संदेश काय आहे?",
+      "answer": "आईवर प्रेम आणि आदर करावा."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "आईचा वाढदिवस साजरा करताना संयम का आवश्यक आहे?",
+      "answer": "संयमामुळे सगळे नीट होते."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "तुम्ही आईचा वाढदिवस कसा साजरा करता?",
+      "answer": "मी आईला शुभेच्छा देऊन आणि मदत करून साजरा करतो."
+    }
+  ]
+}

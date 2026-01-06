@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.28",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Describing Words"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word tells about size?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Big",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Big"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word tells about shape?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Round",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Round"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word describes a thing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is a describing word?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Walk",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word tells about colour?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Green",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word tells about size? (28-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Big",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Big"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word tells about shape? (28-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Round",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Round"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word describes a thing? (28-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which is a describing word? (28-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Walk",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word tells about colour? (28-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Green",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word tells about size? (28-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Big",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Big"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word tells about shape? (28-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Round",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Round"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word describes a thing? (28-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which is a describing word? (28-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Walk",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word tells about colour? (28-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Green",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is a describing word?",
+      "answer": "A describing word tells more about a noun."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Write one describing word.",
+      "answer": "Small."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write one word that shows size.",
+      "answer": "Big."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write one word that shows colour.",
+      "answer": "Green."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why do we use describing words?",
+      "answer": "We use them to describe people, places and things."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is a describing word? (28-6)",
+      "answer": "A describing word tells more about a noun."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Write one describing word. (28-7)",
+      "answer": "Small."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Write one word that shows size. (28-8)",
+      "answer": "Big."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write one word that shows colour. (28-9)",
+      "answer": "Green."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why do we use describing words? (28-10)",
+      "answer": "We use them to describe people, places and things."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is a describing word? (28-11)",
+      "answer": "A describing word tells more about a noun."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Write one describing word. (28-12)",
+      "answer": "Small."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one word that shows size. (28-13)",
+      "answer": "Big."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Write one word that shows colour. (28-14)",
+      "answer": "Green."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do we use describing words? (28-15)",
+      "answer": "We use them to describe people, places and things."
+    }
+  ]
+}

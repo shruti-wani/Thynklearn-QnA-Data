@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.54",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "A Lovely Bird in the Garden"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where was the bird?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the garden",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In the house",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "On the road",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the school",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the garden"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which tree is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mango tree",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Neem tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Banyan tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peepal tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mango tree"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where was the bird seen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the branch",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In the water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Under the table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Behind the door",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the branch"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who was talking about the bird?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Meenakaki and Madhukaka",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ravi and Sita",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Teacher and student",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy and girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meenakaki and Madhukaka"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What kind of bird was it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lovely",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Big",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Small",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lovely"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where was the bird?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the garden",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In the house",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "On the road",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the school",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the garden"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which tree is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mango tree",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Neem tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Banyan tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peepal tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mango tree"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where was the bird seen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the branch",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In the water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Under the table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Behind the door",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the branch"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who was talking about the bird?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Meenakaki and Madhukaka",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ravi and Sita",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Teacher and student",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy and girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meenakaki and Madhukaka"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What kind of bird was it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lovely",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Big",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Small",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lovely"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where was the bird?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the garden",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In the house",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "On the road",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the school",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the garden"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which tree is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mango tree",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Neem tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Banyan tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peepal tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mango tree"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where was the bird seen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the branch",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In the water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Under the table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Behind the door",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the branch"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who was talking about the bird?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Meenakaki and Madhukaka",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ravi and Sita",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Teacher and student",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy and girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meenakaki and Madhukaka"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What kind of bird was it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lovely",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Big",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Small",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lovely"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Where was the bird?",
+      "answer": "The bird was in the garden."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "On what was the bird sitting?",
+      "answer": "It was sitting on a branch."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Name one place where the bird was seen.",
+      "answer": "Under the mango tree."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Who was talking about the bird?",
+      "answer": "Meenakaki and Madhukaka."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What kind of bird was it?",
+      "answer": "It was a lovely bird."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Where was the bird?",
+      "answer": "The bird was in the garden."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "On what was the bird sitting?",
+      "answer": "It was sitting on a branch."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Name one place where the bird was seen.",
+      "answer": "Under the mango tree."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Who was talking about the bird?",
+      "answer": "Meenakaki and Madhukaka."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What kind of bird was it?",
+      "answer": "It was a lovely bird."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Where was the bird?",
+      "answer": "The bird was in the garden."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "On what was the bird sitting?",
+      "answer": "It was sitting on a branch."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Name one place where the bird was seen.",
+      "answer": "Under the mango tree."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Who was talking about the bird?",
+      "answer": "Meenakaki and Madhukaka."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What kind of bird was it?",
+      "answer": "It was a lovely bird."
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.28",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Baby’s Dress"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poem about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A baby",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "A baby"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the mother want to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dress the baby",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Feed the baby",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rock the baby",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wash the baby",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dress the baby"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What colour will the lily find?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "White",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Green",
+          "is_correct": false
+        }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which tree finds pink?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cherry tree",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mango tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neem tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cherry tree"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the poem about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nature and colours",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Travel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and colours"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the poem about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A baby",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "A baby"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the mother want to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dress the baby",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Feed the baby",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rock the baby",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wash the baby",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dress the baby"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What colour will the lily find?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "White",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Green",
+          "is_correct": false
+        }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which tree finds pink?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cherry tree",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mango tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neem tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cherry tree"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the poem about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nature and colours",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Travel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and colours"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the poem about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A baby",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "A baby"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the mother want to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dress the baby",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Feed the baby",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rock the baby",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wash the baby",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dress the baby"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What colour will the lily find?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "White",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Green",
+          "is_correct": false
+        }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which tree finds pink?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cherry tree",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mango tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neem tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cherry tree"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the poem about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nature and colours",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Travel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and colours"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Who is the poem about?",
+      "answer": "The poem is about a baby."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What does the mother want to do?",
+      "answer": "She wants to dress the baby."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Which colour does the lily find?",
+      "answer": "White."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Which tree finds pink?",
+      "answer": "The cherry tree."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the poem teach us?",
+      "answer": "Love and beauty in nature."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who is the poem about?",
+      "answer": "The poem is about a baby."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What does the mother want to do?",
+      "answer": "She wants to dress the baby."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Which colour does the lily find?",
+      "answer": "White."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Which tree finds pink?",
+      "answer": "The cherry tree."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the poem teach us?",
+      "answer": "Love and beauty in nature."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who is the poem about?",
+      "answer": "The poem is about a baby."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What does the mother want to do?",
+      "answer": "She wants to dress the baby."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Which colour does the lily find?",
+      "answer": "White."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Which tree finds pink?",
+      "answer": "The cherry tree."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the poem teach us?",
+      "answer": "Love and beauty in nature."
+    }
+  ]
+}

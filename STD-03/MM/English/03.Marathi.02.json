@@ -1,0 +1,437 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.02",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "सिंह आणि कोल्हा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कथेतील मुख्य पात्रे कोणती आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सिंह आणि कोल्हा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सिंह आणि हत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोल्हा आणि कुत्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हत्ती आणि कोल्हा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सिंह आणि कोल्हा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सिंह कशामुळे रागावलेला होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तो भुकेला होता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "त्याला दुखापत झाली होती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोणी त्याची चेष्टा केली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "त्याला झोप आली नव्हती",
+          "is_correct": false
+        }
+      ],
+      "answer": "तो भुकेला होता"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कोल्ह्याने सिंहाशी कसे वागले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हुशारीने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीतीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूकपणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "हुशारीने"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कोल्ह्याने सिंहाला काय सांगितले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्य बोलले",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खोटे बोलले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच सांगितले नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ओरडले",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्य बोलले"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सिंहाने कोल्ह्याला का मारले नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कोल्हा हुशार होता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कोल्हा लपला",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सिंह थकला होता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोल्हा पळून गेला",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोल्हा हुशार होता"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कथेतील कोल्हा कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हुशार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भोळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "हुशार"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कथेचा शेवट कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कोल्हा वाचतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सिंह मरतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोघे भांडतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणीही वाचत नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोल्हा वाचतो"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "या कथेतून काय समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हुशारी महत्त्वाची आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शक्तीच सर्वकाही आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडण करावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खोटे बोलावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "हुशारी महत्त्वाची आहे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सिंह कोणत्या प्राण्याचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शक्तीचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हुशारीचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशीपणाचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "शक्तीचे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कोल्हा कोणत्या गुणासाठी ओळखला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हुशारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "हुशारी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कथेत सिंह कोणावर रागावतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कोल्ह्यावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हत्तीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वांवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणावरही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोल्ह्यावर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कोल्ह्याने स्वतःचा जीव कसा वाचवला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हुशारीने बोलून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पळून जाऊन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लपून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडून",
+          "is_correct": false
+        }
+      ],
+      "answer": "हुशारीने बोलून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "कथेतील मुख्य पात्रे कोणती आहेत?",
+      "answer": "कथेतील मुख्य पात्रे सिंह आणि कोल्हा आहेत."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "सिंह रागावलेला का होता?",
+      "answer": "सिंह भुकेमुळे रागावलेला होता."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "कोल्ह्याने सिंहाशी कसे बोलले?",
+      "answer": "कोल्ह्याने सिंहाशी हुशारीने आणि शांतपणे बोलले."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कोल्हा हुशार का होता?",
+      "answer": "त्याने योग्य शब्द वापरून आपला जीव वाचवला म्हणून तो हुशार होता."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "सिंहाने कोल्ह्याला का सोडले?",
+      "answer": "कोल्ह्याच्या हुशारीमुळे सिंहाने त्याला सोडले."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "या कथेतून काय शिकायला मिळते?",
+      "answer": "हुशारीने मोठ्या अडचणी सोडवता येतात हे शिकायला मिळते."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "कोल्ह्याचा स्वभाव कसा आहे?",
+      "answer": "कोल्ह्याचा स्वभाव हुशार आहे."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "सिंह कसा प्राणी आहे?",
+      "answer": "सिंह शक्तिशाली प्राणी आहे."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "कथेचा शेवट कसा आहे?",
+      "answer": "कथेचा शेवट आनंदी आहे कारण कोल्हा वाचतो."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "कोल्ह्याने स्वतःचा जीव कसा वाचवला?",
+      "answer": "त्याने हुशारीने उत्तर देऊन आपला जीव वाचवला."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "ही कथा मुलांना काय शिकवते?",
+      "answer": "ही कथा हुशारीचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कथेत सिंह आणि कोल्हा कुठे भेटतात?",
+      "answer": "कथेत सिंह आणि कोल्हा जंगलात भेटतात."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "सिंह आणि कोल्हा यांच्यात फरक काय आहे?",
+      "answer": "सिंह शक्तिशाली आहे तर कोल्हा हुशार आहे."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "तुम्हाला या कथेत कोण आवडतो आणि का?",
+      "answer": "मला कोल्हा आवडतो कारण तो हुशार आहे."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "या कथेतून कोणता गुण शिकायला मिळतो?",
+      "answer": "या कथेतून हुशारी हा गुण शिकायला मिळतो."
+    }
+  ]
+}

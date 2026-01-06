@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.55",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Let’s Speak"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which vegetable is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Potatoes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Milk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Potatoes"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What fruit is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Grapes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Banana",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mango",
+          "is_correct": false
+        }
+      ],
+      "answer": "Grapes"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What colour pen is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Green",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Black",
+          "is_correct": false
+        }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What should we say when we ask politely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What skill does the lesson develop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speaking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaking"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which vegetable is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Potatoes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Milk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Potatoes"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What fruit is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Grapes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Banana",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mango",
+          "is_correct": false
+        }
+      ],
+      "answer": "Grapes"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What colour pen is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Green",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Black",
+          "is_correct": false
+        }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should we say when we ask politely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What skill does the lesson develop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speaking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaking"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which vegetable is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Potatoes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Milk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Potatoes"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What fruit is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Grapes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Banana",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mango",
+          "is_correct": false
+        }
+      ],
+      "answer": "Grapes"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What colour pen is mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Green",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Black",
+          "is_correct": false
+        }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What should we say when we ask politely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What skill does the lesson develop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speaking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaking"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "It is about speaking politely."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Name one vegetable from the lesson.",
+      "answer": "Potatoes."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Name one fruit from the lesson.",
+      "answer": "Grapes."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why should we speak politely?",
+      "answer": "It makes communication better."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "It is about speaking politely."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name one vegetable from the lesson.",
+      "answer": "Potatoes."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Name one fruit from the lesson.",
+      "answer": "Grapes."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why should we speak politely?",
+      "answer": "It makes communication better."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "It is about speaking politely."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Name one vegetable from the lesson.",
+      "answer": "Potatoes."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Name one fruit from the lesson.",
+      "answer": "Grapes."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why should we speak politely?",
+      "answer": "It makes communication better."
+    }
+  ]
+}

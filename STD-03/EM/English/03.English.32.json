@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.32",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Noble Stag"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was proud of his antlers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The stag",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "The stag"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which animal chased the stag?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The hound",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The cow",
+          "is_correct": false
+        }
+      ],
+      "answer": "The hound"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What helped the stag run fast?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His legs",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His antlers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His tail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "His ears",
+          "is_correct": false
+        }
+      ],
+      "answer": "His legs"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What got caught in the bushes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His antlers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His legs",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His tail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "His ears",
+          "is_correct": false
+        }
+      ],
+      "answer": "His antlers"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Do not be too proud",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Be lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Never run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Do not be too proud"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was proud of his antlers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The stag",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "The stag"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which animal chased the stag?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The hound",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The cow",
+          "is_correct": false
+        }
+      ],
+      "answer": "The hound"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What helped the stag run fast?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His legs",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His antlers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His tail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "His ears",
+          "is_correct": false
+        }
+      ],
+      "answer": "His legs"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What got caught in the bushes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His antlers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His legs",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His tail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "His ears",
+          "is_correct": false
+        }
+      ],
+      "answer": "His antlers"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Do not be too proud",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Be lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Never run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Do not be too proud"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was proud of his antlers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The stag",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "The stag"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which animal chased the stag?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The hound",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The cow",
+          "is_correct": false
+        }
+      ],
+      "answer": "The hound"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What helped the stag run fast?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His legs",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His antlers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His tail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "His ears",
+          "is_correct": false
+        }
+      ],
+      "answer": "His legs"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What got caught in the bushes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His antlers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His legs",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His tail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "His ears",
+          "is_correct": false
+        }
+      ],
+      "answer": "His antlers"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Do not be too proud",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Be lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Never run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Do not be too proud"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Who is the story about?",
+      "answer": "It is about a stag."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Why was the stag proud?",
+      "answer": "He was proud of his antlers."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What helped him run fast?",
+      "answer": "His legs helped him run fast."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What caused him trouble?",
+      "answer": "His antlers got caught in the bushes."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "We should not be too proud."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who is the story about?",
+      "answer": "It is about a stag."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Why was the stag proud?",
+      "answer": "He was proud of his antlers."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What helped him run fast?",
+      "answer": "His legs helped him run fast."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What caused him trouble?",
+      "answer": "His antlers got caught in the bushes."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "We should not be too proud."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who is the story about?",
+      "answer": "It is about a stag."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why was the stag proud?",
+      "answer": "He was proud of his antlers."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What helped him run fast?",
+      "answer": "His legs helped him run fast."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What caused him trouble?",
+      "answer": "His antlers got caught in the bushes."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "We should not be too proud."
+    }
+  ]
+}

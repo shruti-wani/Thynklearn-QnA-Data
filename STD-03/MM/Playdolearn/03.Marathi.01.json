@@ -1,0 +1,1371 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.KKS.01",
+    "standard": "3",
+    "subject": "खेळू, करू, शिकू",
+    "medium": "Marathi",
+    "chapter_name": "आरोग्य"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "आरोग्य या घटकाबाबत योग्य विधान कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचे विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अयोग्य विधान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य विधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंबंधित विधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य विधान"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "आरोग्य या घटकाचे महत्त्व थोडक्यात लिहा.",
+      "answer": "आरोग्य या घटकामुळे विद्यार्थ्यांच्या आरोग्य, शिस्त व दैनंदिन सवयी सुधारण्यास मदत होते."
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.22",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Who Fulfils Our Needs"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "People who help us meet our daily needs are called ________.",
+      "options": [
+        { "option_id": 1, "text": "family members", "is_correct": false },
+        { "option_id": 2, "text": "community helpers", "is_correct": true },
+        { "option_id": 3, "text": "students", "is_correct": false },
+        { "option_id": 4, "text": "tourists", "is_correct": false }
+      ],
+      "answer": "community helpers"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who grows food for us?",
+      "options": [
+        { "option_id": 1, "text": "Doctor", "is_correct": false },
+        { "option_id": 2, "text": "Farmer", "is_correct": true },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Tailor", "is_correct": false }
+      ],
+      "answer": "Farmer"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who stitches our clothes?",
+      "options": [
+        { "option_id": 1, "text": "Carpenter", "is_correct": false },
+        { "option_id": 2, "text": "Tailor", "is_correct": true },
+        { "option_id": 3, "text": "Postman", "is_correct": false },
+        { "option_id": 4, "text": "Driver", "is_correct": false }
+      ],
+      "answer": "Tailor"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who makes furniture for us?",
+      "options": [
+        { "option_id": 1, "text": "Carpenter", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Carpenter"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who treats us when we are sick?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": false },
+        { "option_id": 2, "text": "Doctor", "is_correct": true },
+        { "option_id": 3, "text": "Shopkeeper", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Doctor"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who sells fruits and vegetables to us?",
+      "options": [
+        { "option_id": 1, "text": "Shopkeeper", "is_correct": true },
+        { "option_id": 2, "text": "Teacher", "is_correct": false },
+        { "option_id": 3, "text": "Doctor", "is_correct": false },
+        { "option_id": 4, "text": "Tailor", "is_correct": false }
+      ],
+      "answer": "Shopkeeper"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who repairs our shoes?",
+      "options": [
+        { "option_id": 1, "text": "Cobbler", "is_correct": true },
+        { "option_id": 2, "text": "Carpenter", "is_correct": false },
+        { "option_id": 3, "text": "Doctor", "is_correct": false },
+        { "option_id": 4, "text": "Postman", "is_correct": false }
+      ],
+      "answer": "Cobbler"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who brings letters to our homes?",
+      "options": [
+        { "option_id": 1, "text": "Postman", "is_correct": true },
+        { "option_id": 2, "text": "Teacher", "is_correct": false },
+        { "option_id": 3, "text": "Driver", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Postman"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who keeps our surroundings clean?",
+      "options": [
+        { "option_id": 1, "text": "Sweeper", "is_correct": true },
+        { "option_id": 2, "text": "Teacher", "is_correct": false },
+        { "option_id": 3, "text": "Doctor", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Sweeper"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who teaches us in school?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Tailor", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who helps us travel from one place to another?",
+      "options": [
+        { "option_id": 1, "text": "Driver", "is_correct": true },
+        { "option_id": 2, "text": "Teacher", "is_correct": false },
+        { "option_id": 3, "text": "Doctor", "is_correct": false },
+        { "option_id": 4, "text": "Carpenter", "is_correct": false }
+      ],
+      "answer": "Driver"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who maintains law and order?",
+      "options": [
+        { "option_id": 1, "text": "Policeman", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Policeman"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who puts out fires?",
+      "options": [
+        { "option_id": 1, "text": "Firefighter", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Firefighter"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these helps us buy daily items?",
+      "options": [
+        { "option_id": 1, "text": "Market", "is_correct": true },
+        { "option_id": 2, "text": "Hospital", "is_correct": false },
+        { "option_id": 3, "text": "School", "is_correct": false },
+        { "option_id": 4, "text": "Park", "is_correct": false }
+      ],
+      "answer": "Market"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why are community helpers important?",
+      "options": [
+        { "option_id": 1, "text": "They help fulfill our needs", "is_correct": true },
+        { "option_id": 2, "text": "They disturb us", "is_correct": false },
+        { "option_id": 3, "text": "They make noise", "is_correct": false },
+        { "option_id": 4, "text": "They play games", "is_correct": false }
+      ],
+      "answer": "They help fulfill our needs"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who are community helpers?",
+      "answer": "Community helpers are people who help us meet our daily needs."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who grows food for us?",
+      "answer": "A farmer grows food for us."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who stitches our clothes?",
+      "answer": "A tailor stitches our clothes."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who treats sick people?",
+      "answer": "A doctor treats sick people."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who keeps our surroundings clean?",
+      "answer": "A sweeper keeps our surroundings clean."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who repairs furniture?",
+      "answer": "A carpenter repairs furniture."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Who repairs shoes?",
+      "answer": "A cobbler repairs shoes."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who brings letters to our home?",
+      "answer": "A postman brings letters to our home."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who teaches us in school?",
+      "answer": "A teacher teaches us in school."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who maintains law and order?",
+      "answer": "A policeman maintains law and order."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who helps put out fires?",
+      "answer": "A firefighter helps put out fires."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are community helpers important?",
+      "answer": "They help us live comfortably."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name any two community helpers.",
+      "answer": "Doctor and teacher are community helpers."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How should we treat community helpers?",
+      "answer": "We should respect and thank them."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How can children help community helpers?",
+      "answer": "Children can help by following rules and being respectful."
+    }
+  ]
+}
+

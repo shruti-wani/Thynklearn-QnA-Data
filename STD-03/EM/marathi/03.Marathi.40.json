@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.40",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Revision"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word is a noun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Boy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Boy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word is a verb?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word is an adjective?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Big",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Big"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word is a pronoun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "He"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which is a correct sentence?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I like apples.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I apples like.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Like I apples.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apples like I.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I like apples."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word is a noun? (40-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Boy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Boy"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word is a verb? (40-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word is an adjective? (40-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Big",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Big"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word is a pronoun? (40-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "He"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which is a correct sentence? (40-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I like apples.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I apples like.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Like I apples.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apples like I.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I like apples."
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word is a noun? (40-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Boy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Boy"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word is a verb? (40-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word is an adjective? (40-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Big",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Big"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word is a pronoun? (40-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "He"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which is a correct sentence? (40-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I like apples.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I apples like.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Like I apples.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apples like I.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I like apples."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is a noun?",
+      "answer": "A noun is the name of a person, place or thing."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What is a verb?",
+      "answer": "A verb is an action word."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is an adjective?",
+      "answer": "An adjective describes a noun."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What is a pronoun?",
+      "answer": "A pronoun is used in place of a noun."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why is revision important?",
+      "answer": "Revision helps us remember what we learned."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is a noun? (40-6)",
+      "answer": "A noun is the name of a person, place or thing."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What is a verb? (40-7)",
+      "answer": "A verb is an action word."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is an adjective? (40-8)",
+      "answer": "An adjective describes a noun."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (40-9)",
+      "answer": "A pronoun is used in place of a noun."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why is revision important? (40-10)",
+      "answer": "Revision helps us remember what we learned."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is a noun? (40-11)",
+      "answer": "A noun is the name of a person, place or thing."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is a verb? (40-12)",
+      "answer": "A verb is an action word."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is an adjective? (40-13)",
+      "answer": "An adjective describes a noun."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (40-14)",
+      "answer": "A pronoun is used in place of a noun."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why is revision important? (40-15)",
+      "answer": "Revision helps us remember what we learned."
+    }
+  ]
+}

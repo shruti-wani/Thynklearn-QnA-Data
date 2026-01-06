@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.50",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Travel Manners"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which is a polite way to ask for space?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Do you mind giving me some place?",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Move!",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Go away!",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Don't come",
+          "is_correct": false
+        }
+      ],
+      "answer": "Do you mind giving me some place?"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What should we say after help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thank you",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thank you"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What should we say when someone thanks us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "You're welcome",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Don't care",
+          "is_correct": false
+        }
+      ],
+      "answer": "You're welcome"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is good travel manner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be polite",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Push others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be polite"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word shows good behaviour?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Push",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which is a polite way to ask for space? (50-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Do you mind giving me some place?",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Move!",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Go away!",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Don't come",
+          "is_correct": false
+        }
+      ],
+      "answer": "Do you mind giving me some place?"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What should we say after help? (50-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thank you",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thank you"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should we say when someone thanks us? (50-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "You're welcome",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Don't care",
+          "is_correct": false
+        }
+      ],
+      "answer": "You're welcome"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which is good travel manner? (50-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be polite",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Push others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be polite"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word shows good behaviour? (50-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Push",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which is a polite way to ask for space? (50-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Do you mind giving me some place?",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Move!",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Go away!",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Don't come",
+          "is_correct": false
+        }
+      ],
+      "answer": "Do you mind giving me some place?"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What should we say after help? (50-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thank you",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thank you"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What should we say when someone thanks us? (50-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "You're welcome",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Go away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Don't care",
+          "is_correct": false
+        }
+      ],
+      "answer": "You're welcome"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which is good travel manner? (50-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be polite",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Push others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be polite"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word shows good behaviour? (50-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Push",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What are travel manners?",
+      "answer": "They are good behaviours while travelling."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Write one polite sentence.",
+      "answer": "Please give me some place."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What should we say after getting help?",
+      "answer": "We should say thank you."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What should we reply to 'Thank you'?",
+      "answer": "We should say you're welcome."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why are travel manners important?",
+      "answer": "They help everyone travel comfortably."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What are travel manners? (50-6)",
+      "answer": "They are good behaviours while travelling."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Write one polite sentence. (50-7)",
+      "answer": "Please give me some place."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What should we say after getting help? (50-8)",
+      "answer": "We should say thank you."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What should we reply to 'Thank you'? (50-9)",
+      "answer": "We should say you're welcome."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why are travel manners important? (50-10)",
+      "answer": "They help everyone travel comfortably."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What are travel manners? (50-11)",
+      "answer": "They are good behaviours while travelling."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Write one polite sentence. (50-12)",
+      "answer": "Please give me some place."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What should we say after getting help? (50-13)",
+      "answer": "We should say thank you."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What should we reply to 'Thank you'? (50-14)",
+      "answer": "We should say you're welcome."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why are travel manners important? (50-15)",
+      "answer": "They help everyone travel comfortably."
+    }
+  ]
+}

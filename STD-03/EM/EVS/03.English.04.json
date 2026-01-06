@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.04",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Directions and Maps"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The direction in which the sun rises is called ________.",
+      "options": [
+        { "option_id": 1, "text": "North", "is_correct": false },
+        { "option_id": 2, "text": "South", "is_correct": false },
+        { "option_id": 3, "text": "East", "is_correct": true },
+        { "option_id": 4, "text": "West", "is_correct": false }
+      ],
+      "answer": "East"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The direction in which the sun sets is called ________.",
+      "options": [
+        { "option_id": 1, "text": "East", "is_correct": false },
+        { "option_id": 2, "text": "West", "is_correct": true },
+        { "option_id": 3, "text": "North", "is_correct": false },
+        { "option_id": 4, "text": "South", "is_correct": false }
+      ],
+      "answer": "West"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a main direction?",
+      "options": [
+        { "option_id": 1, "text": "North", "is_correct": false },
+        { "option_id": 2, "text": "South", "is_correct": false },
+        { "option_id": 3, "text": "East", "is_correct": false },
+        { "option_id": 4, "text": "Up", "is_correct": true }
+      ],
+      "answer": "Up"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which direction is opposite to East?",
+      "options": [
+        { "option_id": 1, "text": "North", "is_correct": false },
+        { "option_id": 2, "text": "South", "is_correct": false },
+        { "option_id": 3, "text": "West", "is_correct": true },
+        { "option_id": 4, "text": "East", "is_correct": false }
+      ],
+      "answer": "West"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which direction is opposite to North?",
+      "options": [
+        { "option_id": 1, "text": "East", "is_correct": false },
+        { "option_id": 2, "text": "West", "is_correct": false },
+        { "option_id": 3, "text": "South", "is_correct": true },
+        { "option_id": 4, "text": "Up", "is_correct": false }
+      ],
+      "answer": "South"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many main directions are there?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": true },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which direction comes between North and East?",
+      "options": [
+        { "option_id": 1, "text": "South", "is_correct": false },
+        { "option_id": 2, "text": "West", "is_correct": false },
+        { "option_id": 3, "text": "North-East", "is_correct": true },
+        { "option_id": 4, "text": "South-West", "is_correct": false }
+      ],
+      "answer": "North-East"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "A drawing that shows places from above is called a ________.",
+      "options": [
+        { "option_id": 1, "text": "Picture", "is_correct": false },
+        { "option_id": 2, "text": "Map", "is_correct": true },
+        { "option_id": 3, "text": "Chart", "is_correct": false },
+        { "option_id": 4, "text": "Book", "is_correct": false }
+      ],
+      "answer": "Map"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which symbol on a map shows direction?",
+      "options": [
+        { "option_id": 1, "text": "Index", "is_correct": false },
+        { "option_id": 2, "text": "North arrow", "is_correct": true },
+        { "option_id": 3, "text": "Colour", "is_correct": false },
+        { "option_id": 4, "text": "Scale", "is_correct": false }
+      ],
+      "answer": "North arrow"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which direction is on the top of most maps?",
+      "options": [
+        { "option_id": 1, "text": "South", "is_correct": false },
+        { "option_id": 2, "text": "East", "is_correct": false },
+        { "option_id": 3, "text": "North", "is_correct": true },
+        { "option_id": 4, "text": "West", "is_correct": false }
+      ],
+      "answer": "North"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which tool helps us find directions?",
+      "options": [
+        { "option_id": 1, "text": "Clock", "is_correct": false },
+        { "option_id": 2, "text": "Compass", "is_correct": true },
+        { "option_id": 3, "text": "Scale", "is_correct": false },
+        { "option_id": 4, "text": "Map", "is_correct": false }
+      ],
+      "answer": "Compass"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which direction is to your left when you face North?",
+      "options": [
+        { "option_id": 1, "text": "East", "is_correct": false },
+        { "option_id": 2, "text": "West", "is_correct": true },
+        { "option_id": 3, "text": "South", "is_correct": false },
+        { "option_id": 4, "text": "North", "is_correct": false }
+      ],
+      "answer": "West"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which direction is to your right when you face North?",
+      "options": [
+        { "option_id": 1, "text": "West", "is_correct": false },
+        { "option_id": 2, "text": "South", "is_correct": false },
+        { "option_id": 3, "text": "East", "is_correct": true },
+        { "option_id": 4, "text": "North", "is_correct": false }
+      ],
+      "answer": "East"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "A map helps us to ________ places.",
+      "options": [
+        { "option_id": 1, "text": "decorate", "is_correct": false },
+        { "option_id": 2, "text": "find", "is_correct": true },
+        { "option_id": 3, "text": "hide", "is_correct": false },
+        { "option_id": 4, "text": "build", "is_correct": false }
+      ],
+      "answer": "find"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which direction is shown by the upward arrow on a map?",
+      "options": [
+        { "option_id": 1, "text": "East", "is_correct": false },
+        { "option_id": 2, "text": "West", "is_correct": false },
+        { "option_id": 3, "text": "North", "is_correct": true },
+        { "option_id": 4, "text": "South", "is_correct": false }
+      ],
+      "answer": "North"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name the four main directions.",
+      "answer": "The four main directions are North, South, East and West."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "In which direction does the sun rise?",
+      "answer": "The sun rises in the East."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "In which direction does the sun set?",
+      "answer": "The sun sets in the West."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a map?",
+      "answer": "A map is a drawing that shows places from above."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does a map help us to do?",
+      "answer": "A map helps us find places."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which direction is opposite to North?",
+      "answer": "South is opposite to North."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which direction is opposite to East?",
+      "answer": "West is opposite to East."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What tool helps us find directions?",
+      "answer": "A compass helps us find directions."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which direction is on the top of most maps?",
+      "answer": "North is shown at the top of most maps."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does the north arrow show on a map?",
+      "answer": "The north arrow shows the direction North."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which direction is to your left when you face North?",
+      "answer": "West is to your left when you face North."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which direction is to your right when you face North?",
+      "answer": "East is to your right when you face North."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one direction that lies between North and East.",
+      "answer": "North-East lies between North and East."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why are directions important?",
+      "answer": "Directions help us know where places are located."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why are maps useful?",
+      "answer": "Maps are useful because they help us understand places easily."
+    }
+  ]
+}

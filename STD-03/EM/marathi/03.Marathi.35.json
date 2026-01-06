@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.35",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Opposites"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'big'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'hot'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cold",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cold"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'up'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Down",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Over",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fast",
+          "is_correct": false
+        }
+      ],
+      "answer": "Down"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which pair are opposites?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Day – Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pen – Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat – Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red – Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Day – Night"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'happy'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Green",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sad"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'big'? (35-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'hot'? (35-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cold",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cold"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'up'? (35-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Down",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Over",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fast",
+          "is_correct": false
+        }
+      ],
+      "answer": "Down"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which pair are opposites? (35-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Day – Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pen – Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat – Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red – Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Day – Night"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'happy'? (35-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Green",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sad"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'big'? (35-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'hot'? (35-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cold",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cold"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'up'? (35-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Down",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Over",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fast",
+          "is_correct": false
+        }
+      ],
+      "answer": "Down"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which pair are opposites? (35-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Day – Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pen – Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat – Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red – Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Day – Night"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'happy'? (35-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Green",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sad"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What are opposites?",
+      "answer": "Opposites are words with opposite meanings."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Give one pair of opposites.",
+      "answer": "Big and small."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write the opposite of 'hot'.",
+      "answer": "The opposite of hot is cold."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write the opposite of 'up'.",
+      "answer": "The opposite of up is down."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why do we learn opposites?",
+      "answer": "We learn opposites to understand meanings better."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What are opposites? (35-6)",
+      "answer": "Opposites are words with opposite meanings."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Give one pair of opposites. (35-7)",
+      "answer": "Big and small."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Write the opposite of 'hot'. (35-8)",
+      "answer": "The opposite of hot is cold."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write the opposite of 'up'. (35-9)",
+      "answer": "The opposite of up is down."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why do we learn opposites? (35-10)",
+      "answer": "We learn opposites to understand meanings better."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What are opposites? (35-11)",
+      "answer": "Opposites are words with opposite meanings."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Give one pair of opposites. (35-12)",
+      "answer": "Big and small."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write the opposite of 'hot'. (35-13)",
+      "answer": "The opposite of hot is cold."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Write the opposite of 'up'. (35-14)",
+      "answer": "The opposite of up is down."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do we learn opposites? (35-15)",
+      "answer": "We learn opposites to understand meanings better."
+    }
+  ]
+}

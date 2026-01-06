@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.57",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Messages"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the teacher asking the students to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pass on the message",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Write a story",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Draw a picture",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing a song",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pass on the message"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How many students form a group?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Five",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Six",
+          "is_correct": false
+        }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What happens if someone makes a mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children say 'Oh, no!'",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Teacher scolds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nothing happens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They clap",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children say 'Oh, no!'"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What happens if the message is passed correctly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children say 'Oh, I see!'",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They sit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They leave",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children say 'Oh, I see!'"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What happens to the messages as the game continues?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They get longer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They get shorter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They stop",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They change colour",
+          "is_correct": false
+        }
+      ],
+      "answer": "They get longer"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the teacher asking the students to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pass on the message",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Write a story",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Draw a picture",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing a song",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pass on the message"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many students form a group?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Five",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Six",
+          "is_correct": false
+        }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What happens if someone makes a mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children say 'Oh, no!'",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Teacher scolds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nothing happens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They clap",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children say 'Oh, no!'"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What happens if the message is passed correctly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children say 'Oh, I see!'",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They sit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They leave",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children say 'Oh, I see!'"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What happens to the messages as the game continues?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They get longer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They get shorter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They stop",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They change colour",
+          "is_correct": false
+        }
+      ],
+      "answer": "They get longer"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the teacher asking the students to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pass on the message",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Write a story",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Draw a picture",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing a song",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pass on the message"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How many students form a group?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Five",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Six",
+          "is_correct": false
+        }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What happens if someone makes a mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children say 'Oh, no!'",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Teacher scolds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nothing happens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They clap",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children say 'Oh, no!'"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What happens if the message is passed correctly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children say 'Oh, I see!'",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They sit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They leave",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children say 'Oh, I see!'"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What happens to the messages as the game continues?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They get longer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They get shorter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They stop",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They change colour",
+          "is_correct": false
+        }
+      ],
+      "answer": "They get longer"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is a message?",
+      "answer": "A message is something we tell or pass to others."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "How many students are in one group?",
+      "answer": "There are five students in one group."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What should we do while passing a message?",
+      "answer": "We should listen carefully."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What do children say when a mistake is made?",
+      "answer": "They say 'Oh, no!'"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why should we listen carefully?",
+      "answer": "So that we pass the message correctly."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is a message?",
+      "answer": "A message is something we tell or pass to others."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "How many students are in one group?",
+      "answer": "There are five students in one group."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What should we do while passing a message?",
+      "answer": "We should listen carefully."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What do children say when a mistake is made?",
+      "answer": "They say 'Oh, no!'"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why should we listen carefully?",
+      "answer": "So that we pass the message correctly."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is a message?",
+      "answer": "A message is something we tell or pass to others."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "How many students are in one group?",
+      "answer": "There are five students in one group."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What should we do while passing a message?",
+      "answer": "We should listen carefully."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What do children say when a mistake is made?",
+      "answer": "They say 'Oh, no!'"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why should we listen carefully?",
+      "answer": "So that we pass the message correctly."
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.15",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Our Body"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Our body has many ________.",
+      "options": [
+        { "option_id": 1, "text": "houses", "is_correct": false },
+        { "option_id": 2, "text": "parts", "is_correct": true },
+        { "option_id": 3, "text": "books", "is_correct": false },
+        { "option_id": 4, "text": "rooms", "is_correct": false }
+      ],
+      "answer": "parts"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which part of the body helps us see?",
+      "options": [
+        { "option_id": 1, "text": "Ears", "is_correct": false },
+        { "option_id": 2, "text": "Eyes", "is_correct": true },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Tongue", "is_correct": false }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which part of the body helps us hear?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Ears", "is_correct": true },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Hands", "is_correct": false }
+      ],
+      "answer": "Ears"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which part of the body helps us smell?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Nose", "is_correct": true },
+        { "option_id": 3, "text": "Ears", "is_correct": false },
+        { "option_id": 4, "text": "Tongue", "is_correct": false }
+      ],
+      "answer": "Nose"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which part of the body helps us taste?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Tongue", "is_correct": true },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
+      ],
+      "answer": "Tongue"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which part of the body helps us touch and feel?",
+      "options": [
+        { "option_id": 1, "text": "Skin", "is_correct": true },
+        { "option_id": 2, "text": "Eyes", "is_correct": false },
+        { "option_id": 3, "text": "Tongue", "is_correct": false },
+        { "option_id": 4, "text": "Teeth", "is_correct": false }
+      ],
+      "answer": "Skin"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which part of the body helps us walk?",
+      "options": [
+        { "option_id": 1, "text": "Hands", "is_correct": false },
+        { "option_id": 2, "text": "Legs", "is_correct": true },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
+      ],
+      "answer": "Legs"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which part of the body helps us write?",
+      "options": [
+        { "option_id": 1, "text": "Feet", "is_correct": false },
+        { "option_id": 2, "text": "Hands", "is_correct": true },
+        { "option_id": 3, "text": "Legs", "is_correct": false },
+        { "option_id": 4, "text": "Eyes", "is_correct": false }
+      ],
+      "answer": "Hands"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which part of the body protects the brain?",
+      "options": [
+        { "option_id": 1, "text": "Arm", "is_correct": false },
+        { "option_id": 2, "text": "Head", "is_correct": true },
+        { "option_id": 3, "text": "Leg", "is_correct": false },
+        { "option_id": 4, "text": "Hand", "is_correct": false }
+      ],
+      "answer": "Head"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which part of the body helps us chew food?",
+      "options": [
+        { "option_id": 1, "text": "Tongue", "is_correct": false },
+        { "option_id": 2, "text": "Teeth", "is_correct": true },
+        { "option_id": 3, "text": "Lips", "is_correct": false },
+        { "option_id": 4, "text": "Nose", "is_correct": false }
+      ],
+      "answer": "Teeth"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us hear sounds?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Ears", "is_correct": true },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Skin", "is_correct": false }
+      ],
+      "answer": "Ears"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us see?",
+      "options": [
+        { "option_id": 1, "text": "Nose", "is_correct": false },
+        { "option_id": 2, "text": "Eyes", "is_correct": true },
+        { "option_id": 3, "text": "Tongue", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us taste food?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Tongue", "is_correct": true },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Skin", "is_correct": false }
+      ],
+      "answer": "Tongue"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us smell?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": false },
+        { "option_id": 2, "text": "Nose", "is_correct": true },
+        { "option_id": 3, "text": "Ears", "is_correct": false },
+        { "option_id": 4, "text": "Tongue", "is_correct": false }
+      ],
+      "answer": "Nose"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which sense organ helps us feel hot or cold?",
+      "options": [
+        { "option_id": 1, "text": "Skin", "is_correct": true },
+        { "option_id": 2, "text": "Eyes", "is_correct": false },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Tongue", "is_correct": false }
+      ],
+      "answer": "Skin"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name the parts of our body.",
+      "answer": "Head, arms, legs and trunk are parts of our body."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are sense organs?",
+      "answer": "Sense organs help us see, hear, smell, taste and feel."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name the five sense organs.",
+      "answer": "Eyes, ears, nose, tongue and skin."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us see?",
+      "answer": "Eyes help us see."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us hear?",
+      "answer": "Ears help us hear."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us smell?",
+      "answer": "Nose helps us smell."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us taste?",
+      "answer": "Tongue helps us taste."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us feel?",
+      "answer": "Skin helps us feel."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which part of the body helps us walk?",
+      "answer": "Legs help us walk."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which part of the body helps us write?",
+      "answer": "Hands help us write."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which part of the body protects the brain?",
+      "answer": "The head protects the brain."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are teeth important?",
+      "answer": "Teeth help us chew food."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why should we keep our body clean?",
+      "answer": "We should keep our body clean to stay healthy."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name one good habit for a healthy body.",
+      "answer": "Bathing daily is a good habit."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is our body important?",
+      "answer": "Our body helps us do all our work."
+    }
+  ]
+}
+

@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.05",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Story of Sindbad the Sailor"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the hero of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sindbad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The sailor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sindbad"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What did Sindbad cling to in the sea?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A piece of wood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A rope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A boat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stone",
+          "is_correct": false
+        }
+      ],
+      "answer": "A piece of wood"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where did Sindbad reach after the night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An island",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A city",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A desert",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A forest",
+          "is_correct": false
+        }
+      ],
+      "answer": "An island"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who helped Sindbad on the island?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The king's men",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fishermen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Merchants",
+          "is_correct": false
+        }
+      ],
+      "answer": "The king's men"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What quality of Sindbad is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pride",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the hero of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sindbad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The sailor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sindbad"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What did Sindbad cling to in the sea?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A piece of wood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A rope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A boat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stone",
+          "is_correct": false
+        }
+      ],
+      "answer": "A piece of wood"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where did Sindbad reach after the night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An island",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A city",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A desert",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A forest",
+          "is_correct": false
+        }
+      ],
+      "answer": "An island"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who helped Sindbad on the island?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The king's men",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fishermen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Merchants",
+          "is_correct": false
+        }
+      ],
+      "answer": "The king's men"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What quality of Sindbad is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pride",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the hero of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sindbad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The sailor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sindbad"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What did Sindbad cling to in the sea?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A piece of wood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A rope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A boat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stone",
+          "is_correct": false
+        }
+      ],
+      "answer": "A piece of wood"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where did Sindbad reach after the night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An island",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A city",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A desert",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A forest",
+          "is_correct": false
+        }
+      ],
+      "answer": "An island"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who helped Sindbad on the island?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The king's men",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fishermen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Merchants",
+          "is_correct": false
+        }
+      ],
+      "answer": "The king's men"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What quality of Sindbad is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pride",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Who is Sindbad?",
+      "answer": "Sindbad is a sailor."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What happened to Sindbad in the sea?",
+      "answer": "He was tossed by waves but did not drown."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What did he use to stay afloat?",
+      "answer": "He clung to a piece of wood."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Where did he finally reach?",
+      "answer": "He reached an island."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "It teaches us to be brave and never give up."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who is Sindbad?",
+      "answer": "Sindbad is a sailor."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What happened to Sindbad in the sea?",
+      "answer": "He was tossed by waves but did not drown."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What did he use to stay afloat?",
+      "answer": "He clung to a piece of wood."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Where did he finally reach?",
+      "answer": "He reached an island."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "It teaches us to be brave and never give up."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who is Sindbad?",
+      "answer": "Sindbad is a sailor."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What happened to Sindbad in the sea?",
+      "answer": "He was tossed by waves but did not drown."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What did he use to stay afloat?",
+      "answer": "He clung to a piece of wood."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Where did he finally reach?",
+      "answer": "He reached an island."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "It teaches us to be brave and never give up."
+    }
+  ]
+}

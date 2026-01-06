@@ -1,0 +1,181 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.MarathiMedium.English.03",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi Medium",
+    "chapter_name": "A Guessing Game"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What kind of game is this lesson about?",
+      "options": [
+        { "option_id": 1, "text": "Running game", "is_correct": false },
+        { "option_id": 2, "text": "Guessing game", "is_correct": true },
+        { "option_id": 3, "text": "Singing game", "is_correct": false },
+        { "option_id": 4, "text": "Drawing game", "is_correct": false }
+      ],
+      "answer": "Guessing game"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In a guessing game, what do we do?",
+      "options": [
+        { "option_id": 1, "text": "Write answers", "is_correct": false },
+        { "option_id": 2, "text": "Guess the correct thing", "is_correct": true },
+        { "option_id": 3, "text": "Run fast", "is_correct": false },
+        { "option_id": 4, "text": "Read loudly", "is_correct": false }
+      ],
+      "answer": "Guess the correct thing"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What helps us guess correctly?",
+      "options": [
+        { "option_id": 1, "text": "Clues", "is_correct": true },
+        { "option_id": 2, "text": "Noise", "is_correct": false },
+        { "option_id": 3, "text": "Fighting", "is_correct": false },
+        { "option_id": 4, "text": "Running", "is_correct": false }
+      ],
+      "answer": "Clues"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which skill is used in a guessing game?",
+      "options": [
+        { "option_id": 1, "text": "Thinking", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Shouting", "is_correct": false },
+        { "option_id": 4, "text": "Jumping", "is_correct": false }
+      ],
+      "answer": "Thinking"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "A guessing game makes learning ________.",
+      "options": [
+        { "option_id": 1, "text": "boring", "is_correct": false },
+        { "option_id": 2, "text": "fun", "is_correct": true },
+        { "option_id": 3, "text": "hard", "is_correct": false },
+        { "option_id": 4, "text": "slow", "is_correct": false }
+      ],
+      "answer": "fun"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What should we do before guessing?",
+      "options": [
+        { "option_id": 1, "text": "Listen carefully", "is_correct": true },
+        { "option_id": 2, "text": "Close our eyes", "is_correct": false },
+        { "option_id": 3, "text": "Run away", "is_correct": false },
+        { "option_id": 4, "text": "Laugh loudly", "is_correct": false }
+      ],
+      "answer": "Listen carefully"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Guessing games help us to think ________.",
+      "options": [
+        { "option_id": 1, "text": "slowly", "is_correct": false },
+        { "option_id": 2, "text": "carefully", "is_correct": true },
+        { "option_id": 3, "text": "carelessly", "is_correct": false },
+        { "option_id": 4, "text": "angrily", "is_correct": false }
+      ],
+      "answer": "carefully"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these is important in a guessing game?",
+      "options": [
+        { "option_id": 1, "text": "Patience", "is_correct": true },
+        { "option_id": 2, "text": "Anger", "is_correct": false },
+        { "option_id": 3, "text": "Fear", "is_correct": false },
+        { "option_id": 4, "text": "Noise", "is_correct": false }
+      ],
+      "answer": "Patience"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Guessing games are played to ________.",
+      "options": [
+        { "option_id": 1, "text": "learn and enjoy", "is_correct": true },
+        { "option_id": 2, "text": "fight", "is_correct": false },
+        { "option_id": 3, "text": "get tired", "is_correct": false },
+        { "option_id": 4, "text": "sleep", "is_correct": false }
+      ],
+      "answer": "learn and enjoy"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Guessing games help improve our ________ power.",
+      "options": [
+        { "option_id": 1, "text": "thinking", "is_correct": true },
+        { "option_id": 2, "text": "sleeping", "is_correct": false },
+        { "option_id": 3, "text": "running", "is_correct": false },
+        { "option_id": 4, "text": "eating", "is_correct": false }
+      ],
+      "answer": "thinking"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a guessing game?",
+      "answer": "A guessing game is a game where we guess the correct answer."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What helps us guess correctly?",
+      "answer": "Clues help us guess correctly."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is a guessing game fun?",
+      "answer": "It makes learning enjoyable."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which skill improves by playing guessing games?",
+      "answer": "Thinking skill improves."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What should we do before guessing?",
+      "answer": "We should listen carefully."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Is patience important in a guessing game?",
+      "answer": "Yes, patience is important."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does a guessing game teach us?",
+      "answer": "It teaches us to think carefully."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Do guessing games help learning?",
+      "answer": "Yes, they help learning."
+    }
+  ]
+}
+

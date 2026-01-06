@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.01",
+    "standard": "3",
+    "subject": "परिसर अभ्यास",
+    "medium": "Marathi",
+    "chapter_name": "आपला अवतीभवती"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 1 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 2 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 3 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 4 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 5 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 6 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 7 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 8 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 9 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 10 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 11 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 12 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 13 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 14 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 15 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 16 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 17 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 18 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 19 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 20 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 21 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 22 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 23 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 24 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 25 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 26 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 27 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 28 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 29 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 30 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 31 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 32 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 33 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 34 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 35 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 36 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 37 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 38 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 39 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 40 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 41 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 42 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 43 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 44 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 45 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 46 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 47 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 48 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 49 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "आपला अवतीभवती या धड्याशी संबंधित प्रश्न क्रमांक 50 कोणता योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य पर्याय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्याय चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पर्याय"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 1 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 2 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 3 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 4 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 5 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 6 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 7 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 8 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 9 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 10 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 11 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 12 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 13 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 14 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 15 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 16 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 17 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 18 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 19 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 20 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 21 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 22 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 23 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 24 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 25 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 26 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 27 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 28 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 29 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 30 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 31 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 32 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 33 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 34 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 35 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 36 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 37 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 38 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 39 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 40 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 41 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 42 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 43 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 44 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 45 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 46 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 47 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 48 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 49 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "आपला अवतीभवती या धड्यातील संकल्पना क्रमांक 50 थोडक्यात समजावून सांगा.",
+      "answer": "आपला अवतीभवती या धड्यातील ही संकल्पना दैनंदिन जीवनाशी संबंधित असून विद्यार्थ्यांना पर्यावरणाची समज वाढवते."
+    }
+  ]
+}

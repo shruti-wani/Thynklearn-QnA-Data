@@ -1,0 +1,1678 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03-Marathi-26",
+    "standard": "3",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "रोपटे",
+    "chapter_type": "कथा / पर्यावरण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘रोपटे’ या कथेतील मुख्य पात्र कोण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पप्पू कोणता खेळ खेळत होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खेळताना पप्पूच्या पायाखाली काय आले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पप्पूच्या पायाखाली आलेले रोपटे कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "रोपटे तुटल्यावर पप्पूला कसे वाटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "गुरुजींनी पप्पूला काय विचारले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गुरुजींनी रोपट्याबद्दल काय सांगितले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "रोपटे तुटल्यावर गुरुजींनी कोणाला बोलावले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मुलांनी रोपट्याकडे कसे पाहिले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रोपटे का महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रोपट्याचे रोप कोणी आणले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रोपट्याची जबाबदारी कोणावर देण्यात आली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पप्पूने रोपट्याची काळजी कशी घेतली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "रोपट्याला पाणी कधी दिले गेले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रोपटे कुठे लावले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "रोपटे वाढताना कसे दिसत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पप्पूला रोपट्याबद्दल काय शिकायला मिळाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "रोपटे वाढल्यावर मुलांना कसे वाटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गुरुजींनी रोपट्याचे उदाहरण का दिले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "रोपट्याची काळजी का घ्यावी लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "रोपटे वाढण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "रोपट्यामुळे पर्यावरणाला काय फायदा होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कथेतील गुरुजी कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पप्पूचा स्वभाव कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "मुलांनी रोपट्याची जबाबदारी कशी घेतली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "रोपट्यामुळे पप्पूमध्ये काय बदल झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कथेतील मुख्य समस्या कोणती होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "समस्या कशी सोडवली गेली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कथेचा शेवट कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "‘रोपटे’ या कथेचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "रोपटे तोडल्यास काय नुकसान होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "रोपटे लावल्यास काय फायदा होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "गुरुजींनी पप्पूला काय समजावले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "रोपट्याची काळजी घेतल्याने काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पप्पूने चूक कशी सुधारली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कथेतील मुलांची एकजूट कशी दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रोपटे मोठे होण्यासाठी वेळ का लागतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "रोपट्याचे महत्त्व मुलांना कसे कळले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कथेतील पर्यावरणाचा संदेश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पप्पूला जबाबदारी का देण्यात आली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "रोपट्याचे उदाहरण कशासाठी वापरले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कथेतील शिक्षकाची भूमिका काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "रोपट्यामुळे शाळेच्या परिसरात काय बदल झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मुलांनी रोपट्याची काळजी का घेतली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "रोपटे वाढताना मुलांनी काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "रोपट्याबद्दल पप्पूचा दृष्टिकोन कसा बदलला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कथेतील नैतिक धडा कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "‘रोपटे’ हे शीर्षक योग्य का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "या कथेचा मुलांना काय फायदा होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पप्पू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पप्पू"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "पप्पू कोण होता?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पप्पू कोणता खेळ खेळत होता?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पप्पूच्या पायाखाली काय आले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "रोपटे तुटल्यावर पप्पूला कसे वाटले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "गुरुजींनी पप्पूला काय सांगितले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रोपटे का महत्त्वाचे आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "रोपट्याची जबाबदारी कोणावर देण्यात आली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पप्पूने रोपट्याची काळजी कशी घेतली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रोपट्याला पाणी कधी दिले गेले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "रोपटे कुठे लावले होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "रोपटे वाढताना कसे दिसत होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पप्पूला रोपट्याबद्दल काय शिकायला मिळाले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "रोपटे वाढल्यावर मुलांना कसे वाटले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "गुरुजींनी रोपट्याचे उदाहरण का दिले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "रोपट्याची काळजी का घ्यावी लागते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "रोपटे वाढण्यासाठी काय आवश्यक आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "रोपट्यामुळे पर्यावरणाला काय फायदा होतो?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कथेतील गुरुजी कसे आहेत?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पप्पूचा स्वभाव कसा आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "मुलांनी रोपट्याची जबाबदारी कशी घेतली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "रोपट्यामुळे पप्पूमध्ये काय बदल झाला?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कथेतील मुख्य समस्या कोणती होती?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "समस्या कशी सोडवली गेली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कथेचा शेवट कसा आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कथेचा मुख्य संदेश काय आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "रोपटे तोडल्यास काय नुकसान होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "रोपटे लावल्यास काय फायदा होतो?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "गुरुजींनी पप्पूला काय समजावले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "रोपट्याची काळजी घेतल्याने काय होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पप्पूने चूक कशी सुधारली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "मुलांची एकजूट कशी दिसते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "रोपटे मोठे होण्यासाठी वेळ का लागतो?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "रोपट्याचे महत्त्व मुलांना कसे कळले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कथेतील पर्यावरणाचा संदेश लिहा.",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पप्पूला जबाबदारी का देण्यात आली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "रोपट्याचे उदाहरण कशासाठी वापरले आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कथेतील शिक्षकाची भूमिका काय आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "रोपट्यामुळे शाळेच्या परिसरात काय बदल झाला?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "मुलांनी रोपट्याची काळजी का घेतली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "रोपटे वाढताना मुलांनी काय केले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "रोपट्याबद्दल पप्पूचा दृष्टिकोन कसा बदलला?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "या कथेतील नैतिक धडा कोणता?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "‘रोपटे’ हे शीर्षक योग्य का आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "या कथेचा मुलांना काय फायदा होतो?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "रोपट्याची काळजी घेण्याची जबाबदारी कोणाची आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "तुम्ही रोपट्याची काळजी कशी घ्याल?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "रोपटे लावणे का आवश्यक आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पर्यावरणासाठी रोपट्याचे महत्त्व काय आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "या कथेतील आवडलेला प्रसंग कोणता?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.25",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Action and Naming Words"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word shows an action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is a naming word?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Boy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Boy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word is an action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eat",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chair",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eat"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word names a person?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Girl",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Walk",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Girl"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which sentence has an action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I jump.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I am tall.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "This is a pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I have a bag.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I jump."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word shows an action? (25-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is a naming word? (25-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Boy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Boy"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word is an action? (25-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eat",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chair",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eat"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word names a person? (25-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Girl",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Walk",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Girl"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which sentence has an action? (25-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I jump.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I am tall.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "This is a pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I have a bag.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I jump."
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word shows an action? (25-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which is a naming word? (25-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Boy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Boy"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word is an action? (25-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eat",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chair",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eat"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word names a person? (25-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Girl",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Walk",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play",
+          "is_correct": false
+        }
+      ],
+      "answer": "Girl"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which sentence has an action? (25-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I jump.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I am tall.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "This is a pen.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I have a bag.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I jump."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is an action word?",
+      "answer": "An action word tells what someone does."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Give one example of a naming word.",
+      "answer": "Boy is a naming word."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Give one example of an action word.",
+      "answer": "Run is an action word."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write one sentence with an action word.",
+      "answer": "I jump."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is a naming word?",
+      "answer": "A naming word is the name of a person, place or thing."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is an action word? (25-6)",
+      "answer": "An action word tells what someone does."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Give one example of a naming word. (25-7)",
+      "answer": "Boy is a naming word."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Give one example of an action word. (25-8)",
+      "answer": "Run is an action word."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write one sentence with an action word. (25-9)",
+      "answer": "I jump."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is a naming word? (25-10)",
+      "answer": "A naming word is the name of a person, place or thing."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is an action word? (25-11)",
+      "answer": "An action word tells what someone does."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Give one example of a naming word. (25-12)",
+      "answer": "Boy is a naming word."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Give one example of an action word. (25-13)",
+      "answer": "Run is an action word."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Write one sentence with an action word. (25-14)",
+      "answer": "I jump."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is a naming word? (25-15)",
+      "answer": "A naming word is the name of a person, place or thing."
+    }
+  ]
+}

@@ -1,0 +1,1706 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03-Marathi-23",
+    "standard": "3",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "रमाई भीमराव आंबेडकर",
+    "chapter_type": "चरित्रात्मक गद्य"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "रमाई भीमराव आंबेडकर यांचा जन्म कुठे झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या वडिलांचे नाव काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आईचे नाव काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या घरची परिस्थिती कशी होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "रमाईंनी शिक्षण कुठे घेतले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रमाईंचा विवाह कोणाशी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "डॉ. बाबासाहेब आंबेडकर कोणासाठी ओळखले जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "रमाईंचा स्वभाव कसा होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "रमाई कोणत्या लोकांसाठी काम करत होत्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रमाईंनी कोणती जबाबदारी सांभाळली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रमाईंचे आयुष्य कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रमाईंनी कोणत्या मूल्यांचा आदर केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनात कष्ट का होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "रमाईंनी मुलांचे पालन कसे केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील मुख्य अडचण कोणती होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "रमाईंचा समाजावर काय प्रभाव होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या व्यक्तिमत्त्वाचा मुख्य गुण कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यात कोणता त्याग दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनातून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "रमाईंचे नाव का आदराने घेतले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "रमाईंचा संबंध कोणत्या चळवळीशी होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या कुटुंबातील जबाबदारी कोणती होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील संघर्ष कशासाठी होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "रमाईंचा समाजसुधारणेत सहभाग कसा होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रमाईंचे योगदान कशासाठी महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनात कोणते दुःख आले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या स्वभावातील चांगली गोष्ट कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनातील प्रेरणा कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील आनंद कशात होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनाचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील कष्ट कशामुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनात धैर्य कसे दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील त्याग कसा दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनाचा समाजाला काय फायदा झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनातील मूल्ये कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनातून कोणता धडा मिळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील संघर्ष कसा संपला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील मुख्य उद्देश काय होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनात कुटुंबाचे महत्त्व काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील अडचणींवर त्यांनी कशी मात केली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्याचा शेवट कसा होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनातून कोणती प्रेरणा मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील त्याग कशासाठी होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनात समाजसेवेचे स्थान काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील दुःखाचे कारण काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनातील कष्ट कसे फलदायी ठरले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या आयुष्यातील यश कशात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनाचा आदर्श कोणासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनाचा मुख्य विचार कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "रमाईंच्या जीवनातील संघर्ष का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रमाई आंबेडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिजाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कस्तुरबा गांधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रमाई आंबेडकर"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "रमाई भीमराव आंबेडकर कोण होत्या?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रमाईंचा जन्म कुठे झाला?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या घरची परिस्थिती कशी होती?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रमाईंनी शिक्षण कुठे घेतले?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रमाईंचा विवाह कोणाशी झाला?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "रमाईंचा स्वभाव कसा होता?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील कष्ट कोणते होते?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील मुख्य संघर्ष काय होता?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील त्याग लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील मूल्ये कोणती?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातून काय शिकायला मिळते?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील धैर्य कसे दिसते?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील आनंद कशात होता?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील दुःखाचे कारण काय होते?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनाचा समाजावर काय परिणाम झाला?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील मुख्य उद्देश काय होता?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील कुटुंबाचे महत्त्व लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील संघर्ष का महत्त्वाचा आहे?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील त्याग कशासाठी होता?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील समाजसेवेचे महत्त्व लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील अडचणी कोणत्या होत्या?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील संघर्ष कसा संपला?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील प्रेरणा कोणती?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातून कोणता धडा मिळतो?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील कष्ट कसे फलदायी ठरले?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील यश कशात आहे?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनाचा आदर्श कोणासाठी आहे?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील मुख्य विचार कोणता?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील संघर्षाचा अर्थ लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील त्यागाचे उदाहरण द्या.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील धैर्याचे उदाहरण द्या.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील मूल्यांचे उदाहरण द्या.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील दुःखाचे वर्णन करा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील आनंदाचे क्षण लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील समाजकार्य लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील अडचणींवर मात कशी केली?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील प्रेरणादायी घटना लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील कुटुंबाची भूमिका लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील संघर्षातून काय शिकायला मिळते?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील त्याग समाजासाठी कसा उपयुक्त आहे?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील कष्टांचे महत्त्व लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील आदर्श गुण लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील सामाजिक योगदान लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या आयुष्यातील प्रेरणादायी विचार लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील धैर्य समाजाला कसे प्रेरित करते?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील संघर्षाचा शेवट लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील मूल्यांचा समाजावर परिणाम लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातील आदर्श का महत्त्वाचा आहे?",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "रमाईंच्या जीवनातून मिळणारी मुख्य शिकवण लिहा.",
+      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+    }
+  ]
+}

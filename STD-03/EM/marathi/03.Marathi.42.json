@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.42",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Tenses"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word shows action in present?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ran",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Will run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Was running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is past tense?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ate"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which is future tense?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Will go",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Went",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Going",
+          "is_correct": false
+        }
+      ],
+      "answer": "Will go"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sentence is present tense?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I read.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I read yesterday.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I will read.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I was reading.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I read."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which verb is future?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Will play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Played",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Playing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Will play"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word shows action in present? (42-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ran",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Will run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Was running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is past tense? (42-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ate"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which is future tense? (42-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Will go",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Went",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Going",
+          "is_correct": false
+        }
+      ],
+      "answer": "Will go"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which sentence is present tense? (42-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I read.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I read yesterday.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I will read.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I was reading.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I read."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which verb is future? (42-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Will play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Played",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Playing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Will play"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word shows action in present? (42-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ran",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Will run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Was running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which is past tense? (42-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ate"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which is future tense? (42-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Will go",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Went",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Going",
+          "is_correct": false
+        }
+      ],
+      "answer": "Will go"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which sentence is present tense? (42-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I read.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I read yesterday.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I will read.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I was reading.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I read."
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which verb is future? (42-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Will play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Played",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Playing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Will play"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is tense?",
+      "answer": "Tense shows time of action."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Give one example of present tense.",
+      "answer": "I eat."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Give one example of past tense.",
+      "answer": "I ate."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Give one example of future tense.",
+      "answer": "I will eat."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why do we use tenses?",
+      "answer": "We use tenses to show time of action."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is tense? (42-6)",
+      "answer": "Tense shows time of action."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Give one example of present tense. (42-7)",
+      "answer": "I eat."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Give one example of past tense. (42-8)",
+      "answer": "I ate."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Give one example of future tense. (42-9)",
+      "answer": "I will eat."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why do we use tenses? (42-10)",
+      "answer": "We use tenses to show time of action."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is tense? (42-11)",
+      "answer": "Tense shows time of action."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Give one example of present tense. (42-12)",
+      "answer": "I eat."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Give one example of past tense. (42-13)",
+      "answer": "I ate."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Give one example of future tense. (42-14)",
+      "answer": "I will eat."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do we use tenses? (42-15)",
+      "answer": "We use tenses to show time of action."
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.12",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Our Need for Food"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Food is needed by all living things to ________.",
+      "options": [
+        { "option_id": 1, "text": "play", "is_correct": false },
+        { "option_id": 2, "text": "grow and live", "is_correct": true },
+        { "option_id": 3, "text": "sleep", "is_correct": false },
+        { "option_id": 4, "text": "sing", "is_correct": false }
+      ],
+      "answer": "grow and live"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is a source of food?",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Animals", "is_correct": false },
+        { "option_id": 3, "text": "Both plants and animals", "is_correct": true },
+        { "option_id": 4, "text": "Rocks", "is_correct": false }
+      ],
+      "answer": "Both plants and animals"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these foods comes from plants?",
+      "options": [
+        { "option_id": 1, "text": "Milk", "is_correct": false },
+        { "option_id": 2, "text": "Egg", "is_correct": false },
+        { "option_id": 3, "text": "Rice", "is_correct": true },
+        { "option_id": 4, "text": "Meat", "is_correct": false }
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of these foods comes from animals?",
+      "options": [
+        { "option_id": 1, "text": "Wheat", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": true },
+        { "option_id": 3, "text": "Rice", "is_correct": false },
+        { "option_id": 4, "text": "Vegetables", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following helps food to grow?",
+      "options": [
+        { "option_id": 1, "text": "Soil", "is_correct": true },
+        { "option_id": 2, "text": "Plastic", "is_correct": false },
+        { "option_id": 3, "text": "Metal", "is_correct": false },
+        { "option_id": 4, "text": "Glass", "is_correct": false }
+      ],
+      "answer": "Soil"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of these is a healthy food?",
+      "options": [
+        { "option_id": 1, "text": "Fruits", "is_correct": true },
+        { "option_id": 2, "text": "Chips", "is_correct": false },
+        { "option_id": 3, "text": "Sweets", "is_correct": false },
+        { "option_id": 4, "text": "Junk food", "is_correct": false }
+      ],
+      "answer": "Fruits"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which food gives us energy?",
+      "options": [
+        { "option_id": 1, "text": "Rice", "is_correct": true },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT food?",
+      "options": [
+        { "option_id": 1, "text": "Vegetables", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": false },
+        { "option_id": 3, "text": "Stone", "is_correct": true },
+        { "option_id": 4, "text": "Fruits", "is_correct": false }
+      ],
+      "answer": "Stone"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "We should eat food that is ________.",
+      "options": [
+        { "option_id": 1, "text": "dirty", "is_correct": false },
+        { "option_id": 2, "text": "clean and healthy", "is_correct": true },
+        { "option_id": 3, "text": "spoiled", "is_correct": false },
+        { "option_id": 4, "text": "raw always", "is_correct": false }
+      ],
+      "answer": "clean and healthy"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these foods helps us grow strong?",
+      "options": [
+        { "option_id": 1, "text": "Milk", "is_correct": true },
+        { "option_id": 2, "text": "Candy", "is_correct": false },
+        { "option_id": 3, "text": "Chips", "is_correct": false },
+        { "option_id": 4, "text": "Ice cream", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which meal is eaten in the morning?",
+      "options": [
+        { "option_id": 1, "text": "Dinner", "is_correct": false },
+        { "option_id": 2, "text": "Lunch", "is_correct": false },
+        { "option_id": 3, "text": "Breakfast", "is_correct": true },
+        { "option_id": 4, "text": "Snack", "is_correct": false }
+      ],
+      "answer": "Breakfast"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these foods should we eat less?",
+      "options": [
+        { "option_id": 1, "text": "Vegetables", "is_correct": false },
+        { "option_id": 2, "text": "Fruits", "is_correct": false },
+        { "option_id": 3, "text": "Junk food", "is_correct": true },
+        { "option_id": 4, "text": "Rice", "is_correct": false }
+      ],
+      "answer": "Junk food"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these foods comes from animals?",
+      "options": [
+        { "option_id": 1, "text": "Vegetables", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": true },
+        { "option_id": 3, "text": "Rice", "is_correct": false },
+        { "option_id": 4, "text": "Fruits", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these helps keep our body healthy?",
+      "options": [
+        { "option_id": 1, "text": "Eating healthy food", "is_correct": true },
+        { "option_id": 2, "text": "Skipping meals", "is_correct": false },
+        { "option_id": 3, "text": "Eating dirty food", "is_correct": false },
+        { "option_id": 4, "text": "Not drinking water", "is_correct": false }
+      ],
+      "answer": "Eating healthy food"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these is a vegetable?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": false },
+        { "option_id": 2, "text": "Carrot", "is_correct": true },
+        { "option_id": 3, "text": "Banana", "is_correct": false },
+        { "option_id": 4, "text": "Mango", "is_correct": false }
+      ],
+      "answer": "Carrot"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why do we need food?",
+      "answer": "We need food to grow, stay healthy and get energy."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name two sources of food.",
+      "answer": "Plants and animals are sources of food."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name two foods we get from plants.",
+      "answer": "Rice and vegetables are foods we get from plants."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name two foods we get from animals.",
+      "answer": "Milk and eggs are foods we get from animals."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which food gives us energy?",
+      "answer": "Rice and wheat give us energy."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which food helps us grow strong?",
+      "answer": "Milk helps us grow strong."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is healthy food?",
+      "answer": "Healthy food keeps our body fit and strong."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why should we avoid junk food?",
+      "answer": "Junk food is not good for our health."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which meal do we eat in the morning?",
+      "answer": "We eat breakfast in the morning."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one fruit.",
+      "answer": "Apple is a fruit."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name one vegetable.",
+      "answer": "Carrot is a vegetable."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why should food be clean?",
+      "answer": "Clean food keeps us healthy."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What happens if we do not eat food?",
+      "answer": "We become weak if we do not eat food."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How many meals do we eat in a day?",
+      "answer": "We usually eat three meals in a day."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why should we eat fruits and vegetables?",
+      "answer": "Fruits and vegetables keep us healthy."
+    }
+  ]
+}
+

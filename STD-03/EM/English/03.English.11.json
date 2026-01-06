@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.11",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Sugar-Plum Tree"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where does the Sugar-Plum Tree bloom?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the shore of the Lollipop Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a school garden",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the shore of the Lollipop Sea"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What kind of fruit does the tree bear?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Very sweet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sour",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bitter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Salty",
+          "is_correct": false
+        }
+      ],
+      "answer": "Very sweet"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who can eat the fruit to be happy next day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good little children",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only adults",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good little children"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eugene Field",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ruskin Bond",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Robert Frost",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aesop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eugene Field"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does 'marvel' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A wonderful thing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A bad thing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A small thing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A noisy thing",
+          "is_correct": false
+        }
+      ],
+      "answer": "A wonderful thing"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where does the Sugar-Plum Tree bloom?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the shore of the Lollipop Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a school garden",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the shore of the Lollipop Sea"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What kind of fruit does the tree bear?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Very sweet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sour",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bitter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Salty",
+          "is_correct": false
+        }
+      ],
+      "answer": "Very sweet"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who can eat the fruit to be happy next day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good little children",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only adults",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good little children"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eugene Field",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ruskin Bond",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Robert Frost",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aesop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eugene Field"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does 'marvel' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A wonderful thing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A bad thing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A small thing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A noisy thing",
+          "is_correct": false
+        }
+      ],
+      "answer": "A wonderful thing"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where does the Sugar-Plum Tree bloom?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the shore of the Lollipop Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a school garden",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the shore of the Lollipop Sea"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What kind of fruit does the tree bear?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Very sweet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sour",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bitter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Salty",
+          "is_correct": false
+        }
+      ],
+      "answer": "Very sweet"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who can eat the fruit to be happy next day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good little children",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only adults",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good little children"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eugene Field",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ruskin Bond",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Robert Frost",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aesop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eugene Field"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does 'marvel' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A wonderful thing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A bad thing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A small thing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A noisy thing",
+          "is_correct": false
+        }
+      ],
+      "answer": "A wonderful thing"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Where does the Sugar-Plum Tree bloom?",
+      "answer": "It blooms on the shore of the Lollipop Sea."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What kind of fruit does it bear?",
+      "answer": "It bears very sweet fruit."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Who becomes happy by eating the fruit?",
+      "answer": "Good little children become happy."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Who is the poet of the poem?",
+      "answer": "Eugene Field."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "It is about a magical sweet tree."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Where does the Sugar-Plum Tree bloom?",
+      "answer": "It blooms on the shore of the Lollipop Sea."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What kind of fruit does it bear?",
+      "answer": "It bears very sweet fruit."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Who becomes happy by eating the fruit?",
+      "answer": "Good little children become happy."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Who is the poet of the poem?",
+      "answer": "Eugene Field."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "It is about a magical sweet tree."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Where does the Sugar-Plum Tree bloom?",
+      "answer": "It blooms on the shore of the Lollipop Sea."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What kind of fruit does it bear?",
+      "answer": "It bears very sweet fruit."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Who becomes happy by eating the fruit?",
+      "answer": "Good little children become happy."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Who is the poet of the poem?",
+      "answer": "Eugene Field."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "It is about a magical sweet tree."
+    }
+  ]
+}

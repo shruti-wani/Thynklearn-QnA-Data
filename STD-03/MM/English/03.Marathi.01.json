@@ -1,0 +1,381 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.01",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "झोका (गाणे) – दादासाहेब कोते"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'झोका' या कवितेत झोका कुठे लटकलेला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडाला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घरात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रस्त्यावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडाला"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवितेत झोका कशासाठी वापरला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झोपण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "खेळण्यासाठी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवितेत झोक्यावर कोण बसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुले",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पक्षी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षक",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुले"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "'झोका' या कवितेचा भाव कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दु:खी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भितीदायक",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "झोक्यावर बसल्यावर मुलांना कसे वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद वाटतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती वाटते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कंटाळा येतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग येतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद वाटतो"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवितेत झोका हलताना काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मजा येते",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आवाज येतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तुटतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थांबतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "मजा येते"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'झोका' ही कविता कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाठ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडण",
+          "is_correct": false
+        }
+      ],
+      "answer": "खेळ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेत झोक्याचे वर्णन कसे केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दु:खी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कठीण",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "झोक्याशी संबंधित भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दु:ख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणासाठी योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त मोठ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "'झोका' या कवितेत झोका कुठे आहे?",
+      "answer": "झोका झाडाला लटकलेला आहे."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "झोक्यावर बसल्यावर मुलांना कसे वाटते?",
+      "answer": "झोक्यावर बसल्यावर मुलांना आनंद वाटतो."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "'झोका' ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता झोक्यावर खेळण्याच्या आनंदाबद्दल आहे."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "कवितेत झोका कसा हलतो?",
+      "answer": "कवितेत झोका पुढे-मागे हलतो."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "झोका मुलांसाठी का आवडता आहे?",
+      "answer": "झोका खेळायला मजा येते म्हणून मुलांना आवडतो."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवितेतील वातावरण कसे आहे?",
+      "answer": "कवितेतील वातावरण आनंदी आहे."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "झोक्याशी संबंधित भावना कोणती आहे?",
+      "answer": "झोक्याशी आनंदाची भावना संबंधित आहे."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "ही कविता वाचल्यावर काय समजते?",
+      "answer": "खेळातून आनंद मिळतो हे समजते."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "झोका कोणासाठी आहे?",
+      "answer": "झोका मुलांसाठी आहे."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "कवितेत झोका का महत्त्वाचा आहे?",
+      "answer": "तो मुलांच्या खेळाचा भाग आहे म्हणून महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "ही कविता मुलांना काय शिकवते?",
+      "answer": "खेळाचा आनंद घ्यावा हे शिकवते."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "तुम्हाला झोका का आवडतो?",
+      "answer": "मला झोका खेळायला मजा येते म्हणून आवडतो."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "झोका कुठे पाहायला मिळतो?",
+      "answer": "झोका झाडाला किंवा अंगणात पाहायला मिळतो."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "कवितेतील शब्द सोपे आणि गोड आहेत."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'झोका' ही कविता कोणत्या भावनेची आहे?",
+      "answer": "ही कविता आनंदाची आहे."
+    }
+  ]
+}

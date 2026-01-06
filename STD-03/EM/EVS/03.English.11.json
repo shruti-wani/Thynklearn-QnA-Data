@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.11",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Our Need for Air"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Air is ________ for all living things.",
+      "options": [
+        { "option_id": 1, "text": "unimportant", "is_correct": false },
+        { "option_id": 2, "text": "harmful", "is_correct": false },
+        { "option_id": 3, "text": "essential", "is_correct": true },
+        { "option_id": 4, "text": "useless", "is_correct": false }
+      ],
+      "answer": "essential"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which living things need air?",
+      "options": [
+        { "option_id": 1, "text": "Plants only", "is_correct": false },
+        { "option_id": 2, "text": "Animals only", "is_correct": false },
+        { "option_id": 3, "text": "Human beings only", "is_correct": false },
+        { "option_id": 4, "text": "All living things", "is_correct": true }
+      ],
+      "answer": "All living things"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "We breathe in air through our ________.",
+      "options": [
+        { "option_id": 1, "text": "mouth only", "is_correct": false },
+        { "option_id": 2, "text": "nose", "is_correct": true },
+        { "option_id": 3, "text": "ears", "is_correct": false },
+        { "option_id": 4, "text": "eyes", "is_correct": false }
+      ],
+      "answer": "nose"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which gas in air is needed for breathing?",
+      "options": [
+        { "option_id": 1, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": true },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 4, "text": "Smoke", "is_correct": false }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Plants take in ________ from the air.",
+      "options": [
+        { "option_id": 1, "text": "oxygen", "is_correct": false },
+        { "option_id": 2, "text": "carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "smoke", "is_correct": false }
+      ],
+      "answer": "carbon dioxide"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Plants give out ________ into the air.",
+      "options": [
+        { "option_id": 1, "text": "carbon dioxide", "is_correct": false },
+        { "option_id": 2, "text": "oxygen", "is_correct": true },
+        { "option_id": 3, "text": "smoke", "is_correct": false },
+        { "option_id": 4, "text": "dust", "is_correct": false }
+      ],
+      "answer": "oxygen"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following needs air to burn?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Fire", "is_correct": true },
+        { "option_id": 3, "text": "Stone", "is_correct": false },
+        { "option_id": 4, "text": "Sand", "is_correct": false }
+      ],
+      "answer": "Fire"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these shows the presence of air?",
+      "options": [
+        { "option_id": 1, "text": "A moving fan", "is_correct": false },
+        { "option_id": 2, "text": "A flying kite", "is_correct": true },
+        { "option_id": 3, "text": "A parked car", "is_correct": false },
+        { "option_id": 4, "text": "A closed door", "is_correct": false }
+      ],
+      "answer": "A flying kite"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following is caused by air movement?",
+      "options": [
+        { "option_id": 1, "text": "Rain", "is_correct": false },
+        { "option_id": 2, "text": "Wind", "is_correct": true },
+        { "option_id": 3, "text": "Cloud", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these is a use of air?",
+      "options": [
+        { "option_id": 1, "text": "Breathing", "is_correct": true },
+        { "option_id": 2, "text": "Eating", "is_correct": false },
+        { "option_id": 3, "text": "Writing", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Breathing"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these helps us feel cool?",
+      "options": [
+        { "option_id": 1, "text": "Still air", "is_correct": false },
+        { "option_id": 2, "text": "Moving air", "is_correct": true },
+        { "option_id": 3, "text": "Hot air", "is_correct": false },
+        { "option_id": 4, "text": "Thick air", "is_correct": false }
+      ],
+      "answer": "Moving air"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these fills balloons?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Air", "is_correct": true },
+        { "option_id": 3, "text": "Sand", "is_correct": false },
+        { "option_id": 4, "text": "Stone", "is_correct": false }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these activities needs air?",
+      "options": [
+        { "option_id": 1, "text": "Burning a candle", "is_correct": true },
+        { "option_id": 2, "text": "Writing a letter", "is_correct": false },
+        { "option_id": 3, "text": "Drinking water", "is_correct": false },
+        { "option_id": 4, "text": "Reading a book", "is_correct": false }
+      ],
+      "answer": "Burning a candle"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following pollutes air?",
+      "options": [
+        { "option_id": 1, "text": "Fresh air", "is_correct": false },
+        { "option_id": 2, "text": "Smoke", "is_correct": true },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Wind", "is_correct": false }
+      ],
+      "answer": "Smoke"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these helps keep air clean?",
+      "options": [
+        { "option_id": 1, "text": "Cutting trees", "is_correct": false },
+        { "option_id": 2, "text": "Planting trees", "is_correct": true },
+        { "option_id": 3, "text": "Burning waste", "is_correct": false },
+        { "option_id": 4, "text": "Vehicle smoke", "is_correct": false }
+      ],
+      "answer": "Planting trees"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why do we need air?",
+      "answer": "We need air to breathe and live."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Which gas do we breathe in?",
+      "answer": "We breathe in oxygen."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which gas do plants take in?",
+      "answer": "Plants take in carbon dioxide."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which gas do plants give out?",
+      "answer": "Plants give out oxygen."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How can we show that air is present?",
+      "answer": "A flying kite shows that air is present."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is wind?",
+      "answer": "Wind is moving air."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why does fire need air?",
+      "answer": "Fire needs air to burn."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name one use of air.",
+      "answer": "Air is used for breathing."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What happens if air is polluted?",
+      "answer": "Polluted air makes us sick."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one thing that pollutes air.",
+      "answer": "Smoke pollutes air."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How can we keep air clean?",
+      "answer": "We can keep air clean by planting trees."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which activity needs air to happen?",
+      "answer": "Burning needs air."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why do living things die without air?",
+      "answer": "Living things die without air because they cannot breathe."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What fills balloons?",
+      "answer": "Air fills balloons."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why are trees important for air?",
+      "answer": "Trees give oxygen and keep air clean."
+    }
+  ]
+}

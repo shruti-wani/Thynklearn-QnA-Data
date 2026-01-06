@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.52",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Spelling Fun"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word is correctly spelled?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "day",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "dai",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "dae",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "dey",
+          "is_correct": false
+        }
+      ],
+      "answer": "day"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word is spelled d-a-y?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "day",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "hand",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shop",
+          "is_correct": false
+        }
+      ],
+      "answer": "day"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is a noun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clock",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "play",
+          "is_correct": false
+        }
+      ],
+      "answer": "clock"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word is in the list for spelling practice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "lamp",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "jump",
+          "is_correct": false
+        }
+      ],
+      "answer": "lamp"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do we do in spelling fun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spell words",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play games",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Draw pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spell words"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word is correctly spelled?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "day",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "dai",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "dae",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "dey",
+          "is_correct": false
+        }
+      ],
+      "answer": "day"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word is spelled d-a-y?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "day",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "hand",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shop",
+          "is_correct": false
+        }
+      ],
+      "answer": "day"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these is a noun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clock",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "play",
+          "is_correct": false
+        }
+      ],
+      "answer": "clock"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word is in the list for spelling practice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "lamp",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "jump",
+          "is_correct": false
+        }
+      ],
+      "answer": "lamp"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What do we do in spelling fun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spell words",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play games",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Draw pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spell words"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word is correctly spelled?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "day",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "dai",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "dae",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "dey",
+          "is_correct": false
+        }
+      ],
+      "answer": "day"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word is spelled d-a-y?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "day",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "hand",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shop",
+          "is_correct": false
+        }
+      ],
+      "answer": "day"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is a noun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clock",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "play",
+          "is_correct": false
+        }
+      ],
+      "answer": "clock"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word is in the list for spelling practice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "lamp",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "jump",
+          "is_correct": false
+        }
+      ],
+      "answer": "lamp"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we do in spelling fun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spell words",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play games",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Draw pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spell words"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is spelling?",
+      "answer": "Spelling means writing words correctly."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Spell the word 'day'.",
+      "answer": "d-a-y"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write one word from the spelling list.",
+      "answer": "lamp"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Why is spelling important?",
+      "answer": "It helps us write correctly."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Write any one correctly spelled word.",
+      "answer": "sun"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is spelling?",
+      "answer": "Spelling means writing words correctly."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Spell the word 'day'.",
+      "answer": "d-a-y"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Write one word from the spelling list.",
+      "answer": "lamp"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Why is spelling important?",
+      "answer": "It helps us write correctly."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Write any one correctly spelled word.",
+      "answer": "sun"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is spelling?",
+      "answer": "Spelling means writing words correctly."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Spell the word 'day'.",
+      "answer": "d-a-y"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one word from the spelling list.",
+      "answer": "lamp"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why is spelling important?",
+      "answer": "It helps us write correctly."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Write any one correctly spelled word.",
+      "answer": "sun"
+    }
+  ]
+}

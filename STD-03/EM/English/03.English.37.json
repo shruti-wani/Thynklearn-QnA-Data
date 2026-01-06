@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.37",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Bedtime"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What time of day is described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Evening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afternoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where are the rooks flying?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To the nest",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To the river",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To the market",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the school",
+          "is_correct": false
+        }
+      ],
+      "answer": "To the nest"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What are the bees doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Returning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flying away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Returning"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What should little people do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go to bed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Study",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go to bed"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the mood of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Calm and peaceful",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calm and peaceful"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What time of day is described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Evening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afternoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where are the rooks flying?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To the nest",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To the river",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To the market",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the school",
+          "is_correct": false
+        }
+      ],
+      "answer": "To the nest"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What are the bees doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Returning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flying away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Returning"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should little people do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go to bed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Study",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go to bed"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the mood of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Calm and peaceful",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calm and peaceful"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What time of day is described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Evening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afternoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where are the rooks flying?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To the nest",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To the river",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To the market",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the school",
+          "is_correct": false
+        }
+      ],
+      "answer": "To the nest"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What are the bees doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Returning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flying away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Returning"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What should little people do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go to bed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Study",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go to bed"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the mood of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Calm and peaceful",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calm and peaceful"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What time is described in the poem?",
+      "answer": "Evening time."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Where are the rooks flying?",
+      "answer": "They are flying to their nests."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What are the bees doing?",
+      "answer": "They are returning."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What should little people do?",
+      "answer": "They should go to bed."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What feeling does the poem give?",
+      "answer": "A calm and peaceful feeling."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What time is described in the poem?",
+      "answer": "Evening time."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Where are the rooks flying?",
+      "answer": "They are flying to their nests."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What are the bees doing?",
+      "answer": "They are returning."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What should little people do?",
+      "answer": "They should go to bed."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What feeling does the poem give?",
+      "answer": "A calm and peaceful feeling."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What time is described in the poem?",
+      "answer": "Evening time."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Where are the rooks flying?",
+      "answer": "They are flying to their nests."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What are the bees doing?",
+      "answer": "They are returning."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What should little people do?",
+      "answer": "They should go to bed."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What feeling does the poem give?",
+      "answer": "A calm and peaceful feeling."
+    }
+  ]
+}

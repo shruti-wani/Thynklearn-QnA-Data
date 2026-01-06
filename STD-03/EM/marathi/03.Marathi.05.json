@@ -1,0 +1,181 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.MarathiMedium.English.05",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi Medium",
+    "chapter_name": "More or Less"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word is used when the number is bigger?",
+      "options": [
+        { "option_id": 1, "text": "Less", "is_correct": false },
+        { "option_id": 2, "text": "More", "is_correct": true },
+        { "option_id": 3, "text": "Same", "is_correct": false },
+        { "option_id": 4, "text": "Few", "is_correct": false }
+      ],
+      "answer": "More"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word is used when the number is smaller?",
+      "options": [
+        { "option_id": 1, "text": "More", "is_correct": false },
+        { "option_id": 2, "text": "Less", "is_correct": true },
+        { "option_id": 3, "text": "Many", "is_correct": false },
+        { "option_id": 4, "text": "All", "is_correct": false }
+      ],
+      "answer": "Less"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "If there are more apples than bananas, apples are ________.",
+      "options": [
+        { "option_id": 1, "text": "less", "is_correct": false },
+        { "option_id": 2, "text": "more", "is_correct": true },
+        { "option_id": 3, "text": "same", "is_correct": false },
+        { "option_id": 4, "text": "few", "is_correct": false }
+      ],
+      "answer": "more"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "If there are fewer pencils, we say pencils are ________.",
+      "options": [
+        { "option_id": 1, "text": "more", "is_correct": false },
+        { "option_id": 2, "text": "less", "is_correct": true },
+        { "option_id": 3, "text": "many", "is_correct": false },
+        { "option_id": 4, "text": "all", "is_correct": false }
+      ],
+      "answer": "less"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word means a small number?",
+      "options": [
+        { "option_id": 1, "text": "Many", "is_correct": false },
+        { "option_id": 2, "text": "Few", "is_correct": true },
+        { "option_id": 3, "text": "More", "is_correct": false },
+        { "option_id": 4, "text": "All", "is_correct": false }
+      ],
+      "answer": "Few"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word means a large number?",
+      "options": [
+        { "option_id": 1, "text": "Few", "is_correct": false },
+        { "option_id": 2, "text": "Many", "is_correct": true },
+        { "option_id": 3, "text": "Less", "is_correct": false },
+        { "option_id": 4, "text": "Little", "is_correct": false }
+      ],
+      "answer": "Many"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "If two groups have the same number, they are ________.",
+      "options": [
+        { "option_id": 1, "text": "more", "is_correct": false },
+        { "option_id": 2, "text": "less", "is_correct": false },
+        { "option_id": 3, "text": "equal", "is_correct": true },
+        { "option_id": 4, "text": "few", "is_correct": false }
+      ],
+      "answer": "equal"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "We use 'more' and 'less' to ________.",
+      "options": [
+        { "option_id": 1, "text": "compare numbers", "is_correct": true },
+        { "option_id": 2, "text": "draw pictures", "is_correct": false },
+        { "option_id": 3, "text": "sing songs", "is_correct": false },
+        { "option_id": 4, "text": "play games", "is_correct": false }
+      ],
+      "answer": "compare numbers"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which group has more objects?",
+      "options": [
+        { "option_id": 1, "text": "The bigger group", "is_correct": true },
+        { "option_id": 2, "text": "The smaller group", "is_correct": false },
+        { "option_id": 3, "text": "The empty group", "is_correct": false },
+        { "option_id": 4, "text": "The same group", "is_correct": false }
+      ],
+      "answer": "The bigger group"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which group has less objects?",
+      "options": [
+        { "option_id": 1, "text": "The smaller group", "is_correct": true },
+        { "option_id": 2, "text": "The bigger group", "is_correct": false },
+        { "option_id": 3, "text": "The equal group", "is_correct": false },
+        { "option_id": 4, "text": "The full group", "is_correct": false }
+      ],
+      "answer": "The smaller group"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does 'more' mean?",
+      "answer": "'More' means a bigger number."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does 'less' mean?",
+      "answer": "'Less' means a smaller number."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "When do we use the word 'few'?",
+      "answer": "We use 'few' for a small number."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "When do we use the word 'many'?",
+      "answer": "We use 'many' for a large number."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does equal mean?",
+      "answer": "Equal means the same number."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why do we use more and less?",
+      "answer": "We use more and less to compare numbers."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which group is bigger?",
+      "answer": "The group with more objects is bigger."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which group is smaller?",
+      "answer": "The group with less objects is smaller."
+    }
+  ]
+}
+

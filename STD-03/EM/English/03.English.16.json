@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.16",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Young Scientist - 1"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the 'young scientist' in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A curious child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A farmer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A doctor",
+          "is_correct": false
+        }
+      ],
+      "answer": "A curious child"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the young scientist like to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ask questions",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ask questions"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What helps the child learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observing and experimenting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Guessing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Copying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignoring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observing and experimenting"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which quality is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the lesson encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thinking and trying",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Being lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Being afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Arguing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and trying"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the 'young scientist' in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A curious child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A farmer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A doctor",
+          "is_correct": false
+        }
+      ],
+      "answer": "A curious child"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the young scientist like to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ask questions",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ask questions"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What helps the child learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observing and experimenting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Guessing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Copying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignoring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observing and experimenting"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which quality is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the lesson encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thinking and trying",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Being lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Being afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Arguing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and trying"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the 'young scientist' in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A curious child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A farmer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A doctor",
+          "is_correct": false
+        }
+      ],
+      "answer": "A curious child"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the young scientist like to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ask questions",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ask questions"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What helps the child learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observing and experimenting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Guessing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Copying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignoring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observing and experimenting"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which quality is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does the lesson encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thinking and trying",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Being lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Being afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Arguing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and trying"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Who is a young scientist?",
+      "answer": "A young scientist is a child who is curious and likes to learn."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What does the child like to do?",
+      "answer": "The child likes to ask questions and try things."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "How does the child learn?",
+      "answer": "By observing and experimenting."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Which quality is important for a scientist?",
+      "answer": "Curiosity."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the lesson teach us?",
+      "answer": "To think, ask and try."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who is a young scientist?",
+      "answer": "A young scientist is a child who is curious and likes to learn."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What does the child like to do?",
+      "answer": "The child likes to ask questions and try things."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "How does the child learn?",
+      "answer": "By observing and experimenting."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Which quality is important for a scientist?",
+      "answer": "Curiosity."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the lesson teach us?",
+      "answer": "To think, ask and try."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who is a young scientist?",
+      "answer": "A young scientist is a child who is curious and likes to learn."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What does the child like to do?",
+      "answer": "The child likes to ask questions and try things."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "How does the child learn?",
+      "answer": "By observing and experimenting."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Which quality is important for a scientist?",
+      "answer": "Curiosity."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the lesson teach us?",
+      "answer": "To think, ask and try."
+    }
+  ]
+}

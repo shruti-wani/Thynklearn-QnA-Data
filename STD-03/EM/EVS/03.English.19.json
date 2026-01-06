@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.19",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "My School"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A school is a place where we ________.",
+      "options": [
+        { "option_id": 1, "text": "sleep", "is_correct": false },
+        { "option_id": 2, "text": "learn", "is_correct": true },
+        { "option_id": 3, "text": "play only", "is_correct": false },
+        { "option_id": 4, "text": "cook", "is_correct": false }
+      ],
+      "answer": "learn"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who teaches us in school?",
+      "options": [
+        { "option_id": 1, "text": "Parents", "is_correct": false },
+        { "option_id": 2, "text": "Teachers", "is_correct": true },
+        { "option_id": 3, "text": "Friends", "is_correct": false },
+        { "option_id": 4, "text": "Neighbours", "is_correct": false }
+      ],
+      "answer": "Teachers"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is found in a school?",
+      "options": [
+        { "option_id": 1, "text": "Kitchen stove", "is_correct": false },
+        { "option_id": 2, "text": "Classroom", "is_correct": true },
+        { "option_id": 3, "text": "Bedroom", "is_correct": false },
+        { "option_id": 4, "text": "Garage", "is_correct": false }
+      ],
+      "answer": "Classroom"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where do students sit and study?",
+      "options": [
+        { "option_id": 1, "text": "Playground", "is_correct": false },
+        { "option_id": 2, "text": "Classroom", "is_correct": true },
+        { "option_id": 3, "text": "Office", "is_correct": false },
+        { "option_id": 4, "text": "Library", "is_correct": false }
+      ],
+      "answer": "Classroom"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which place in school is used for playing?",
+      "options": [
+        { "option_id": 1, "text": "Classroom", "is_correct": false },
+        { "option_id": 2, "text": "Playground", "is_correct": true },
+        { "option_id": 3, "text": "Library", "is_correct": false },
+        { "option_id": 4, "text": "Office", "is_correct": false }
+      ],
+      "answer": "Playground"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the head of the school?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": false },
+        { "option_id": 2, "text": "Principal", "is_correct": true },
+        { "option_id": 3, "text": "Student", "is_correct": false },
+        { "option_id": 4, "text": "Guard", "is_correct": false }
+      ],
+      "answer": "Principal"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these helps us learn new things?",
+      "options": [
+        { "option_id": 1, "text": "Teachers", "is_correct": true },
+        { "option_id": 2, "text": "Games", "is_correct": false },
+        { "option_id": 3, "text": "Toys", "is_correct": false },
+        { "option_id": 4, "text": "Food", "is_correct": false }
+      ],
+      "answer": "Teachers"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which room has many books?",
+      "options": [
+        { "option_id": 1, "text": "Classroom", "is_correct": false },
+        { "option_id": 2, "text": "Library", "is_correct": true },
+        { "option_id": 3, "text": "Office", "is_correct": false },
+        { "option_id": 4, "text": "Playground", "is_correct": false }
+      ],
+      "answer": "Library"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should students wear in school?",
+      "options": [
+        { "option_id": 1, "text": "Casual clothes", "is_correct": false },
+        { "option_id": 2, "text": "School uniform", "is_correct": true },
+        { "option_id": 3, "text": "Party clothes", "is_correct": false },
+        { "option_id": 4, "text": "Night dress", "is_correct": false }
+      ],
+      "answer": "School uniform"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these is a good habit in school?",
+      "options": [
+        { "option_id": 1, "text": "Making noise", "is_correct": false },
+        { "option_id": 2, "text": "Listening to teachers", "is_correct": true },
+        { "option_id": 3, "text": "Fighting", "is_correct": false },
+        { "option_id": 4, "text": "Running in corridors", "is_correct": false }
+      ],
+      "answer": "Listening to teachers"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why do we go to school?",
+      "options": [
+        { "option_id": 1, "text": "To play only", "is_correct": false },
+        { "option_id": 2, "text": "To learn and grow", "is_correct": true },
+        { "option_id": 3, "text": "To sleep", "is_correct": false },
+        { "option_id": 4, "text": "To eat food", "is_correct": false }
+      ],
+      "answer": "To learn and grow"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a duty of a student?",
+      "options": [
+        { "option_id": 1, "text": "Respect teachers", "is_correct": true },
+        { "option_id": 2, "text": "Break rules", "is_correct": false },
+        { "option_id": 3, "text": "Make noise", "is_correct": false },
+        { "option_id": 4, "text": "Fight with friends", "is_correct": false }
+      ],
+      "answer": "Respect teachers"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which place in school is used for morning assembly?",
+      "options": [
+        { "option_id": 1, "text": "Library", "is_correct": false },
+        { "option_id": 2, "text": "Playground", "is_correct": true },
+        { "option_id": 3, "text": "Classroom", "is_correct": false },
+        { "option_id": 4, "text": "Office", "is_correct": false }
+      ],
+      "answer": "Playground"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who helps keep the school safe?",
+      "options": [
+        { "option_id": 1, "text": "Guard", "is_correct": true },
+        { "option_id": 2, "text": "Students", "is_correct": false },
+        { "option_id": 3, "text": "Parents", "is_correct": false },
+        { "option_id": 4, "text": "Drivers", "is_correct": false }
+      ],
+      "answer": "Guard"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these keeps the school clean?",
+      "options": [
+        { "option_id": 1, "text": "Throwing waste", "is_correct": false },
+        { "option_id": 2, "text": "Cleaning staff", "is_correct": true },
+        { "option_id": 3, "text": "Students only", "is_correct": false },
+        { "option_id": 4, "text": "Teachers only", "is_correct": false }
+      ],
+      "answer": "Cleaning staff"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a school?",
+      "answer": "A school is a place where we learn."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who teaches us in school?",
+      "answer": "Teachers teach us in school."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who is the head of the school?",
+      "answer": "The principal is the head of the school."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one room in your school.",
+      "answer": "Classroom is one room in my school."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where do we play in school?",
+      "answer": "We play in the playground."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why do we wear a school uniform?",
+      "answer": "We wear a school uniform for discipline and equality."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is a good habit in school?",
+      "answer": "Listening to teachers is a good habit."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why should we respect teachers?",
+      "answer": "Teachers help us learn and grow."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which room has many books?",
+      "answer": "The library has many books."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we do in morning assembly?",
+      "answer": "We pray and listen to instructions."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who keeps the school clean?",
+      "answer": "Cleaning staff keep the school clean."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why should we keep our school clean?",
+      "answer": "A clean school keeps us healthy."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is our duty as students?",
+      "answer": "Our duty is to study and follow rules."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why do we love our school?",
+      "answer": "We love our school because we learn many things."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How can we help our school?",
+      "answer": "We can help by keeping it clean and following rules."
+    }
+  ]
+}
+

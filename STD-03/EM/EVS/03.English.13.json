@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.13",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Our Diet"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A diet means the food we ________.",
+      "options": [
+        { "option_id": 1, "text": "see", "is_correct": false },
+        { "option_id": 2, "text": "eat every day", "is_correct": true },
+        { "option_id": 3, "text": "cook", "is_correct": false },
+        { "option_id": 4, "text": "buy", "is_correct": false }
+      ],
+      "answer": "eat every day"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "A healthy diet keeps us ________.",
+      "options": [
+        { "option_id": 1, "text": "weak", "is_correct": false },
+        { "option_id": 2, "text": "sick", "is_correct": false },
+        { "option_id": 3, "text": "healthy", "is_correct": true },
+        { "option_id": 4, "text": "lazy", "is_correct": false }
+      ],
+      "answer": "healthy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is part of a balanced diet?",
+      "options": [
+        { "option_id": 1, "text": "Only sweets", "is_correct": false },
+        { "option_id": 2, "text": "Only junk food", "is_correct": false },
+        { "option_id": 3, "text": "Fruits and vegetables", "is_correct": true },
+        { "option_id": 4, "text": "Only chips", "is_correct": false }
+      ],
+      "answer": "Fruits and vegetables"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which food helps in body growth?",
+      "options": [
+        { "option_id": 1, "text": "Milk", "is_correct": true },
+        { "option_id": 2, "text": "Candy", "is_correct": false },
+        { "option_id": 3, "text": "Cold drink", "is_correct": false },
+        { "option_id": 4, "text": "Chips", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which food gives us energy?",
+      "options": [
+        { "option_id": 1, "text": "Rice", "is_correct": true },
+        { "option_id": 2, "text": "Salt", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of these foods should we eat more?",
+      "options": [
+        { "option_id": 1, "text": "Fruits", "is_correct": true },
+        { "option_id": 2, "text": "Junk food", "is_correct": false },
+        { "option_id": 3, "text": "Sweets", "is_correct": false },
+        { "option_id": 4, "text": "Chips", "is_correct": false }
+      ],
+      "answer": "Fruits"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these is junk food?",
+      "options": [
+        { "option_id": 1, "text": "Vegetables", "is_correct": false },
+        { "option_id": 2, "text": "Fruits", "is_correct": false },
+        { "option_id": 3, "text": "Chips", "is_correct": true },
+        { "option_id": 4, "text": "Rice", "is_correct": false }
+      ],
+      "answer": "Chips"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "A balanced diet has ________ kinds of food.",
+      "options": [
+        { "option_id": 1, "text": "only one", "is_correct": false },
+        { "option_id": 2, "text": "many", "is_correct": true },
+        { "option_id": 3, "text": "no", "is_correct": false },
+        { "option_id": 4, "text": "junk", "is_correct": false }
+      ],
+      "answer": "many"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which meal do we eat in the afternoon?",
+      "options": [
+        { "option_id": 1, "text": "Breakfast", "is_correct": false },
+        { "option_id": 2, "text": "Lunch", "is_correct": true },
+        { "option_id": 3, "text": "Dinner", "is_correct": false },
+        { "option_id": 4, "text": "Snack", "is_correct": false }
+      ],
+      "answer": "Lunch"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these drinks is healthy?",
+      "options": [
+        { "option_id": 1, "text": "Cold drink", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": true },
+        { "option_id": 3, "text": "Packed juice", "is_correct": false },
+        { "option_id": 4, "text": "Soft drink", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which food helps keep us fit?",
+      "options": [
+        { "option_id": 1, "text": "Healthy food", "is_correct": true },
+        { "option_id": 2, "text": "Junk food", "is_correct": false },
+        { "option_id": 3, "text": "Spoiled food", "is_correct": false },
+        { "option_id": 4, "text": "Dirty food", "is_correct": false }
+      ],
+      "answer": "Healthy food"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a fruit?",
+      "options": [
+        { "option_id": 1, "text": "Carrot", "is_correct": false },
+        { "option_id": 2, "text": "Apple", "is_correct": true },
+        { "option_id": 3, "text": "Potato", "is_correct": false },
+        { "option_id": 4, "text": "Onion", "is_correct": false }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these foods should be avoided?",
+      "options": [
+        { "option_id": 1, "text": "Fresh food", "is_correct": false },
+        { "option_id": 2, "text": "Junk food", "is_correct": true },
+        { "option_id": 3, "text": "Vegetables", "is_correct": false },
+        { "option_id": 4, "text": "Fruits", "is_correct": false }
+      ],
+      "answer": "Junk food"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which food gives strength to our body?",
+      "options": [
+        { "option_id": 1, "text": "Milk", "is_correct": true },
+        { "option_id": 2, "text": "Candy", "is_correct": false },
+        { "option_id": 3, "text": "Ice cream", "is_correct": false },
+        { "option_id": 4, "text": "Soft drink", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which habit is good for health?",
+      "options": [
+        { "option_id": 1, "text": "Eating balanced diet", "is_correct": true },
+        { "option_id": 2, "text": "Skipping meals", "is_correct": false },
+        { "option_id": 3, "text": "Eating junk food", "is_correct": false },
+        { "option_id": 4, "text": "Not drinking water", "is_correct": false }
+      ],
+      "answer": "Eating balanced diet"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a diet?",
+      "answer": "A diet is the food we eat every day."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a balanced diet?",
+      "answer": "A balanced diet includes different kinds of healthy food."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is a balanced diet important?",
+      "answer": "A balanced diet keeps us healthy and strong."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name two healthy foods.",
+      "answer": "Fruits and vegetables are healthy foods."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name one junk food.",
+      "answer": "Chips are junk food."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which food gives us energy?",
+      "answer": "Rice gives us energy."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which food helps in body growth?",
+      "answer": "Milk helps in body growth."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why should we avoid junk food?",
+      "answer": "Junk food is harmful to our health."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one fruit you like.",
+      "answer": "I like apple."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one vegetable you eat.",
+      "answer": "I eat carrot."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which meal do we eat in the morning?",
+      "answer": "We eat breakfast in the morning."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which meal do we eat at night?",
+      "answer": "We eat dinner at night."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why should food be clean?",
+      "answer": "Clean food keeps us healthy."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How many meals do we eat in a day?",
+      "answer": "We usually eat three meals in a day."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is milk good for us?",
+      "answer": "Milk makes our bones and body strong."
+    }
+  ]
+}
+

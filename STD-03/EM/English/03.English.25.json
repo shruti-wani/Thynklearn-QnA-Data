@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.25",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "After School"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "When does the lesson take place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "After school",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Before school",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "At night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the morning",
+          "is_correct": false
+        }
+      ],
+      "answer": "After school"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What do children do after school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play and relax",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep all day",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only study",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Go to work",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play and relax"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where do some children go after school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To the playground",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To the office",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To the hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the market",
+          "is_correct": false
+        }
+      ],
+      "answer": "To the playground"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What good habit is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Using time well",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Being lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Being rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Being careless",
+          "is_correct": false
+        }
+      ],
+      "answer": "Using time well"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the lesson teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Balance work and play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only study",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Do nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Balance work and play"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "When does the lesson take place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "After school",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Before school",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "At night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the morning",
+          "is_correct": false
+        }
+      ],
+      "answer": "After school"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What do children do after school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play and relax",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep all day",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only study",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Go to work",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play and relax"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where do some children go after school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To the playground",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To the office",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To the hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the market",
+          "is_correct": false
+        }
+      ],
+      "answer": "To the playground"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What good habit is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Using time well",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Being lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Being rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Being careless",
+          "is_correct": false
+        }
+      ],
+      "answer": "Using time well"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the lesson teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Balance work and play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only study",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Do nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Balance work and play"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "When does the lesson take place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "After school",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Before school",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "At night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the morning",
+          "is_correct": false
+        }
+      ],
+      "answer": "After school"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What do children do after school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play and relax",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep all day",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only study",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Go to work",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play and relax"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where do some children go after school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To the playground",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To the office",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To the hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the market",
+          "is_correct": false
+        }
+      ],
+      "answer": "To the playground"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What good habit is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Using time well",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Being lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Being rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Being careless",
+          "is_correct": false
+        }
+      ],
+      "answer": "Using time well"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does the lesson teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Balance work and play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only study",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Do nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Balance work and play"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "When does the lesson take place?",
+      "answer": "After school."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What do children do after school?",
+      "answer": "They play and relax."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Where do children go to play?",
+      "answer": "To the playground."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What good habit is shown?",
+      "answer": "Using time well."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the lesson teach us?",
+      "answer": "To balance work and play."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "When does the lesson take place?",
+      "answer": "After school."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What do children do after school?",
+      "answer": "They play and relax."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Where do children go to play?",
+      "answer": "To the playground."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What good habit is shown?",
+      "answer": "Using time well."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the lesson teach us?",
+      "answer": "To balance work and play."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "When does the lesson take place?",
+      "answer": "After school."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What do children do after school?",
+      "answer": "They play and relax."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Where do children go to play?",
+      "answer": "To the playground."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What good habit is shown?",
+      "answer": "Using time well."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the lesson teach us?",
+      "answer": "To balance work and play."
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.06",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "In a Biscuit Factory"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where are the biscuits made?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a factory",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "At home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a school",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a market",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a factory"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the first step shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Get a recipe",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Bake the biscuits",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pack the biscuits",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sell the biscuits",
+          "is_correct": false
+        }
+      ],
+      "answer": "Get a recipe"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do workers do after mixing ingredients?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Knead the dough",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat the dough",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Throw it away",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paint it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Knead the dough"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where are the biscuits baked?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In an oven",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "On a table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a pan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a fridge",
+          "is_correct": false
+        }
+      ],
+      "answer": "In an oven"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is done after baking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cool and pack the biscuits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat them",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Throw them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paint them",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cool and pack the biscuits"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where are the biscuits made?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a factory",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "At home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a school",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a market",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a factory"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the first step shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Get a recipe",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Bake the biscuits",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pack the biscuits",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sell the biscuits",
+          "is_correct": false
+        }
+      ],
+      "answer": "Get a recipe"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What do workers do after mixing ingredients?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Knead the dough",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat the dough",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Throw it away",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paint it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Knead the dough"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where are the biscuits baked?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In an oven",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "On a table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a pan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a fridge",
+          "is_correct": false
+        }
+      ],
+      "answer": "In an oven"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is done after baking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cool and pack the biscuits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat them",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Throw them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paint them",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cool and pack the biscuits"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where are the biscuits made?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a factory",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "At home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a school",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a market",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a factory"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the first step shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Get a recipe",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Bake the biscuits",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pack the biscuits",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sell the biscuits",
+          "is_correct": false
+        }
+      ],
+      "answer": "Get a recipe"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What do workers do after mixing ingredients?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Knead the dough",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat the dough",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Throw it away",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paint it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Knead the dough"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Where are the biscuits baked?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In an oven",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "On a table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a pan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a fridge",
+          "is_correct": false
+        }
+      ],
+      "answer": "In an oven"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is done after baking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cool and pack the biscuits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat them",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Throw them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paint them",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cool and pack the biscuits"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Where are biscuits made?",
+      "answer": "Biscuits are made in a factory."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What is the first step in making biscuits?",
+      "answer": "Getting a recipe."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is done to the dough?",
+      "answer": "The dough is kneaded and rolled."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Where are biscuits baked?",
+      "answer": "They are baked in an oven."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What happens after baking?",
+      "answer": "The biscuits are cooled and packed."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Where are biscuits made?",
+      "answer": "Biscuits are made in a factory."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What is the first step in making biscuits?",
+      "answer": "Getting a recipe."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is done to the dough?",
+      "answer": "The dough is kneaded and rolled."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Where are biscuits baked?",
+      "answer": "They are baked in an oven."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What happens after baking?",
+      "answer": "The biscuits are cooled and packed."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Where are biscuits made?",
+      "answer": "Biscuits are made in a factory."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the first step in making biscuits?",
+      "answer": "Getting a recipe."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is done to the dough?",
+      "answer": "The dough is kneaded and rolled."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Where are biscuits baked?",
+      "answer": "They are baked in an oven."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What happens after baking?",
+      "answer": "The biscuits are cooled and packed."
+    }
+  ]
+}

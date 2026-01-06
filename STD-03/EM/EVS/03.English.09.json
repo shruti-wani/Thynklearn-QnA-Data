@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.09",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Where Does Water Come From?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The main source of water on Earth is ________.",
+      "options": [
+        { "option_id": 1, "text": "rain", "is_correct": true },
+        { "option_id": 2, "text": "river", "is_correct": false },
+        { "option_id": 3, "text": "pond", "is_correct": false },
+        { "option_id": 4, "text": "well", "is_correct": false }
+      ],
+      "answer": "rain"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Rainwater flows into ________.",
+      "options": [
+        { "option_id": 1, "text": "roads only", "is_correct": false },
+        { "option_id": 2, "text": "rivers and lakes", "is_correct": true },
+        { "option_id": 3, "text": "houses", "is_correct": false },
+        { "option_id": 4, "text": "vehicles", "is_correct": false }
+      ],
+      "answer": "rivers and lakes"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is a natural source of water?",
+      "options": [
+        { "option_id": 1, "text": "Tap", "is_correct": false },
+        { "option_id": 2, "text": "River", "is_correct": true },
+        { "option_id": 3, "text": "Bucket", "is_correct": false },
+        { "option_id": 4, "text": "Bottle", "is_correct": false }
+      ],
+      "answer": "River"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Water from rain seeps into the ground to form ________.",
+      "options": [
+        { "option_id": 1, "text": "seawater", "is_correct": false },
+        { "option_id": 2, "text": "groundwater", "is_correct": true },
+        { "option_id": 3, "text": "clouds", "is_correct": false },
+        { "option_id": 4, "text": "ice", "is_correct": false }
+      ],
+      "answer": "groundwater"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following gets water from groundwater?",
+      "options": [
+        { "option_id": 1, "text": "Well", "is_correct": true },
+        { "option_id": 2, "text": "River", "is_correct": false },
+        { "option_id": 3, "text": "Lake", "is_correct": false },
+        { "option_id": 4, "text": "Sea", "is_correct": false }
+      ],
+      "answer": "Well"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of these is made by storing rainwater?",
+      "options": [
+        { "option_id": 1, "text": "Pond", "is_correct": true },
+        { "option_id": 2, "text": "Road", "is_correct": false },
+        { "option_id": 3, "text": "House", "is_correct": false },
+        { "option_id": 4, "text": "Bridge", "is_correct": false }
+      ],
+      "answer": "Pond"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which water source is very large and salty?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Lake", "is_correct": false },
+        { "option_id": 3, "text": "Sea", "is_correct": true },
+        { "option_id": 4, "text": "Well", "is_correct": false }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Water from rivers is used mainly for ________.",
+      "options": [
+        { "option_id": 1, "text": "drinking only", "is_correct": false },
+        { "option_id": 2, "text": "irrigation and daily use", "is_correct": true },
+        { "option_id": 3, "text": "making toys", "is_correct": false },
+        { "option_id": 4, "text": "washing cars only", "is_correct": false }
+      ],
+      "answer": "irrigation and daily use"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these sources gives us water through taps?",
+      "options": [
+        { "option_id": 1, "text": "River directly", "is_correct": false },
+        { "option_id": 2, "text": "Water supply system", "is_correct": true },
+        { "option_id": 3, "text": "Clouds", "is_correct": false },
+        { "option_id": 4, "text": "Sea", "is_correct": false }
+      ],
+      "answer": "Water supply system"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a source of water?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Pond", "is_correct": false },
+        { "option_id": 3, "text": "Well", "is_correct": false },
+        { "option_id": 4, "text": "Road", "is_correct": true }
+      ],
+      "answer": "Road"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Rainwater that flows on land finally reaches ________.",
+      "options": [
+        { "option_id": 1, "text": "mountains", "is_correct": false },
+        { "option_id": 2, "text": "seas and oceans", "is_correct": true },
+        { "option_id": 3, "text": "clouds", "is_correct": false },
+        { "option_id": 4, "text": "houses", "is_correct": false }
+      ],
+      "answer": "seas and oceans"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these stores rainwater for future use?",
+      "options": [
+        { "option_id": 1, "text": "Tank", "is_correct": true },
+        { "option_id": 2, "text": "Road", "is_correct": false },
+        { "option_id": 3, "text": "Field", "is_correct": false },
+        { "option_id": 4, "text": "Tree", "is_correct": false }
+      ],
+      "answer": "Tank"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Groundwater is found ________ the earth.",
+      "options": [
+        { "option_id": 1, "text": "above", "is_correct": false },
+        { "option_id": 2, "text": "inside", "is_correct": true },
+        { "option_id": 3, "text": "on", "is_correct": false },
+        { "option_id": 4, "text": "over", "is_correct": false }
+      ],
+      "answer": "inside"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these helps collect rainwater?",
+      "options": [
+        { "option_id": 1, "text": "Rainwater harvesting", "is_correct": true },
+        { "option_id": 2, "text": "Water wasting", "is_correct": false },
+        { "option_id": 3, "text": "Road building", "is_correct": false },
+        { "option_id": 4, "text": "Cutting trees", "is_correct": false }
+      ],
+      "answer": "Rainwater harvesting"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which water source is mainly used for farming?",
+      "options": [
+        { "option_id": 1, "text": "River water", "is_correct": true },
+        { "option_id": 2, "text": "Sea water", "is_correct": false },
+        { "option_id": 3, "text": "Bottle water", "is_correct": false },
+        { "option_id": 4, "text": "Dirty water", "is_correct": false }
+      ],
+      "answer": "River water"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the main source of water?",
+      "answer": "Rain is the main source of water."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name two natural sources of water.",
+      "answer": "River and lake are natural sources of water."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is groundwater?",
+      "answer": "Groundwater is water found under the ground."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How do wells get water?",
+      "answer": "Wells get water from groundwater."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is rainwater important?",
+      "answer": "Rainwater fills rivers, lakes and groundwater."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name one man-made source of water.",
+      "answer": "Tap is a man-made source of water."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is seawater not fit for drinking?",
+      "answer": "Seawater is salty and not fit for drinking."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Where does rainwater go after falling on land?",
+      "answer": "Rainwater flows into rivers, lakes and seas."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How does groundwater help us?",
+      "answer": "Groundwater provides water through wells and hand pumps."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is a pond?",
+      "answer": "A pond is a small water body that stores rainwater."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why should we store rainwater?",
+      "answer": "We should store rainwater for future use."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one source of water used for irrigation.",
+      "answer": "River water is used for irrigation."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is rainwater harvesting?",
+      "answer": "Rainwater harvesting means collecting and storing rainwater."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How does water reach our homes?",
+      "answer": "Water reaches our homes through pipes and taps."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why should we not waste water?",
+      "answer": "We should not waste water because it is precious."
+    }
+  ]
+}

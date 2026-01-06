@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.19",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "o–u"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of these is a vowel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "o",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "b",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "c",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "d",
+          "is_correct": false
+        }
+      ],
+      "answer": "o"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word starts with vowel 'o'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Orange",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dog",
+          "is_correct": false
+        }
+      ],
+      "answer": "Orange"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word starts with vowel 'u'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Umbrella",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Umbrella"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which vowel comes after 'i'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "o",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "u",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "e",
+          "is_correct": false
+        }
+      ],
+      "answer": "o"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these is not a vowel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "o",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "u",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "b",
+          "is_correct": true
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word begins with 'o'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ox",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ox"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word begins with 'u'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Uniform",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these words starts with a vowel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Orange",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dog",
+          "is_correct": false
+        }
+      ],
+      "answer": "Orange"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which letter is a vowel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "u",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "t",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "s",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "r",
+          "is_correct": false
+        }
+      ],
+      "answer": "u"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word begins with vowel 'o'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Owl",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Owl"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word begins with vowel 'u'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Umbrella",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cap",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "Umbrella"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How many vowels are there in English?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "answer": "5"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is a vowel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "o",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "m",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "n",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "p",
+          "is_correct": false
+        }
+      ],
+      "answer": "o"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word begins with vowel 'u'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Uncle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uncle"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word begins with vowel 'o'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Orange",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Rat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Orange"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is a vowel?",
+      "answer": "A vowel is a letter like a, e, i, o, u."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Name any one vowel.",
+      "answer": "o is a vowel."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write a word that starts with 'o'.",
+      "answer": "Orange."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write a word that starts with 'u'.",
+      "answer": "Umbrella."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "How many vowels are there in English?",
+      "answer": "There are five vowels in English."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Is 'u' a vowel or consonant?",
+      "answer": "'u' is a vowel."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name a fruit that starts with 'o'.",
+      "answer": "Orange starts with 'o'."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Name a thing that starts with 'u'.",
+      "answer": "Umbrella starts with 'u'."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write two vowels.",
+      "answer": "o and u are vowels."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Circle the vowel in 'ox'.",
+      "answer": "The vowel in 'ox' is 'o'."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Circle the vowel in 'umbrella'.",
+      "answer": "The vowel in 'umbrella' is 'u'."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Write one word that begins with 'o'.",
+      "answer": "Owl begins with 'o'."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one word that begins with 'u'.",
+      "answer": "Uncle begins with 'u'."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Are 'o' and 'u' vowels?",
+      "answer": "Yes, 'o' and 'u' are vowels."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do we learn vowels?",
+      "answer": "We learn vowels to read and write words correctly."
+    }
+  ]
+}

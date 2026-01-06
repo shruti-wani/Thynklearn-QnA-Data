@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.18",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "a–e–i"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of these is a vowel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "a",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "b",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "c",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "d",
+          "is_correct": false
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which vowel comes first in the alphabet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "e",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "a",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "o",
+          "is_correct": false
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word starts with vowel 'a'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dog",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word starts with vowel 'e'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elephant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word starts with vowel 'i'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ink",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ink"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many vowels are there in English?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "answer": "5"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these is not a vowel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "e",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "b",
+          "is_correct": true
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word begins with 'a'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Bat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dog",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ant"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word begins with 'e'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Egg",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cap",
+          "is_correct": false
+        }
+      ],
+      "answer": "Egg"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word begins with 'i'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Rat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ice"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these words starts with a vowel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dog",
+          "is_correct": false
+        }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which letter is a vowel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "i",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "t",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "s",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "r",
+          "is_correct": false
+        }
+      ],
+      "answer": "i"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word begins with vowel 'e'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elephant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word begins with vowel 'a'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ant"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word begins with vowel 'i'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ink",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cap",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ink"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is a vowel?",
+      "answer": "A vowel is a letter like a, e, i, o, u."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Name any one vowel.",
+      "answer": "a is a vowel."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write a word that starts with 'a'.",
+      "answer": "Apple."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write a word that starts with 'e'.",
+      "answer": "Elephant."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Write a word that starts with 'i'.",
+      "answer": "Ink."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "How many vowels are there in English?",
+      "answer": "There are five vowels in English."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Is 'b' a vowel or consonant?",
+      "answer": "'b' is a consonant."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Name a fruit that starts with 'a'.",
+      "answer": "Apple starts with 'a'."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Name an animal that starts with 'e'.",
+      "answer": "Elephant starts with 'e'."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Name a thing that starts with 'i'.",
+      "answer": "Ink starts with 'i'."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Write two vowels.",
+      "answer": "a and e are vowels."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Circle the vowel in 'ice'.",
+      "answer": "The vowel in 'ice' is 'i'."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Circle the vowel in 'ant'.",
+      "answer": "The vowel in 'ant' is 'a'."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Circle the vowel in 'egg'.",
+      "answer": "The vowel in 'egg' is 'e'."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do we learn vowels?",
+      "answer": "We learn vowels to read and write words correctly."
+    }
+  ]
+}

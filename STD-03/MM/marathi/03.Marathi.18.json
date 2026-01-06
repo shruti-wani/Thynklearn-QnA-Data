@@ -1,0 +1,715 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.18",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "मजेशीर होड्या"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'मजेशीर होड्या' या धड्यात मुलांना नदी कशी पार करायची होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होड्यांनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पोहून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पुलावरून",
+          "is_correct": false
+        }
+      ],
+      "answer": "होड्यांनी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "होड्या कशापासून तयार केल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अक्रोडाच्या टरफलांपासून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कागदापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाकडापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिकपासून",
+          "is_correct": false
+        }
+      ],
+      "answer": "अक्रोडाच्या टरफलांपासून"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "होड्या कोणी तयार केल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंडूने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सशाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुलांनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षकांनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंडूने"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "होड्यांवर काय लावले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चाक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पंख",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिडे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "होड्या पाण्यात कशा होत्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तरंगणाऱ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बुडणाऱ्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुटलेल्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "तरंगणाऱ्या"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'मजेशीर होड्या' या धड्यात मुलांना नदी कशी पार करायची होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होड्यांनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पोहून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पुलावरून",
+          "is_correct": false
+        }
+      ],
+      "answer": "होड्यांनी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "होड्या कशापासून तयार केल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अक्रोडाच्या टरफलांपासून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कागदापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाकडापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिकपासून",
+          "is_correct": false
+        }
+      ],
+      "answer": "अक्रोडाच्या टरफलांपासून"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "होड्या कोणी तयार केल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंडूने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सशाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुलांनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षकांनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंडूने"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "होड्यांवर काय लावले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चाक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पंख",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिडे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "होड्या पाण्यात कशा होत्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तरंगणाऱ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बुडणाऱ्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुटलेल्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "तरंगणाऱ्या"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'मजेशीर होड्या' या धड्यात मुलांना नदी कशी पार करायची होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होड्यांनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पोहून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पुलावरून",
+          "is_correct": false
+        }
+      ],
+      "answer": "होड्यांनी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "होड्या कशापासून तयार केल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अक्रोडाच्या टरफलांपासून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कागदापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाकडापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिकपासून",
+          "is_correct": false
+        }
+      ],
+      "answer": "अक्रोडाच्या टरफलांपासून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "होड्या कोणी तयार केल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंडूने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सशाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुलांनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षकांनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंडूने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "होड्यांवर काय लावले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चाक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पंख",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिडे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "होड्या पाण्यात कशा होत्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तरंगणाऱ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बुडणाऱ्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुटलेल्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "तरंगणाऱ्या"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "'मजेशीर होड्या' या धड्यात मुलांना नदी कशी पार करायची होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होड्यांनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पोहून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पुलावरून",
+          "is_correct": false
+        }
+      ],
+      "answer": "होड्यांनी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "होड्या कशापासून तयार केल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अक्रोडाच्या टरफलांपासून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कागदापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाकडापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्लास्टिकपासून",
+          "is_correct": false
+        }
+      ],
+      "answer": "अक्रोडाच्या टरफलांपासून"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "होड्या कोणी तयार केल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंडूने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सशाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुलांनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षकांनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंडूने"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "होड्यांवर काय लावले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चाक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पंख",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिडे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "होड्या पाण्यात कशा होत्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तरंगणाऱ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बुडणाऱ्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुटलेल्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "तरंगणाऱ्या"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
+      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "बंडूने ठेंगूंना कशी मदत केली?",
+      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "होड्यांवर शिडे का लावली होती?",
+      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
+      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "बंडूने ठेंगूंना कशी मदत केली?",
+      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "होड्यांवर शिडे का लावली होती?",
+      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
+      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "बंडूने ठेंगूंना कशी मदत केली?",
+      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "होड्यांवर शिडे का लावली होती?",
+      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
+      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "बंडूने ठेंगूंना कशी मदत केली?",
+      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "होड्यांवर शिडे का लावली होती?",
+      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
+      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "बंडूने ठेंगूंना कशी मदत केली?",
+      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "होड्यांवर शिडे का लावली होती?",
+      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
+      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "बंडूने ठेंगूंना कशी मदत केली?",
+      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "होड्यांवर शिडे का लावली होती?",
+      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+    }
+  ]
+}

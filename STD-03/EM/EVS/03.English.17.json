@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.17",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Pearly Teeth, Healthy Body"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Teeth help us to ________ food.",
+      "options": [
+        { "option_id": 1, "text": "see", "is_correct": false },
+        { "option_id": 2, "text": "chew", "is_correct": true },
+        { "option_id": 3, "text": "smell", "is_correct": false },
+        { "option_id": 4, "text": "hear", "is_correct": false }
+      ],
+      "answer": "chew"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "We should brush our teeth ________ times a day.",
+      "options": [
+        { "option_id": 1, "text": "one", "is_correct": false },
+        { "option_id": 2, "text": "two", "is_correct": true },
+        { "option_id": 3, "text": "three", "is_correct": false },
+        { "option_id": 4, "text": "many", "is_correct": false }
+      ],
+      "answer": "two"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is used to clean teeth?",
+      "options": [
+        { "option_id": 1, "text": "Soap", "is_correct": false },
+        { "option_id": 2, "text": "Toothpaste", "is_correct": true },
+        { "option_id": 3, "text": "Shampoo", "is_correct": false },
+        { "option_id": 4, "text": "Oil", "is_correct": false }
+      ],
+      "answer": "Toothpaste"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which food is good for healthy teeth?",
+      "options": [
+        { "option_id": 1, "text": "Milk", "is_correct": true },
+        { "option_id": 2, "text": "Chocolates", "is_correct": false },
+        { "option_id": 3, "text": "Sweets", "is_correct": false },
+        { "option_id": 4, "text": "Cold drinks", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Eating too many sweets can cause ________.",
+      "options": [
+        { "option_id": 1, "text": "strong teeth", "is_correct": false },
+        { "option_id": 2, "text": "tooth decay", "is_correct": true },
+        { "option_id": 3, "text": "clean teeth", "is_correct": false },
+        { "option_id": 4, "text": "healthy gums", "is_correct": false }
+      ],
+      "answer": "tooth decay"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of these helps keep teeth clean?",
+      "options": [
+        { "option_id": 1, "text": "Not brushing", "is_correct": false },
+        { "option_id": 2, "text": "Brushing daily", "is_correct": true },
+        { "option_id": 3, "text": "Eating sweets", "is_correct": false },
+        { "option_id": 4, "text": "Drinking cold drinks", "is_correct": false }
+      ],
+      "answer": "Brushing daily"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Milk and curd are good for ________.",
+      "options": [
+        { "option_id": 1, "text": "hair", "is_correct": false },
+        { "option_id": 2, "text": "teeth and bones", "is_correct": true },
+        { "option_id": 3, "text": "eyes", "is_correct": false },
+        { "option_id": 4, "text": "ears", "is_correct": false }
+      ],
+      "answer": "teeth and bones"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which habit is bad for teeth?",
+      "options": [
+        { "option_id": 1, "text": "Brushing teeth", "is_correct": false },
+        { "option_id": 2, "text": "Eating too many sweets", "is_correct": true },
+        { "option_id": 3, "text": "Rinsing mouth", "is_correct": false },
+        { "option_id": 4, "text": "Drinking milk", "is_correct": false }
+      ],
+      "answer": "Eating too many sweets"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Strong teeth help us to ________ food well.",
+      "options": [
+        { "option_id": 1, "text": "chew", "is_correct": true },
+        { "option_id": 2, "text": "smell", "is_correct": false },
+        { "option_id": 3, "text": "see", "is_correct": false },
+        { "option_id": 4, "text": "hear", "is_correct": false }
+      ],
+      "answer": "chew"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What should we do after eating sweets?",
+      "options": [
+        { "option_id": 1, "text": "Sleep", "is_correct": false },
+        { "option_id": 2, "text": "Rinse mouth", "is_correct": true },
+        { "option_id": 3, "text": "Eat more sweets", "is_correct": false },
+        { "option_id": 4, "text": "Do nothing", "is_correct": false }
+      ],
+      "answer": "Rinse mouth"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Healthy teeth help keep our body ________.",
+      "options": [
+        { "option_id": 1, "text": "weak", "is_correct": false },
+        { "option_id": 2, "text": "healthy", "is_correct": true },
+        { "option_id": 3, "text": "lazy", "is_correct": false },
+        { "option_id": 4, "text": "tired", "is_correct": false }
+      ],
+      "answer": "healthy"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is good for teeth?",
+      "options": [
+        { "option_id": 1, "text": "Cold drinks", "is_correct": false },
+        { "option_id": 2, "text": "Vegetables", "is_correct": true },
+        { "option_id": 3, "text": "Sweets", "is_correct": false },
+        { "option_id": 4, "text": "Chocolates", "is_correct": false }
+      ],
+      "answer": "Vegetables"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these helps prevent tooth decay?",
+      "options": [
+        { "option_id": 1, "text": "Eating sweets", "is_correct": false },
+        { "option_id": 2, "text": "Brushing teeth", "is_correct": true },
+        { "option_id": 3, "text": "Drinking soda", "is_correct": false },
+        { "option_id": 4, "text": "Skipping brushing", "is_correct": false }
+      ],
+      "answer": "Brushing teeth"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why are teeth important?",
+      "options": [
+        { "option_id": 1, "text": "To look nice only", "is_correct": false },
+        { "option_id": 2, "text": "To chew food", "is_correct": true },
+        { "option_id": 3, "text": "To smell", "is_correct": false },
+        { "option_id": 4, "text": "To hear", "is_correct": false }
+      ],
+      "answer": "To chew food"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which habit keeps our body healthy?",
+      "options": [
+        { "option_id": 1, "text": "Not brushing teeth", "is_correct": false },
+        { "option_id": 2, "text": "Good dental care", "is_correct": true },
+        { "option_id": 3, "text": "Eating junk food", "is_correct": false },
+        { "option_id": 4, "text": "Skipping meals", "is_correct": false }
+      ],
+      "answer": "Good dental care"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why do we need teeth?",
+      "answer": "We need teeth to chew food."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How many times should we brush our teeth?",
+      "answer": "We should brush our teeth twice a day."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What happens if we do not brush our teeth?",
+      "answer": "Our teeth may decay and cause pain."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name two foods good for teeth.",
+      "answer": "Milk and vegetables are good for teeth."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name two foods bad for teeth.",
+      "answer": "Sweets and chocolates are bad for teeth."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is tooth decay?",
+      "answer": "Tooth decay is damage to teeth caused by germs."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should we do after eating sweets?",
+      "answer": "We should rinse our mouth after eating sweets."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is brushing important?",
+      "answer": "Brushing keeps teeth clean and healthy."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How do healthy teeth help our body?",
+      "answer": "Healthy teeth help us chew food properly."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which drink is good for teeth?",
+      "answer": "Milk is good for teeth."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why should we avoid too many sweets?",
+      "answer": "Too many sweets can harm our teeth."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What should we use to clean our teeth?",
+      "answer": "We should use a toothbrush and toothpaste."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How do healthy teeth help us eat?",
+      "answer": "They help us chew food easily."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is dental care important?",
+      "answer": "Dental care keeps teeth strong and healthy."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How can we keep our teeth pearly?",
+      "answer": "By brushing daily and eating healthy food."
+    }
+  ]
+}
+

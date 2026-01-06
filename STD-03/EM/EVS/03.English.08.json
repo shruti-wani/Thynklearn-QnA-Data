@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.08",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Our Need for Water"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Water is ________ for all living things.",
+      "options": [
+        { "option_id": 1, "text": "harmful", "is_correct": false },
+        { "option_id": 2, "text": "unnecessary", "is_correct": false },
+        { "option_id": 3, "text": "important", "is_correct": true },
+        { "option_id": 4, "text": "useless", "is_correct": false }
+      ],
+      "answer": "important"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following needs water to live?",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Animals", "is_correct": false },
+        { "option_id": 3, "text": "Human beings", "is_correct": false },
+        { "option_id": 4, "text": "All of these", "is_correct": true }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is a source of water?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": true },
+        { "option_id": 2, "text": "Road", "is_correct": false },
+        { "option_id": 3, "text": "Building", "is_correct": false },
+        { "option_id": 4, "text": "Mountain", "is_correct": false }
+      ],
+      "answer": "River"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is used for drinking water?",
+      "options": [
+        { "option_id": 1, "text": "Dirty water", "is_correct": false },
+        { "option_id": 2, "text": "Clean water", "is_correct": true },
+        { "option_id": 3, "text": "Salt water", "is_correct": false },
+        { "option_id": 4, "text": "Waste water", "is_correct": false }
+      ],
+      "answer": "Clean water"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which activity needs water?",
+      "options": [
+        { "option_id": 1, "text": "Washing clothes", "is_correct": true },
+        { "option_id": 2, "text": "Reading books", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Watching TV", "is_correct": false }
+      ],
+      "answer": "Washing clothes"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following animals lives in water?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Fish", "is_correct": true },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Fish"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Plants need water mainly to ________.",
+      "options": [
+        { "option_id": 1, "text": "grow", "is_correct": true },
+        { "option_id": 2, "text": "sleep", "is_correct": false },
+        { "option_id": 3, "text": "shine", "is_correct": false },
+        { "option_id": 4, "text": "break", "is_correct": false }
+      ],
+      "answer": "grow"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a source of water?",
+      "options": [
+        { "option_id": 1, "text": "Well", "is_correct": false },
+        { "option_id": 2, "text": "River", "is_correct": false },
+        { "option_id": 3, "text": "Pond", "is_correct": false },
+        { "option_id": 4, "text": "Road", "is_correct": true }
+      ],
+      "answer": "Road"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Rainwater helps to fill ________.",
+      "options": [
+        { "option_id": 1, "text": "rivers and lakes", "is_correct": true },
+        { "option_id": 2, "text": "roads", "is_correct": false },
+        { "option_id": 3, "text": "houses", "is_correct": false },
+        { "option_id": 4, "text": "cars", "is_correct": false }
+      ],
+      "answer": "rivers and lakes"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "We should drink ________ water.",
+      "options": [
+        { "option_id": 1, "text": "dirty", "is_correct": false },
+        { "option_id": 2, "text": "clean", "is_correct": true },
+        { "option_id": 3, "text": "salty", "is_correct": false },
+        { "option_id": 4, "text": "muddy", "is_correct": false }
+      ],
+      "answer": "clean"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these uses more water?",
+      "options": [
+        { "option_id": 1, "text": "Bathing", "is_correct": true },
+        { "option_id": 2, "text": "Reading", "is_correct": false },
+        { "option_id": 3, "text": "Writing", "is_correct": false },
+        { "option_id": 4, "text": "Singing", "is_correct": false }
+      ],
+      "answer": "Bathing"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these helps save water?",
+      "options": [
+        { "option_id": 1, "text": "Leaving taps open", "is_correct": false },
+        { "option_id": 2, "text": "Using bucket for bathing", "is_correct": true },
+        { "option_id": 3, "text": "Wasting water", "is_correct": false },
+        { "option_id": 4, "text": "Playing with water", "is_correct": false }
+      ],
+      "answer": "Using bucket for bathing"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Water is used for ________.",
+      "options": [
+        { "option_id": 1, "text": "drinking", "is_correct": false },
+        { "option_id": 2, "text": "cleaning", "is_correct": false },
+        { "option_id": 3, "text": "cooking", "is_correct": false },
+        { "option_id": 4, "text": "all of these", "is_correct": true }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which water is not fit for drinking?",
+      "options": [
+        { "option_id": 1, "text": "Boiled water", "is_correct": false },
+        { "option_id": 2, "text": "Filtered water", "is_correct": false },
+        { "option_id": 3, "text": "Dirty water", "is_correct": true },
+        { "option_id": 4, "text": "Clean water", "is_correct": false }
+      ],
+      "answer": "Dirty water"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "We should save water because it is ________.",
+      "options": [
+        { "option_id": 1, "text": "unlimited", "is_correct": false },
+        { "option_id": 2, "text": "precious", "is_correct": true },
+        { "option_id": 3, "text": "waste", "is_correct": false },
+        { "option_id": 4, "text": "free", "is_correct": false }
+      ],
+      "answer": "precious"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why do we need water?",
+      "answer": "We need water for drinking, cooking and cleaning."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name two sources of water.",
+      "answer": "River and well are sources of water."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why do plants need water?",
+      "answer": "Plants need water to grow."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why do animals need water?",
+      "answer": "Animals need water to drink and live."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which water should we drink?",
+      "answer": "We should drink clean water."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name one water animal.",
+      "answer": "Fish is a water animal."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How is rainwater useful?",
+      "answer": "Rainwater fills rivers, lakes and ponds."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name one activity that uses water.",
+      "answer": "Bathing uses water."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What happens if water is wasted?",
+      "answer": "There may be shortage of water."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How can we save water at home?",
+      "answer": "We can close taps and use water carefully."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why should we save water?",
+      "answer": "We should save water because it is precious."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which water is unsafe for drinking?",
+      "answer": "Dirty water is unsafe for drinking."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one source of water from the ground.",
+      "answer": "Well is a source of ground water."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What should we do before drinking water?",
+      "answer": "We should clean or boil water before drinking."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Complete the sentence: Water is life.",
+      "answer": "Water is life because all living things need it."
+    }
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.01",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Our Environment"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Things around us together form our ________.",
+      "options": [
+        { "option_id": 1, "text": "family", "is_correct": false },
+        { "option_id": 2, "text": "environment", "is_correct": true },
+        { "option_id": 3, "text": "school", "is_correct": false },
+        { "option_id": 4, "text": "house", "is_correct": false }
+      ],
+      "answer": "environment"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is a non-living thing?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Tree", "is_correct": false },
+        { "option_id": 3, "text": "Stone", "is_correct": true },
+        { "option_id": 4, "text": "Bird", "is_correct": false }
+      ],
+      "answer": "Stone"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Living things need food because food helps them to ________.",
+      "options": [
+        { "option_id": 1, "text": "sleep", "is_correct": false },
+        { "option_id": 2, "text": "grow", "is_correct": true },
+        { "option_id": 3, "text": "shine", "is_correct": false },
+        { "option_id": 4, "text": "break", "is_correct": false }
+      ],
+      "answer": "grow"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is a living thing?",
+      "options": [
+        { "option_id": 1, "text": "Road", "is_correct": false },
+        { "option_id": 2, "text": "Chair", "is_correct": false },
+        { "option_id": 3, "text": "Sparrow", "is_correct": true },
+        { "option_id": 4, "text": "Rock", "is_correct": false }
+      ],
+      "answer": "Sparrow"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Living things are divided into plants and ________.",
+      "options": [
+        { "option_id": 1, "text": "stones", "is_correct": false },
+        { "option_id": 2, "text": "houses", "is_correct": false },
+        { "option_id": 3, "text": "animals", "is_correct": true },
+        { "option_id": 4, "text": "roads", "is_correct": false }
+      ],
+      "answer": "animals"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following does not eat food?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Plant", "is_correct": false },
+        { "option_id": 3, "text": "Stone", "is_correct": true },
+        { "option_id": 4, "text": "Bird", "is_correct": false }
+      ],
+      "answer": "Stone"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Plants are living things because they ________.",
+      "options": [
+        { "option_id": 1, "text": "move from place to place", "is_correct": false },
+        { "option_id": 2, "text": "grow from seeds", "is_correct": true },
+        { "option_id": 3, "text": "are made of wood", "is_correct": false },
+        { "option_id": 4, "text": "do not need water", "is_correct": false }
+      ],
+      "answer": "grow from seeds"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is part of the environment?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": true },
+        { "option_id": 2, "text": "Television", "is_correct": false },
+        { "option_id": 3, "text": "Book", "is_correct": false },
+        { "option_id": 4, "text": "Bag", "is_correct": false }
+      ],
+      "answer": "River"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which living thing can move from place to place?",
+      "options": [
+        { "option_id": 1, "text": "Tree", "is_correct": false },
+        { "option_id": 2, "text": "Animal", "is_correct": true },
+        { "option_id": 3, "text": "Rock", "is_correct": false },
+        { "option_id": 4, "text": "Road", "is_correct": false }
+      ],
+      "answer": "Animal"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Roots hold plants ________.",
+      "options": [
+        { "option_id": 1, "text": "in the air", "is_correct": false },
+        { "option_id": 2, "text": "in one place", "is_correct": true },
+        { "option_id": 3, "text": "in water", "is_correct": false },
+        { "option_id": 4, "text": "on animals", "is_correct": false }
+      ],
+      "answer": "in one place"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following do all living things need?",
+      "options": [
+        { "option_id": 1, "text": "Toys", "is_correct": false },
+        { "option_id": 2, "text": "Food, water and air", "is_correct": true },
+        { "option_id": 3, "text": "Clothes", "is_correct": false },
+        { "option_id": 4, "text": "Books", "is_correct": false }
+      ],
+      "answer": "Food, water and air"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Birds build nests using materials from the ________.",
+      "options": [
+        { "option_id": 1, "text": "market", "is_correct": false },
+        { "option_id": 2, "text": "environment", "is_correct": true },
+        { "option_id": 3, "text": "school", "is_correct": false },
+        { "option_id": 4, "text": "factory", "is_correct": false }
+      ],
+      "answer": "environment"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which animal eats dead animals and helps clean the environment?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Vulture", "is_correct": true },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Vulture"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Leaves that fall on the ground ________.",
+      "options": [
+        { "option_id": 1, "text": "remain the same", "is_correct": false },
+        { "option_id": 2, "text": "rot and mix with soil", "is_correct": true },
+        { "option_id": 3, "text": "turn into stone", "is_correct": false },
+        { "option_id": 4, "text": "fly away", "is_correct": false }
+      ],
+      "answer": "rot and mix with soil"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Fertile soil helps plants to get ________.",
+      "options": [
+        { "option_id": 1, "text": "toys", "is_correct": false },
+        { "option_id": 2, "text": "nourishment", "is_correct": true },
+        { "option_id": 3, "text": "paint", "is_correct": false },
+        { "option_id": 4, "text": "stones", "is_correct": false }
+      ],
+      "answer": "nourishment"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of the following comes from trees?",
+      "options": [
+        { "option_id": 1, "text": "Plastic", "is_correct": false },
+        { "option_id": 2, "text": "Wood", "is_correct": true },
+        { "option_id": 3, "text": "Iron", "is_correct": false },
+        { "option_id": 4, "text": "Glass", "is_correct": false }
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "A chair made from wood is a ________ thing.",
+      "options": [
+        { "option_id": 1, "text": "living", "is_correct": false },
+        { "option_id": 2, "text": "non-living", "is_correct": true },
+        { "option_id": 3, "text": "growing", "is_correct": false },
+        { "option_id": 4, "text": "breathing", "is_correct": false }
+      ],
+      "answer": "non-living"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which living thing lays eggs?",
+      "options": [
+        { "option_id": 1, "text": "Sparrow", "is_correct": true },
+        { "option_id": 2, "text": "Stone", "is_correct": false },
+        { "option_id": 3, "text": "Chair", "is_correct": false },
+        { "option_id": 4, "text": "Table", "is_correct": false }
+      ],
+      "answer": "Sparrow"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of the following is not a living thing?",
+      "options": [
+        { "option_id": 1, "text": "Plant", "is_correct": false },
+        { "option_id": 2, "text": "Animal", "is_correct": false },
+        { "option_id": 3, "text": "Air", "is_correct": true },
+        { "option_id": 4, "text": "Bird", "is_correct": false }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "All living and non-living things depend on each other in the ________.",
+      "options": [
+        { "option_id": 1, "text": "classroom", "is_correct": false },
+        { "option_id": 2, "text": "environment", "is_correct": true },
+        { "option_id": 3, "text": "house", "is_correct": false },
+        { "option_id": 4, "text": "market", "is_correct": false }
+      ],
+      "answer": "environment"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of the following is used by birds to build nests?",
+      "options": [
+        { "option_id": 1, "text": "Twigs", "is_correct": true },
+        { "option_id": 2, "text": "Plastic toys", "is_correct": false },
+        { "option_id": 3, "text": "Metal", "is_correct": false },
+        { "option_id": 4, "text": "Glass", "is_correct": false }
+      ],
+      "answer": "Twigs"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Seeds of some plants are scattered by the ________.",
+      "options": [
+        { "option_id": 1, "text": "wind", "is_correct": true },
+        { "option_id": 2, "text": "stones", "is_correct": false },
+        { "option_id": 3, "text": "books", "is_correct": false },
+        { "option_id": 4, "text": "roads", "is_correct": false }
+      ],
+      "answer": "wind"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Sheep help plants by carrying ________ in their wool.",
+      "options": [
+        { "option_id": 1, "text": "stones", "is_correct": false },
+        { "option_id": 2, "text": "seeds", "is_correct": true },
+        { "option_id": 3, "text": "water", "is_correct": false },
+        { "option_id": 4, "text": "leaves", "is_correct": false }
+      ],
+      "answer": "seeds"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Living things should not waste things from the environment because ________.",
+      "options": [
+        { "option_id": 1, "text": "they are costly", "is_correct": false },
+        { "option_id": 2, "text": "they fulfill our needs", "is_correct": true },
+        { "option_id": 3, "text": "they are colourful", "is_correct": false },
+        { "option_id": 4, "text": "they are heavy", "is_correct": false }
+      ],
+      "answer": "they fulfill our needs"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "We must take care of the environment so that it is ________.",
+      "options": [
+        { "option_id": 1, "text": "destroyed", "is_correct": false },
+        { "option_id": 2, "text": "protected", "is_correct": true },
+        { "option_id": 3, "text": "ignored", "is_correct": false },
+        { "option_id": 4, "text": "polluted", "is_correct": false }
+      ],
+      "answer": "protected"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of the following is made from materials found in the environment?",
+      "options": [
+        { "option_id": 1, "text": "Plastic bottle", "is_correct": false },
+        { "option_id": 2, "text": "Wooden chair", "is_correct": true },
+        { "option_id": 3, "text": "Steel spoon", "is_correct": false },
+        { "option_id": 4, "text": "Rubber ball", "is_correct": false }
+      ],
+      "answer": "Wooden chair"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of the following helps plants grow in new places?",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": true },
+        { "option_id": 2, "text": "Stones", "is_correct": false },
+        { "option_id": 3, "text": "Roads", "is_correct": false },
+        { "option_id": 4, "text": "Buildings", "is_correct": false }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which living thing builds nests?",
+      "options": [
+        { "option_id": 1, "text": "Fish", "is_correct": false },
+        { "option_id": 2, "text": "Birds", "is_correct": true },
+        { "option_id": 3, "text": "Snakes", "is_correct": false },
+        { "option_id": 4, "text": "Frogs", "is_correct": false }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which of the following is used by birds to make nests soft?",
+      "options": [
+        { "option_id": 1, "text": "Cotton", "is_correct": true },
+        { "option_id": 2, "text": "Glass", "is_correct": false },
+        { "option_id": 3, "text": "Plastic", "is_correct": false },
+        { "option_id": 4, "text": "Metal", "is_correct": false }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which animal lays eggs and takes care of its young ones?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Sparrow", "is_correct": true },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Sparrow"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of the following living things cannot move from place to place?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Bird", "is_correct": false },
+        { "option_id": 3, "text": "Plant", "is_correct": true },
+        { "option_id": 4, "text": "Fish", "is_correct": false }
+      ],
+      "answer": "Plant"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT obtained from the environment?",
+      "options": [
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Soil", "is_correct": false },
+        { "option_id": 4, "text": "Electric fan", "is_correct": true }
+      ],
+      "answer": "Electric fan"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of the following helps in making soil fertile?",
+      "options": [
+        { "option_id": 1, "text": "Fallen leaves", "is_correct": true },
+        { "option_id": 2, "text": "Plastic waste", "is_correct": false },
+        { "option_id": 3, "text": "Glass pieces", "is_correct": false },
+        { "option_id": 4, "text": "Metal scraps", "is_correct": false }
+      ],
+      "answer": "Fallen leaves"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which animal helps clean the environment by eating dead animals?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Vulture", "is_correct": true },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Vulture"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of the following is a non-living part of the environment?",
+      "options": [
+        { "option_id": 1, "text": "Animal", "is_correct": false },
+        { "option_id": 2, "text": "Plant", "is_correct": false },
+        { "option_id": 3, "text": "River", "is_correct": true },
+        { "option_id": 4, "text": "Bird", "is_correct": false }
+      ],
+      "answer": "River"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of the following materials do we get from animals?",
+      "options": [
+        { "option_id": 1, "text": "Wool", "is_correct": true },
+        { "option_id": 2, "text": "Plastic", "is_correct": false },
+        { "option_id": 3, "text": "Glass", "is_correct": false },
+        { "option_id": 4, "text": "Cement", "is_correct": false }
+      ],
+      "answer": "Wool"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which of the following things grows?",
+      "options": [
+        { "option_id": 1, "text": "Stone", "is_correct": false },
+        { "option_id": 2, "text": "Chair", "is_correct": false },
+        { "option_id": 3, "text": "Plant", "is_correct": true },
+        { "option_id": 4, "text": "Road", "is_correct": false }
+      ],
+      "answer": "Plant"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of the following is needed by both plants and animals?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": true },
+        { "option_id": 2, "text": "Clothes", "is_correct": false },
+        { "option_id": 3, "text": "Books", "is_correct": false },
+        { "option_id": 4, "text": "Toys", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a living thing?",
+      "options": [
+        { "option_id": 1, "text": "Soil", "is_correct": false },
+        { "option_id": 2, "text": "Rock", "is_correct": false },
+        { "option_id": 3, "text": "Bush", "is_correct": true },
+        { "option_id": 4, "text": "Road", "is_correct": false }
+      ],
+      "answer": "Bush"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which of the following is made from cotton, wool or silk?",
+      "options": [
+        { "option_id": 1, "text": "Cloth", "is_correct": true },
+        { "option_id": 2, "text": "Plastic bag", "is_correct": false },
+        { "option_id": 3, "text": "Glass bottle", "is_correct": false },
+        { "option_id": 4, "text": "Metal box", "is_correct": false }
+      ],
+      "answer": "Cloth"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of the following animals helps plants by spreading seeds?",
+      "options": [
+        { "option_id": 1, "text": "Sheep", "is_correct": true },
+        { "option_id": 2, "text": "Snake", "is_correct": false },
+        { "option_id": 3, "text": "Fish", "is_correct": false },
+        { "option_id": 4, "text": "Frog", "is_correct": false }
+      ],
+      "answer": "Sheep"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which of the following statements is correct?",
+      "options": [
+        { "option_id": 1, "text": "Plants do not need food", "is_correct": false },
+        { "option_id": 2, "text": "Living things need air", "is_correct": true },
+        { "option_id": 3, "text": "Non-living things grow", "is_correct": false },
+        { "option_id": 4, "text": "Stones eat food", "is_correct": false }
+      ],
+      "answer": "Living things need air"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which of the following is a non-living thing made by humans?",
+      "options": [
+        { "option_id": 1, "text": "Tree", "is_correct": false },
+        { "option_id": 2, "text": "River", "is_correct": false },
+        { "option_id": 3, "text": "Table", "is_correct": true },
+        { "option_id": 4, "text": "Bird", "is_correct": false }
+      ],
+      "answer": "Table"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which of the following things comes from plants?",
+      "options": [
+        { "option_id": 1, "text": "Paper", "is_correct": true },
+        { "option_id": 2, "text": "Plastic", "is_correct": false },
+        { "option_id": 3, "text": "Glass", "is_correct": false },
+        { "option_id": 4, "text": "Steel", "is_correct": false }
+      ],
+      "answer": "Paper"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which of the following does not grow?",
+      "options": [
+        { "option_id": 1, "text": "Tree", "is_correct": false },
+        { "option_id": 2, "text": "Animal", "is_correct": false },
+        { "option_id": 3, "text": "Stone", "is_correct": true },
+        { "option_id": 4, "text": "Plant", "is_correct": false }
+      ],
+      "answer": "Stone"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which of the following helps us breathe?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Air", "is_correct": true },
+        { "option_id": 3, "text": "Soil", "is_correct": false },
+        { "option_id": 4, "text": "Stone", "is_correct": false }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a non-living thing?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": false },
+        { "option_id": 2, "text": "Animal", "is_correct": false },
+        { "option_id": 3, "text": "Soil", "is_correct": true },
+        { "option_id": 4, "text": "Plant", "is_correct": false }
+      ],
+      "answer": "Soil"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which of the following should we not waste?",
+      "options": [
+        { "option_id": 1, "text": "Air and water", "is_correct": true },
+        { "option_id": 2, "text": "Plastic waste", "is_correct": false },
+        { "option_id": 3, "text": "Broken glass", "is_correct": false },
+        { "option_id": 4, "text": "Garbage", "is_correct": false }
+      ],
+      "answer": "Air and water"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which of the following statements is true?",
+      "options": [
+        { "option_id": 1, "text": "All things are living", "is_correct": false },
+        { "option_id": 2, "text": "Living things depend on the environment", "is_correct": true },
+        { "option_id": 3, "text": "Non-living things eat food", "is_correct": false },
+        { "option_id": 4, "text": "Plants do not need water", "is_correct": false }
+      ],
+      "answer": "Living things depend on the environment"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "We should take care of the environment because it supports ________.",
+      "options": [
+        { "option_id": 1, "text": "only animals", "is_correct": false },
+        { "option_id": 2, "text": "only plants", "is_correct": false },
+        { "option_id": 3, "text": "all living things", "is_correct": true },
+        { "option_id": 4, "text": "only humans", "is_correct": false }
+      ],
+      "answer": "all living things"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is our environment?",
+      "answer": "Everything around us such as air, water, soil, plants, animals and houses is called our environment."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name any two things found in our environment.",
+      "answer": "Air and water are found in our environment."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are living things?",
+      "answer": "Living things are things that need food, grow and produce young ones."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are non-living things?",
+      "answer": "Non-living things do not eat food, grow or produce young ones."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Give one example of a living thing.",
+      "answer": "A bird is an example of a living thing."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Give one example of a non-living thing.",
+      "answer": "A stone is a non-living thing."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why do living things need food?",
+      "answer": "Living things need food to grow and stay alive."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Into how many groups are living things divided?",
+      "answer": "Living things are divided into two groups: plants and animals."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why are plants called living things?",
+      "answer": "Plants grow from seeds and need food, water and air."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Can plants move from place to place? Why?",
+      "answer": "No, plants cannot move from place to place because their roots hold them in one place."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How are animals different from plants?",
+      "answer": "Animals can move from place to place, but plants cannot."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What do birds use to build their nests?",
+      "answer": "Birds use grass, twigs, cotton and threads to build their nests."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "From where do living things get food and water?",
+      "answer": "Living things get food and water from the environment."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How do vultures and foxes help the environment?",
+      "answer": "They eat dead animals and help clean the environment."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What happens to fallen leaves?",
+      "answer": "Fallen leaves rot and mix with the soil."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How does soil become fertile?",
+      "answer": "Soil becomes fertile when dead plants and animals mix with it."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What materials do we get from plants?",
+      "answer": "We get wood, cotton and paper from plants."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What materials do we get from animals?",
+      "answer": "We get milk, wool and silk from animals."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How do seeds of some plants spread?",
+      "answer": "Seeds of some plants are scattered by the wind."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How does a sheep help plants grow in new places?",
+      "answer": "Seeds stick to the sheep’s wool and fall in new places."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why should we not waste things from the environment?",
+      "answer": "We should not waste them because they fulfill our needs."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name any two non-living parts of the environment.",
+      "answer": "Air and water are non-living parts of the environment."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What do living things need to survive?",
+      "answer": "Living things need food, water and air to survive."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How are living and non-living things related?",
+      "answer": "Living and non-living things depend on each other in the environment."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why must we take care of the environment?",
+      "answer": "We must take care of the environment because it supports all living things."
+    }
+  ]
+}

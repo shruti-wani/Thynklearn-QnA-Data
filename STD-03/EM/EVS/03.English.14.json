@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.14",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Inside the Kitchen"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Food is usually cooked in the ________.",
+      "options": [
+        { "option_id": 1, "text": "bedroom", "is_correct": false },
+        { "option_id": 2, "text": "kitchen", "is_correct": true },
+        { "option_id": 3, "text": "bathroom", "is_correct": false },
+        { "option_id": 4, "text": "garden", "is_correct": false }
+      ],
+      "answer": "kitchen"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of these is used to cook food?",
+      "options": [
+        { "option_id": 1, "text": "Fan", "is_correct": false },
+        { "option_id": 2, "text": "Gas stove", "is_correct": true },
+        { "option_id": 3, "text": "Chair", "is_correct": false },
+        { "option_id": 4, "text": "Bed", "is_correct": false }
+      ],
+      "answer": "Gas stove"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which fuel is commonly used in kitchens?",
+      "options": [
+        { "option_id": 1, "text": "Petrol", "is_correct": false },
+        { "option_id": 2, "text": "Diesel", "is_correct": false },
+        { "option_id": 3, "text": "Cooking gas", "is_correct": true },
+        { "option_id": 4, "text": "Kerosene lamp", "is_correct": false }
+      ],
+      "answer": "Cooking gas"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of these is used to cut vegetables?",
+      "options": [
+        { "option_id": 1, "text": "Plate", "is_correct": false },
+        { "option_id": 2, "text": "Knife", "is_correct": true },
+        { "option_id": 3, "text": "Bowl", "is_correct": false },
+        { "option_id": 4, "text": "Spoon", "is_correct": false }
+      ],
+      "answer": "Knife"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these is used to boil water?",
+      "options": [
+        { "option_id": 1, "text": "Pan", "is_correct": true },
+        { "option_id": 2, "text": "Plate", "is_correct": false },
+        { "option_id": 3, "text": "Cupboard", "is_correct": false },
+        { "option_id": 4, "text": "Chair", "is_correct": false }
+      ],
+      "answer": "Pan"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which utensil is used to eat food?",
+      "options": [
+        { "option_id": 1, "text": "Spoon", "is_correct": true },
+        { "option_id": 2, "text": "Pan", "is_correct": false },
+        { "option_id": 3, "text": "Gas stove", "is_correct": false },
+        { "option_id": 4, "text": "Knife", "is_correct": false }
+      ],
+      "answer": "Spoon"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these helps keep food fresh?",
+      "options": [
+        { "option_id": 1, "text": "Refrigerator", "is_correct": true },
+        { "option_id": 2, "text": "Gas stove", "is_correct": false },
+        { "option_id": 3, "text": "Plate", "is_correct": false },
+        { "option_id": 4, "text": "Shelf", "is_correct": false }
+      ],
+      "answer": "Refrigerator"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these should be handled carefully?",
+      "options": [
+        { "option_id": 1, "text": "Knife", "is_correct": true },
+        { "option_id": 2, "text": "Plate", "is_correct": false },
+        { "option_id": 3, "text": "Cup", "is_correct": false },
+        { "option_id": 4, "text": "Bowl", "is_correct": false }
+      ],
+      "answer": "Knife"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is a safety rule in the kitchen?",
+      "options": [
+        { "option_id": 1, "text": "Playing near the stove", "is_correct": false },
+        { "option_id": 2, "text": "Touching hot vessels", "is_correct": false },
+        { "option_id": 3, "text": "Keeping away from fire", "is_correct": true },
+        { "option_id": 4, "text": "Running in the kitchen", "is_correct": false }
+      ],
+      "answer": "Keeping away from fire"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these is used to store grains?",
+      "options": [
+        { "option_id": 1, "text": "Container", "is_correct": true },
+        { "option_id": 2, "text": "Pan", "is_correct": false },
+        { "option_id": 3, "text": "Plate", "is_correct": false },
+        { "option_id": 4, "text": "Gas stove", "is_correct": false }
+      ],
+      "answer": "Container"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these is used to wash utensils?",
+      "options": [
+        { "option_id": 1, "text": "Soap", "is_correct": false },
+        { "option_id": 2, "text": "Detergent", "is_correct": true },
+        { "option_id": 3, "text": "Oil", "is_correct": false },
+        { "option_id": 4, "text": "Salt", "is_correct": false }
+      ],
+      "answer": "Detergent"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which appliance uses electricity in the kitchen?",
+      "options": [
+        { "option_id": 1, "text": "Refrigerator", "is_correct": true },
+        { "option_id": 2, "text": "Gas stove", "is_correct": false },
+        { "option_id": 3, "text": "Pressure cooker", "is_correct": false },
+        { "option_id": 4, "text": "Knife", "is_correct": false }
+      ],
+      "answer": "Refrigerator"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these should not be touched when hot?",
+      "options": [
+        { "option_id": 1, "text": "Cold plate", "is_correct": false },
+        { "option_id": 2, "text": "Hot pan", "is_correct": true },
+        { "option_id": 3, "text": "Cupboard", "is_correct": false },
+        { "option_id": 4, "text": "Table", "is_correct": false }
+      ],
+      "answer": "Hot pan"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these is used for frying food?",
+      "options": [
+        { "option_id": 1, "text": "Pan", "is_correct": true },
+        { "option_id": 2, "text": "Plate", "is_correct": false },
+        { "option_id": 3, "text": "Bowl", "is_correct": false },
+        { "option_id": 4, "text": "Shelf", "is_correct": false }
+      ],
+      "answer": "Pan"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why should the kitchen be kept clean?",
+      "options": [
+        { "option_id": 1, "text": "To look nice only", "is_correct": false },
+        { "option_id": 2, "text": "To keep food safe and healthy", "is_correct": true },
+        { "option_id": 3, "text": "To store toys", "is_correct": false },
+        { "option_id": 4, "text": "To sleep", "is_correct": false }
+      ],
+      "answer": "To keep food safe and healthy"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a kitchen?",
+      "answer": "A kitchen is a place where food is cooked."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name two things found in a kitchen.",
+      "answer": "Gas stove and utensils are found in a kitchen."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why should we be careful in the kitchen?",
+      "answer": "We should be careful because there is fire and sharp tools."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one fuel used for cooking.",
+      "answer": "Cooking gas is used for cooking."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is a refrigerator used?",
+      "answer": "A refrigerator keeps food fresh."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name one sharp object in the kitchen.",
+      "answer": "Knife is a sharp object."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should we not do near the stove?",
+      "answer": "We should not play near the stove."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why should utensils be clean?",
+      "answer": "Clean utensils keep our food healthy."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one appliance used in the kitchen.",
+      "answer": "Refrigerator is a kitchen appliance."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Where should grains be stored?",
+      "answer": "Grains should be stored in containers."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why should food be covered?",
+      "answer": "Food should be covered to keep it clean."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What happens if the kitchen is dirty?",
+      "answer": "A dirty kitchen can make us sick."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one safety rule in the kitchen.",
+      "answer": "We should keep away from fire."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why should hot vessels be handled carefully?",
+      "answer": "Hot vessels can burn our hands."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is cleanliness important in the kitchen?",
+      "answer": "Cleanliness keeps food safe and healthy."
+    }
+  ]
+}
+

@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.01",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "A Pretty Game"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who are playing hide and seek in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The sun and the rain",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The birds and the trees",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The children and the wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The clouds and the stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The sun and the rain"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What game do the sun and rain play?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hide and seek",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Catch and throw",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hop and jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing and dance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hide and seek"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What appears at the end of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rainbow",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A cloud",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A storm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "A rainbow"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does 'fickle' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Changes quickly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Always same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Very slow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Very loud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Changes quickly"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does 'chase' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run after",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sit down",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run after"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who are playing hide and seek in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The sun and the rain",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The birds and the trees",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The children and the wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The clouds and the stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The sun and the rain"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What game do the sun and rain play?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hide and seek",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Catch and throw",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hop and jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing and dance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hide and seek"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What appears at the end of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rainbow",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A cloud",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A storm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "A rainbow"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does 'fickle' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Changes quickly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Always same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Very slow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Very loud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Changes quickly"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does 'chase' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run after",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sit down",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run after"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who are playing hide and seek in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The sun and the rain",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The birds and the trees",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The children and the wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The clouds and the stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The sun and the rain"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What game do the sun and rain play?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hide and seek",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Catch and throw",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hop and jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing and dance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hide and seek"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What appears at the end of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rainbow",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A cloud",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A storm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "A rainbow"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does 'fickle' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Changes quickly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Always same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Very slow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Very loud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Changes quickly"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does 'chase' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run after",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sit down",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run after"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Who are the two players in the poem?",
+      "answer": "The sun and the rain."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Which game do they play?",
+      "answer": "They play hide and seek."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What appears at the end of the poem?",
+      "answer": "A rainbow appears."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What does 'fickle' mean?",
+      "answer": "It means something that changes quickly."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Write any one colour of the rainbow.",
+      "answer": "Red."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who are the two players in the poem?",
+      "answer": "The sun and the rain."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Which game do they play?",
+      "answer": "They play hide and seek."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What appears at the end of the poem?",
+      "answer": "A rainbow appears."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What does 'fickle' mean?",
+      "answer": "It means something that changes quickly."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Write any one colour of the rainbow.",
+      "answer": "Red."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who are the two players in the poem?",
+      "answer": "The sun and the rain."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Which game do they play?",
+      "answer": "They play hide and seek."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What appears at the end of the poem?",
+      "answer": "A rainbow appears."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What does 'fickle' mean?",
+      "answer": "It means something that changes quickly."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Write any one colour of the rainbow.",
+      "answer": "Red."
+    }
+  ]
+}

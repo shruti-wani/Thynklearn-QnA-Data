@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.04",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "A String Song"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where did the child go in the song?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To the market",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To school",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To the park",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the river",
+          "is_correct": false
+        }
+      ],
+      "answer": "To the market"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What did the child buy first?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red shiny apples",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A kite",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red shiny apples"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does each child do in the game?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Adds one more item",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Stops the game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Claps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sits down",
+          "is_correct": false
+        }
+      ],
+      "answer": "Adds one more item"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of these is mentioned in the song?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A big loaf of bread",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A small cup",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A blue bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A red hat",
+          "is_correct": false
+        }
+      ],
+      "answer": "A big loaf of bread"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What skill does the game improve?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memory",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Memory"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where did the child go in the song?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To the market",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To school",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To the park",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the river",
+          "is_correct": false
+        }
+      ],
+      "answer": "To the market"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What did the child buy first?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red shiny apples",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A kite",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red shiny apples"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does each child do in the game?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Adds one more item",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Stops the game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Claps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sits down",
+          "is_correct": false
+        }
+      ],
+      "answer": "Adds one more item"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is mentioned in the song?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A big loaf of bread",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A small cup",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A blue bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A red hat",
+          "is_correct": false
+        }
+      ],
+      "answer": "A big loaf of bread"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What skill does the game improve?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memory",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Memory"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where did the child go in the song?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To the market",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To school",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To the park",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the river",
+          "is_correct": false
+        }
+      ],
+      "answer": "To the market"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What did the child buy first?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red shiny apples",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A kite",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red shiny apples"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does each child do in the game?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Adds one more item",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Stops the game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Claps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sits down",
+          "is_correct": false
+        }
+      ],
+      "answer": "Adds one more item"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these is mentioned in the song?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A big loaf of bread",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A small cup",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A blue bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A red hat",
+          "is_correct": false
+        }
+      ],
+      "answer": "A big loaf of bread"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What skill does the game improve?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memory",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Memory"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Where did the child go?",
+      "answer": "The child went to the market."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What did the child buy first?",
+      "answer": "Some red shiny apples."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What does each child add?",
+      "answer": "Each child adds one more item."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Name one item mentioned.",
+      "answer": "A big loaf of bread."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the game help us learn?",
+      "answer": "It helps us remember in the correct order."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Where did the child go?",
+      "answer": "The child went to the market."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What did the child buy first?",
+      "answer": "Some red shiny apples."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What does each child add?",
+      "answer": "Each child adds one more item."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Name one item mentioned.",
+      "answer": "A big loaf of bread."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the game help us learn?",
+      "answer": "It helps us remember in the correct order."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Where did the child go?",
+      "answer": "The child went to the market."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What did the child buy first?",
+      "answer": "Some red shiny apples."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What does each child add?",
+      "answer": "Each child adds one more item."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Name one item mentioned.",
+      "answer": "A big loaf of bread."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the game help us learn?",
+      "answer": "It helps us remember in the correct order."
+    }
+  ]
+}

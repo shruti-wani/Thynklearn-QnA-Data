@@ -1,0 +1,1678 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03-Marathi-22",
+    "standard": "3",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "मधमाशीने केली कमाल!",
+    "chapter_type": "कथा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘मधमाशीने केली कमाल!’ या कथेत मुख्य पात्र कोण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कथेतील शेतकरी कशासाठी कष्ट करत होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शेतात कोणकोणते प्राणी राहत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मुंगी शेतात का फिरत होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मधमाशी कोणत्या फुलांवर बसली होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मधमाशी शेतकऱ्याला काय विचारते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शेतकरी मधमाशीला काय उत्तर देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मुंगीला फुले का आवडली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मधमाशी सर्वांना का बोलवत होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मुंगीने बिया काय केल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चिमणीने बियांचे काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कावळ्याने बियांबाबत काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खारुताई कुठे गेली होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मधमाशी बियांबाबत काय विचार करत होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मधमाशीला कोणता उपाय सुचला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सकाळी मधमाशी काय करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मधमाशी बिया कुठे घेऊन जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मधमाशीने सर्वांना का बोलावले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पावसाळा आल्यावर काय झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "बिया पेरल्यानंतर काय उगवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "फुले पाहून मधमाशीला कसे वाटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कथेतील मधमाशी कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कथेतील शेतकरी कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मुंगीचा स्वभाव कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "चिमणी कशामुळे खेळायला गेली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कावळ्याने बिया का टाकून दिल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "खारुताई बियांबाबत काय करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "मधमाशीने कोणते काम स्वतः केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कथेतील समस्या कोणती होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "समस्या कशी सोडवली गेली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कथेचा शेवट कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "मधमाशीने सर्वांना काय शिकवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "या कथेतील मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कथेतील प्राणी एकमेकांशी कसे वागतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "मधमाशी कशासाठी आदर्श आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "बिया जपण्याचे महत्त्व कशामुळे कळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कथेतील मेहनतीचे उदाहरण कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "मधमाशीच्या कामामुळे काय मिळाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "फुले कशामुळे फुलली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कथेतील निसर्गाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "कथेतील प्राणी वेगवेगळे का दाखवले आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कथेतील मुंगी काय दर्शवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कथेतील चिमणी काय दर्शवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कथेतील कावळा काय दर्शवतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कथेतील खारुताई काय दर्शवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कथेतील मधमाशी काय दर्शवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "‘कमाल’ हा शब्द कशासाठी वापरला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "या कथेचा मुलांना काय फायदा होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कथेचा योग्य शीर्षक का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधमाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेतकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिमणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधमाशी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "मधमाशी कोणते काम करत होती?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शेतकरी कशासाठी कष्ट करत होता?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शेतात कोणकोणते प्राणी राहत होते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मुंगीने बिया का जपून ठेवल्या?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "चिमणी खेळायला का गेली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कावळ्याने बिया का टाकून दिल्या?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "खारुताई बियांबाबत काय करते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मधमाशी सर्वांना का बोलावत होती?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "मधमाशीला कोणता विचार सुचला?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मधमाशीने सकाळी काय केले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "बिया कुठे रुजवण्यात आल्या?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पावसाळा आल्यानंतर काय झाले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "बिया रुजल्यानंतर काय उगवले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "फुले पाहून मधमाशीला कसे वाटले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कथेतील मधमाशीचा स्वभाव कसा आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कथेतील मुंगीचा स्वभाव कसा आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कथेतील चिमणीचा स्वभाव कसा आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कथेतील कावळ्याचा स्वभाव कसा आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कथेतील खारुताईचा स्वभाव कसा आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कथेतील शेतकरी कसा दाखवला आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कथेतील मुख्य समस्या कोणती होती?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "समस्या कशी सोडवली गेली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "मधमाशीने कोणते काम स्वतः केले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "बिया जपण्याचे महत्त्व काय आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कथेतील मेहनतीचे उदाहरण लिहा.",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कथेतील आळशीपणाचे उदाहरण लिहा.",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कथेतील हुशारीचे उदाहरण लिहा.",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कथेतील एकजुटीचे उदाहरण लिहा.",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कथेतील प्राण्यांमधील फरक काय दाखवतो?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "मधमाशी सर्वांपेक्षा वेगळी का आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कथेचा शेवट कसा आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "कथेचा मुख्य संदेश काय आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "या कथेचा शीर्षक योग्य का आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कथेतील निसर्गाचे महत्त्व लिहा.",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "बिया रुजवल्याने काय फायदा झाला?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मधमाशीने इतरांना काय शिकवले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "मुंगीने कोणती चूक केली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "चिमणीने कोणती चूक केली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कावळ्याने कोणती चूक केली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "खारुताईने कोणती चूक केली?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "मधमाशीने चुका कशा टाळल्या?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "या कथेतील नैतिक धडा कोणता?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "मुलांनी या कथेपासून काय शिकावे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कथेतील कोणते पात्र तुम्हाला आवडले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "का ते पात्र आवडले?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कथेतील कोणते वाक्य लक्षात राहते?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कथेतील परिश्रमाचे महत्त्व काय आहे?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "कथेतील आळशीपणाचे परिणाम काय आहेत?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "मधमाशीने केलेली कमाल कोणती?",
+      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+    }
+  ]
+}

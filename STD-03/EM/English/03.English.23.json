@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.23",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Two Merchants of Seri"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What did the little girl find?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An old dish",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A gold coin",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A ring",
+          "is_correct": false
+        }
+      ],
+      "answer": "An old dish"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who first examined the dish?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A greedy merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "An honest merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A soldier",
+          "is_correct": false
+        }
+      ],
+      "answer": "A greedy merchant"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did the greedy merchant say?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It was worthless",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It was golden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It was broken",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It was new",
+          "is_correct": false
+        }
+      ],
+      "answer": "It was worthless"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who later said it was a golden dish?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The honest merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The greedy merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The grandmother",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "The honest merchant"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What quality is shown by the honest merchant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Honesty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Honesty"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What did the little girl find?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An old dish",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A gold coin",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A ring",
+          "is_correct": false
+        }
+      ],
+      "answer": "An old dish"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who first examined the dish?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A greedy merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "An honest merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A soldier",
+          "is_correct": false
+        }
+      ],
+      "answer": "A greedy merchant"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did the greedy merchant say?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It was worthless",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It was golden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It was broken",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It was new",
+          "is_correct": false
+        }
+      ],
+      "answer": "It was worthless"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who later said it was a golden dish?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The honest merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The greedy merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The grandmother",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "The honest merchant"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What quality is shown by the honest merchant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Honesty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Honesty"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What did the little girl find?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An old dish",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A gold coin",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A ring",
+          "is_correct": false
+        }
+      ],
+      "answer": "An old dish"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who first examined the dish?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A greedy merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "An honest merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A soldier",
+          "is_correct": false
+        }
+      ],
+      "answer": "A greedy merchant"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What did the greedy merchant say?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It was worthless",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It was golden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It was broken",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It was new",
+          "is_correct": false
+        }
+      ],
+      "answer": "It was worthless"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who later said it was a golden dish?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The honest merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The greedy merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The grandmother",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The girl",
+          "is_correct": false
+        }
+      ],
+      "answer": "The honest merchant"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What quality is shown by the honest merchant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Honesty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Honesty"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What did the girl find?",
+      "answer": "She found an old dish."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Who was the first merchant?",
+      "answer": "The greedy merchant was the first."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What did he say about the dish?",
+      "answer": "He said it was worthless."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Who told the truth about the dish?",
+      "answer": "The honest merchant told the truth."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "To be honest and fair."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What did the girl find?",
+      "answer": "She found an old dish."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Who was the first merchant?",
+      "answer": "The greedy merchant was the first."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What did he say about the dish?",
+      "answer": "He said it was worthless."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Who told the truth about the dish?",
+      "answer": "The honest merchant told the truth."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "To be honest and fair."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What did the girl find?",
+      "answer": "She found an old dish."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Who was the first merchant?",
+      "answer": "The greedy merchant was the first."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What did he say about the dish?",
+      "answer": "He said it was worthless."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Who told the truth about the dish?",
+      "answer": "The honest merchant told the truth."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the story teach us?",
+      "answer": "To be honest and fair."
+    }
+  ]
+}

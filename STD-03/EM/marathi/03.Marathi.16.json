@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.16",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Can you...?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word is used to ask about ability?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Did",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Can",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Was",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Is",
+          "is_correct": false
+        }
+      ],
+      "answer": "Can"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does 'Can you run?' ask about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Place",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ability",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Colour",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ability"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which answer shows ability?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I can jump.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I am red.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I was here.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I have a pen.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I can jump."
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sentence shows inability?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I can read.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "I cannot swim.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "I am happy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I like apples.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I cannot swim."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does 'can' tell us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Age",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ability",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Name",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Colour",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ability"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which is a correct question with 'can'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Can you read?",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Read you can?",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "You can read.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "You read can?",
+          "is_correct": false
+        }
+      ],
+      "answer": "Can you read?"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these uses 'cannot' correctly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I cannot fly.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I cannot happy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I cannot blue.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I cannot apple.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I cannot fly."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which answer fits: 'Can you write?' ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Yes, I can.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "No, I blue.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Yes, I was.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No, I apple.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Yes, I can."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word means 'not able'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Can",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cannot",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Do",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Is",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cannot"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which activity can a child do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Read",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drive a bus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lift a car",
+          "is_correct": false
+        }
+      ],
+      "answer": "Read"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which sentence is about ability?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I can sing.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I am tall.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I was late.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I like milk.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I can sing."
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the short form of 'cannot'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "can't",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "dont",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "isnt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "wasnt",
+          "is_correct": false
+        }
+      ],
+      "answer": "can't"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which is a correct reply?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Can you jump? – Yes, I can.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Can you jump? – Yes, I am.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Can you jump? – Yes, I was.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Can you jump? – Yes, I do.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Can you jump? – Yes, I can."
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which sentence asks a question?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "You can swim.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Can you swim?",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "I can swim.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I cannot swim.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Can you swim?"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which shows 'cannot'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I can run.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "I cannot run.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "I run.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "I like running.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I cannot run."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What does the word 'can' show?",
+      "answer": "The word 'can' shows ability."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'can'.",
+      "answer": "I can read."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What does 'cannot' mean?",
+      "answer": "'Cannot' means not able to do something."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'cannot'.",
+      "answer": "I cannot fly."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the short form of 'cannot'?",
+      "answer": "The short form of 'cannot' is can't."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What does the question 'Can you run?' ask?",
+      "answer": "It asks about ability."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Write one question using 'can'.",
+      "answer": "Can you swim?"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Give one correct answer to 'Can you write?'",
+      "answer": "Yes, I can."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write one activity a child can do.",
+      "answer": "A child can read."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Write one thing you cannot do.",
+      "answer": "I cannot fly."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What word is used to ask about ability?",
+      "answer": "The word 'can' is used."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Change to negative: 'I can sing.'",
+      "answer": "I cannot sing."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Change to question: 'You can read.'",
+      "answer": "Can you read?"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why do we use 'can'?",
+      "answer": "We use 'can' to talk about ability."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Complete: 'I ___ jump.' (can)",
+      "answer": "I can jump."
+    }
+  ]
+}

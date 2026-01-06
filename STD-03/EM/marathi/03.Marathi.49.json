@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.49",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Map Reading"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does a map show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Places",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Places"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which direction is at the top of a map?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "North",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "South",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "East",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "West",
+          "is_correct": false
+        }
+      ],
+      "answer": "North"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which direction is on the right side?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "East",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "West",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "South",
+          "is_correct": false
+        }
+      ],
+      "answer": "East"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which direction is at the bottom?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "South",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "East",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "West",
+          "is_correct": false
+        }
+      ],
+      "answer": "South"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which direction is on the left?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "West",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "East",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "South",
+          "is_correct": false
+        }
+      ],
+      "answer": "West"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does a map show? (49-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Places",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Places"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which direction is at the top of a map? (49-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "North",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "South",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "East",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "West",
+          "is_correct": false
+        }
+      ],
+      "answer": "North"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which direction is on the right side? (49-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "East",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "West",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "South",
+          "is_correct": false
+        }
+      ],
+      "answer": "East"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which direction is at the bottom? (49-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "South",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "East",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "West",
+          "is_correct": false
+        }
+      ],
+      "answer": "South"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which direction is on the left? (49-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "West",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "East",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "South",
+          "is_correct": false
+        }
+      ],
+      "answer": "West"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does a map show? (49-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Places",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Places"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which direction is at the top of a map? (49-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "North",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "South",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "East",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "West",
+          "is_correct": false
+        }
+      ],
+      "answer": "North"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which direction is on the right side? (49-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "East",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "West",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "South",
+          "is_correct": false
+        }
+      ],
+      "answer": "East"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which direction is at the bottom? (49-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "South",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "East",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "West",
+          "is_correct": false
+        }
+      ],
+      "answer": "South"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which direction is on the left? (49-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "West",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "East",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "South",
+          "is_correct": false
+        }
+      ],
+      "answer": "West"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is a map?",
+      "answer": "A map shows places and directions."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Which direction is North?",
+      "answer": "North is at the top."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Which direction is South?",
+      "answer": "South is at the bottom."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Which direction is East?",
+      "answer": "East is on the right."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Which direction is West?",
+      "answer": "West is on the left."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is a map? (49-6)",
+      "answer": "A map shows places and directions."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Which direction is North? (49-7)",
+      "answer": "North is at the top."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Which direction is South? (49-8)",
+      "answer": "South is at the bottom."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Which direction is East? (49-9)",
+      "answer": "East is on the right."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Which direction is West? (49-10)",
+      "answer": "West is on the left."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is a map? (49-11)",
+      "answer": "A map shows places and directions."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Which direction is North? (49-12)",
+      "answer": "North is at the top."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Which direction is South? (49-13)",
+      "answer": "South is at the bottom."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Which direction is East? (49-14)",
+      "answer": "East is on the right."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Which direction is West? (49-15)",
+      "answer": "West is on the left."
+    }
+  ]
+}

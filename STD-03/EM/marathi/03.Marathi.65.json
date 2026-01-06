@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.65",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Speak or Pass"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does the teacher say to start the game?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Form a circle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Open your books",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stand in line",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sit down",
+          "is_correct": false
+        }
+      ],
+      "answer": "Form a circle"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What must a student do when pointed at?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Say a related word",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Write a sentence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw a picture",
+          "is_correct": false
+        }
+      ],
+      "answer": "Say a related word"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What should the student say if they cannot answer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pass",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Stop",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wait",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pass"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What do students do when someone gives a correct word?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clap",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clap"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the game called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speak or Pass",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Find a Friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Guess the Words",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Messages",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speak or Pass"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the teacher say to start the game?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Form a circle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Open your books",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stand in line",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sit down",
+          "is_correct": false
+        }
+      ],
+      "answer": "Form a circle"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What must a student do when pointed at?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Say a related word",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Write a sentence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw a picture",
+          "is_correct": false
+        }
+      ],
+      "answer": "Say a related word"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should the student say if they cannot answer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pass",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Stop",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wait",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pass"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What do students do when someone gives a correct word?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clap",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clap"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the game called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speak or Pass",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Find a Friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Guess the Words",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Messages",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speak or Pass"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the teacher say to start the game?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Form a circle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Open your books",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stand in line",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sit down",
+          "is_correct": false
+        }
+      ],
+      "answer": "Form a circle"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What must a student do when pointed at?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Say a related word",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run away",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Write a sentence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw a picture",
+          "is_correct": false
+        }
+      ],
+      "answer": "Say a related word"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What should the student say if they cannot answer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pass",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Stop",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wait",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pass"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What do students do when someone gives a correct word?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clap",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clap"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the game called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speak or Pass",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Find a Friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Guess the Words",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Messages",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speak or Pass"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the game called?",
+      "answer": "The game is called 'Speak or Pass'."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What should you do if you cannot answer?",
+      "answer": "We should say 'Pass'."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What happens when someone gives a correct word?",
+      "answer": "The class claps."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Why should we listen carefully in the game?",
+      "answer": "To answer correctly."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What skill does the game improve?",
+      "answer": "It improves speaking skills."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is the game called?",
+      "answer": "The game is called 'Speak or Pass'."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What should you do if you cannot answer?",
+      "answer": "We should say 'Pass'."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What happens when someone gives a correct word?",
+      "answer": "The class claps."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Why should we listen carefully in the game?",
+      "answer": "To answer correctly."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What skill does the game improve?",
+      "answer": "It improves speaking skills."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the game called?",
+      "answer": "The game is called 'Speak or Pass'."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What should you do if you cannot answer?",
+      "answer": "We should say 'Pass'."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What happens when someone gives a correct word?",
+      "answer": "The class claps."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why should we listen carefully in the game?",
+      "answer": "To answer correctly."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What skill does the game improve?",
+      "answer": "It improves speaking skills."
+    }
+  ]
+}

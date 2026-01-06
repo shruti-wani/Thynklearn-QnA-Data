@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.23",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Growing Up and Growing Old"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "All living things ________.",
+      "options": [
+        { "option_id": 1, "text": "remain same", "is_correct": false },
+        { "option_id": 2, "text": "grow and change", "is_correct": true },
+        { "option_id": 3, "text": "never grow", "is_correct": false },
+        { "option_id": 4, "text": "stay small", "is_correct": false }
+      ],
+      "answer": "grow and change"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "A baby grows into a ________.",
+      "options": [
+        { "option_id": 1, "text": "baby", "is_correct": false },
+        { "option_id": 2, "text": "child", "is_correct": true },
+        { "option_id": 3, "text": "old person", "is_correct": false },
+        { "option_id": 4, "text": "animal", "is_correct": false }
+      ],
+      "answer": "child"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "A child grows into an ________.",
+      "options": [
+        { "option_id": 1, "text": "infant", "is_correct": false },
+        { "option_id": 2, "text": "adult", "is_correct": true },
+        { "option_id": 3, "text": "baby", "is_correct": false },
+        { "option_id": 4, "text": "elder", "is_correct": false }
+      ],
+      "answer": "adult"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "An adult grows into an ________ person.",
+      "options": [
+        { "option_id": 1, "text": "young", "is_correct": false },
+        { "option_id": 2, "text": "old", "is_correct": true },
+        { "option_id": 3, "text": "child", "is_correct": false },
+        { "option_id": 4, "text": "baby", "is_correct": false }
+      ],
+      "answer": "old"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these is the correct order of growth?",
+      "options": [
+        { "option_id": 1, "text": "Adult → Baby → Child", "is_correct": false },
+        { "option_id": 2, "text": "Baby → Child → Adult → Old", "is_correct": true },
+        { "option_id": 3, "text": "Child → Baby → Adult", "is_correct": false },
+        { "option_id": 4, "text": "Old → Adult → Baby", "is_correct": false }
+      ],
+      "answer": "Baby → Child → Adult → Old"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "As we grow up, our height generally ________.",
+      "options": [
+        { "option_id": 1, "text": "decreases", "is_correct": false },
+        { "option_id": 2, "text": "increases", "is_correct": true },
+        { "option_id": 3, "text": "stops", "is_correct": false },
+        { "option_id": 4, "text": "disappears", "is_correct": false }
+      ],
+      "answer": "increases"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these helps us grow healthy?",
+      "options": [
+        { "option_id": 1, "text": "Junk food", "is_correct": false },
+        { "option_id": 2, "text": "Healthy food", "is_correct": true },
+        { "option_id": 3, "text": "Skipping meals", "is_correct": false },
+        { "option_id": 4, "text": "Not sleeping", "is_correct": false }
+      ],
+      "answer": "Healthy food"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these is true about old people?",
+      "options": [
+        { "option_id": 1, "text": "They need care and respect", "is_correct": true },
+        { "option_id": 2, "text": "They do not need help", "is_correct": false },
+        { "option_id": 3, "text": "They are children", "is_correct": false },
+        { "option_id": 4, "text": "They cannot think", "is_correct": false }
+      ],
+      "answer": "They need care and respect"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who usually needs more help while walking?",
+      "options": [
+        { "option_id": 1, "text": "Children", "is_correct": false },
+        { "option_id": 2, "text": "Old people", "is_correct": true },
+        { "option_id": 3, "text": "Adults", "is_correct": false },
+        { "option_id": 4, "text": "Teachers", "is_correct": false }
+      ],
+      "answer": "Old people"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "As people grow old, their hair may turn ________.",
+      "options": [
+        { "option_id": 1, "text": "black", "is_correct": false },
+        { "option_id": 2, "text": "grey or white", "is_correct": true },
+        { "option_id": 3, "text": "red", "is_correct": false },
+        { "option_id": 4, "text": "green", "is_correct": false }
+      ],
+      "answer": "grey or white"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who takes care of babies?",
+      "options": [
+        { "option_id": 1, "text": "Parents", "is_correct": true },
+        { "option_id": 2, "text": "Teachers", "is_correct": false },
+        { "option_id": 3, "text": "Drivers", "is_correct": false },
+        { "option_id": 4, "text": "Shopkeepers", "is_correct": false }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Growing up means ________.",
+      "options": [
+        { "option_id": 1, "text": "becoming smaller", "is_correct": false },
+        { "option_id": 2, "text": "becoming older and stronger", "is_correct": true },
+        { "option_id": 3, "text": "staying the same", "is_correct": false },
+        { "option_id": 4, "text": "not changing", "is_correct": false }
+      ],
+      "answer": "becoming older and stronger"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which habit helps us grow well?",
+      "options": [
+        { "option_id": 1, "text": "Playing outdoors", "is_correct": true },
+        { "option_id": 2, "text": "Watching TV all day", "is_correct": false },
+        { "option_id": 3, "text": "Eating junk food", "is_correct": false },
+        { "option_id": 4, "text": "Not sleeping", "is_correct": false }
+      ],
+      "answer": "Playing outdoors"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why should we respect old people?",
+      "options": [
+        { "option_id": 1, "text": "They are weak", "is_correct": false },
+        { "option_id": 2, "text": "They have experience and care for us", "is_correct": true },
+        { "option_id": 3, "text": "They are strict", "is_correct": false },
+        { "option_id": 4, "text": "They shout", "is_correct": false }
+      ],
+      "answer": "They have experience and care for us"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which stage comes after adulthood?",
+      "options": [
+        { "option_id": 1, "text": "Childhood", "is_correct": false },
+        { "option_id": 2, "text": "Old age", "is_correct": true },
+        { "option_id": 3, "text": "Babyhood", "is_correct": false },
+        { "option_id": 4, "text": "Teenage", "is_correct": false }
+      ],
+      "answer": "Old age"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does growing up mean?",
+      "answer": "Growing up means becoming older and stronger."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the stages of human life.",
+      "answer": "Baby, child, adult and old person."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who takes care of babies?",
+      "answer": "Parents take care of babies."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why do children grow taller?",
+      "answer": "Children grow taller as they grow up."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What happens when people grow old?",
+      "answer": "They become weak and need care."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why should we respect old people?",
+      "answer": "They have experience and guide us."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which food helps us grow healthy?",
+      "answer": "Healthy food helps us grow healthy."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which habit helps children grow well?",
+      "answer": "Playing and exercising help children grow well."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What happens to hair in old age?",
+      "answer": "Hair may turn grey or white."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why do old people need help?",
+      "answer": "They may become weak and slow."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What should children do for elders?",
+      "answer": "Children should respect and help elders."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What helps us grow strong?",
+      "answer": "Good food, sleep and exercise help us grow strong."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which stage comes after childhood?",
+      "answer": "Adulthood comes after childhood."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What do babies need most?",
+      "answer": "Babies need care and love."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is growing old a natural process?",
+      "answer": "Everyone grows old with time."
+    }
+  ]
+}
+

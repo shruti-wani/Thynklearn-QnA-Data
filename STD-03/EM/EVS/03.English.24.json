@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.24",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Our Clothes"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Clothes help to ________ our body.",
+      "options": [
+        { "option_id": 1, "text": "cover", "is_correct": true },
+        { "option_id": 2, "text": "hurt", "is_correct": false },
+        { "option_id": 3, "text": "hide", "is_correct": false },
+        { "option_id": 4, "text": "paint", "is_correct": false }
+      ],
+      "answer": "cover"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "We wear clothes to protect ourselves from ________.",
+      "options": [
+        { "option_id": 1, "text": "sun, cold and rain", "is_correct": true },
+        { "option_id": 2, "text": "food", "is_correct": false },
+        { "option_id": 3, "text": "books", "is_correct": false },
+        { "option_id": 4, "text": "toys", "is_correct": false }
+      ],
+      "answer": "sun, cold and rain"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which clothes do we wear in summer?",
+      "options": [
+        { "option_id": 1, "text": "Woollen clothes", "is_correct": false },
+        { "option_id": 2, "text": "Cotton clothes", "is_correct": true },
+        { "option_id": 3, "text": "Raincoat", "is_correct": false },
+        { "option_id": 4, "text": "Sweater", "is_correct": false }
+      ],
+      "answer": "Cotton clothes"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which clothes keep us warm in winter?",
+      "options": [
+        { "option_id": 1, "text": "Cotton clothes", "is_correct": false },
+        { "option_id": 2, "text": "Woollen clothes", "is_correct": true },
+        { "option_id": 3, "text": "Silk clothes", "is_correct": false },
+        { "option_id": 4, "text": "Thin clothes", "is_correct": false }
+      ],
+      "answer": "Woollen clothes"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which clothes do we wear in the rainy season?",
+      "options": [
+        { "option_id": 1, "text": "Sweater", "is_correct": false },
+        { "option_id": 2, "text": "Raincoat", "is_correct": true },
+        { "option_id": 3, "text": "Cotton shirt", "is_correct": false },
+        { "option_id": 4, "text": "Woollen cap", "is_correct": false }
+      ],
+      "answer": "Raincoat"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of these is made from cotton?",
+      "options": [
+        { "option_id": 1, "text": "Shirt", "is_correct": true },
+        { "option_id": 2, "text": "Plastic bag", "is_correct": false },
+        { "option_id": 3, "text": "Wooden chair", "is_correct": false },
+        { "option_id": 4, "text": "Metal spoon", "is_correct": false }
+      ],
+      "answer": "Shirt"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which animal gives us wool?",
+      "options": [
+        { "option_id": 1, "text": "Sheep", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Dog", "is_correct": false }
+      ],
+      "answer": "Sheep"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Silk is obtained from ________.",
+      "options": [
+        { "option_id": 1, "text": "silkworm", "is_correct": true },
+        { "option_id": 2, "text": "cotton plant", "is_correct": false },
+        { "option_id": 3, "text": "sheep", "is_correct": false },
+        { "option_id": 4, "text": "tree", "is_correct": false }
+      ],
+      "answer": "silkworm"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is a uniform?",
+      "options": [
+        { "option_id": 1, "text": "School dress", "is_correct": true },
+        { "option_id": 2, "text": "Night dress", "is_correct": false },
+        { "option_id": 3, "text": "Party dress", "is_correct": false },
+        { "option_id": 4, "text": "Casual clothes", "is_correct": false }
+      ],
+      "answer": "School dress"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why should we wear clean clothes?",
+      "options": [
+        { "option_id": 1, "text": "To stay healthy", "is_correct": true },
+        { "option_id": 2, "text": "To look dirty", "is_correct": false },
+        { "option_id": 3, "text": "To waste water", "is_correct": false },
+        { "option_id": 4, "text": "To play", "is_correct": false }
+      ],
+      "answer": "To stay healthy"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these people stitches our clothes?",
+      "options": [
+        { "option_id": 1, "text": "Tailor", "is_correct": true },
+        { "option_id": 2, "text": "Carpenter", "is_correct": false },
+        { "option_id": 3, "text": "Doctor", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Tailor"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which clothes are worn on special occasions?",
+      "options": [
+        { "option_id": 1, "text": "Festive clothes", "is_correct": true },
+        { "option_id": 2, "text": "Uniform", "is_correct": false },
+        { "option_id": 3, "text": "Night clothes", "is_correct": false },
+        { "option_id": 4, "text": "Sports clothes", "is_correct": false }
+      ],
+      "answer": "Festive clothes"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which fabric keeps us cool in summer?",
+      "options": [
+        { "option_id": 1, "text": "Cotton", "is_correct": true },
+        { "option_id": 2, "text": "Wool", "is_correct": false },
+        { "option_id": 3, "text": "Silk", "is_correct": false },
+        { "option_id": 4, "text": "Nylon", "is_correct": false }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which clothes are worn while playing sports?",
+      "options": [
+        { "option_id": 1, "text": "Sports clothes", "is_correct": true },
+        { "option_id": 2, "text": "Festive clothes", "is_correct": false },
+        { "option_id": 3, "text": "School uniform", "is_correct": false },
+        { "option_id": 4, "text": "Woollen clothes", "is_correct": false }
+      ],
+      "answer": "Sports clothes"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why do we need different clothes?",
+      "options": [
+        { "option_id": 1, "text": "For different seasons and work", "is_correct": true },
+        { "option_id": 2, "text": "To waste money", "is_correct": false },
+        { "option_id": 3, "text": "To fight", "is_correct": false },
+        { "option_id": 4, "text": "To sleep all day", "is_correct": false }
+      ],
+      "answer": "For different seasons and work"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why do we wear clothes?",
+      "answer": "We wear clothes to cover and protect our body."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Which clothes do we wear in summer?",
+      "answer": "We wear cotton clothes in summer."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which clothes do we wear in winter?",
+      "answer": "We wear woollen clothes in winter."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which clothes do we wear in the rainy season?",
+      "answer": "We wear a raincoat in the rainy season."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "From which animal do we get wool?",
+      "answer": "We get wool from sheep."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "From where do we get cotton?",
+      "answer": "We get cotton from cotton plants."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Who stitches our clothes?",
+      "answer": "A tailor stitches our clothes."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why should we wear clean clothes?",
+      "answer": "Clean clothes keep us healthy."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one type of uniform.",
+      "answer": "School uniform is one type of uniform."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What are festive clothes?",
+      "answer": "Festive clothes are worn on special occasions."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why do we need different clothes in different seasons?",
+      "answer": "Different clothes protect us in different seasons."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one fabric used to make clothes.",
+      "answer": "Cotton is used to make clothes."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What happens if we wear dirty clothes?",
+      "answer": "Dirty clothes can make us sick."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which clothes keep us warm?",
+      "answer": "Woollen clothes keep us warm."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why are clothes important?",
+      "answer": "Clothes protect us and keep us comfortable."
+    }
+  ]
+}
+

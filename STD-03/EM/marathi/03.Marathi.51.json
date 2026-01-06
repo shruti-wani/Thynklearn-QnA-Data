@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.51",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "The Best Person in Town"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was sitting on the road?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An old woman",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A man",
+          "is_correct": false
+        }
+      ],
+      "answer": "An old woman"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who helped the old woman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A small child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The rich woman",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The strong man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The first man",
+          "is_correct": false
+        }
+      ],
+      "answer": "A small child"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where was the Mayor going to select the best person?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Town Hall",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Park",
+          "is_correct": false
+        }
+      ],
+      "answer": "Town Hall"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who was chosen as the best person?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The rich woman",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The strong man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The first man",
+          "is_correct": false
+        }
+      ],
+      "answer": "The child"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Help others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Be rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be proud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Help others"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was sitting on the road?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An old woman",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A man",
+          "is_correct": false
+        }
+      ],
+      "answer": "An old woman"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who helped the old woman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A small child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The rich woman",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The strong man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The first man",
+          "is_correct": false
+        }
+      ],
+      "answer": "A small child"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where was the Mayor going to select the best person?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Town Hall",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Park",
+          "is_correct": false
+        }
+      ],
+      "answer": "Town Hall"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who was chosen as the best person?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The rich woman",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The strong man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The first man",
+          "is_correct": false
+        }
+      ],
+      "answer": "The child"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Help others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Be rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be proud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Help others"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was sitting on the road?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An old woman",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A man",
+          "is_correct": false
+        }
+      ],
+      "answer": "An old woman"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who helped the old woman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A small child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The rich woman",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The strong man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The first man",
+          "is_correct": false
+        }
+      ],
+      "answer": "A small child"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where was the Mayor going to select the best person?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Town Hall",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Park",
+          "is_correct": false
+        }
+      ],
+      "answer": "Town Hall"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who was chosen as the best person?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The rich woman",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The strong man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The first man",
+          "is_correct": false
+        }
+      ],
+      "answer": "The child"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Help others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Be rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be proud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Help others"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Who was sitting on the road?",
+      "answer": "An old woman was sitting on the road."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Why could the old woman not get up?",
+      "answer": "She had fallen down."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Who helped the old woman?",
+      "answer": "A small child helped her."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Where did the child take the old woman?",
+      "answer": "To the Town Hall."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "We should help others."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who was sitting on the road?",
+      "answer": "An old woman was sitting on the road."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Why could the old woman not get up?",
+      "answer": "She had fallen down."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Who helped the old woman?",
+      "answer": "A small child helped her."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Where did the child take the old woman?",
+      "answer": "To the Town Hall."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "We should help others."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who was sitting on the road?",
+      "answer": "An old woman was sitting on the road."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why could the old woman not get up?",
+      "answer": "She had fallen down."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Who helped the old woman?",
+      "answer": "A small child helped her."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Where did the child take the old woman?",
+      "answer": "To the Town Hall."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "We should help others."
+    }
+  ]
+}

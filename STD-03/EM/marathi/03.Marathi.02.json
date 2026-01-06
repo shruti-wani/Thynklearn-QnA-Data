@@ -1,0 +1,193 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.MarathiMedium.English.02",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi Medium",
+    "chapter_name": "Priya in the Village"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the name of the girl in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Riya", "is_correct": false },
+        { "option_id": 2, "text": "Priya", "is_correct": true },
+        { "option_id": 3, "text": "Pooja", "is_correct": false },
+        { "option_id": 4, "text": "Neha", "is_correct": false }
+      ],
+      "answer": "Priya"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where does Priya live?",
+      "options": [
+        { "option_id": 1, "text": "In a city", "is_correct": false },
+        { "option_id": 2, "text": "In a village", "is_correct": true },
+        { "option_id": 3, "text": "In a town", "is_correct": false },
+        { "option_id": 4, "text": "In a forest", "is_correct": false }
+      ],
+      "answer": "In a village"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How are the houses in Priya’s village?",
+      "options": [
+        { "option_id": 1, "text": "Far apart", "is_correct": false },
+        { "option_id": 2, "text": "Close together", "is_correct": true },
+        { "option_id": 3, "text": "Very big", "is_correct": false },
+        { "option_id": 4, "text": "Very tall", "is_correct": false }
+      ],
+      "answer": "Close together"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What are there between the houses?",
+      "options": [
+        { "option_id": 1, "text": "Big roads", "is_correct": false },
+        { "option_id": 2, "text": "Small lanes", "is_correct": true },
+        { "option_id": 3, "text": "Rivers", "is_correct": false },
+        { "option_id": 4, "text": "Parks", "is_correct": false }
+      ],
+      "answer": "Small lanes"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is around the houses in the village?",
+      "options": [
+        { "option_id": 1, "text": "Cars", "is_correct": false },
+        { "option_id": 2, "text": "Plants and trees", "is_correct": true },
+        { "option_id": 3, "text": "Tall buildings", "is_correct": false },
+        { "option_id": 4, "text": "Shops", "is_correct": false }
+      ],
+      "answer": "Plants and trees"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is Dajikaka?",
+      "options": [
+        { "option_id": 1, "text": "Priya’s teacher", "is_correct": false },
+        { "option_id": 2, "text": "Priya’s neighbour", "is_correct": true },
+        { "option_id": 3, "text": "Priya’s uncle", "is_correct": false },
+        { "option_id": 4, "text": "Priya’s friend", "is_correct": false }
+      ],
+      "answer": "Priya’s neighbour"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which animals does Dajikaka keep?",
+      "options": [
+        { "option_id": 1, "text": "Dogs and cats", "is_correct": false },
+        { "option_id": 2, "text": "Cows and buffaloes", "is_correct": true },
+        { "option_id": 3, "text": "Horses and goats", "is_correct": false },
+        { "option_id": 4, "text": "Sheep and hens", "is_correct": false }
+      ],
+      "answer": "Cows and buffaloes"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does Dajikaka do every day?",
+      "options": [
+        { "option_id": 1, "text": "He sells vegetables", "is_correct": false },
+        { "option_id": 2, "text": "He milks the animals", "is_correct": true },
+        { "option_id": 3, "text": "He teaches children", "is_correct": false },
+        { "option_id": 4, "text": "He drives a bus", "is_correct": false }
+      ],
+      "answer": "He milks the animals"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "From whom do they buy milk?",
+      "options": [
+        { "option_id": 1, "text": "Shopkeeper", "is_correct": false },
+        { "option_id": 2, "text": "Dajikaka", "is_correct": true },
+        { "option_id": 3, "text": "Farmer", "is_correct": false },
+        { "option_id": 4, "text": "Teacher", "is_correct": false }
+      ],
+      "answer": "Dajikaka"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How is the milk described in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Cold and sour", "is_correct": false },
+        { "option_id": 2, "text": "Nice, fresh and warm", "is_correct": true },
+        { "option_id": 3, "text": "Old and thick", "is_correct": false },
+        { "option_id": 4, "text": "Sweet and coloured", "is_correct": false }
+      ],
+      "answer": "Nice, fresh and warm"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is Priya?",
+      "answer": "Priya is a girl who lives in a village."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Where does Priya live?",
+      "answer": "Priya lives in a small village."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How are the houses in the village?",
+      "answer": "The houses are close together."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are there between the houses?",
+      "answer": "There are small lanes between the houses."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is around the houses?",
+      "answer": "There are many plants and trees around the houses."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who is Dajikaka?",
+      "answer": "Dajikaka is Priya’s neighbour."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which animals does Dajikaka keep?",
+      "answer": "He keeps cows and buffaloes."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does Dajikaka do every day?",
+      "answer": "He milks the cows and buffaloes every day."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "From whom do they buy milk?",
+      "answer": "They buy milk from Dajikaka."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How is the milk?",
+      "answer": "The milk is nice, fresh and warm."
+    }
+  ]
+}
+

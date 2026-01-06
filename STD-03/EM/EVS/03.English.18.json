@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.18",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "My Family, My Home"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A family is a group of people who ________ together.",
+      "options": [
+        { "option_id": 1, "text": "play", "is_correct": false },
+        { "option_id": 2, "text": "live", "is_correct": true },
+        { "option_id": 3, "text": "study", "is_correct": false },
+        { "option_id": 4, "text": "travel", "is_correct": false }
+      ],
+      "answer": "live"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The place where we live with our family is called our ________.",
+      "options": [
+        { "option_id": 1, "text": "school", "is_correct": false },
+        { "option_id": 2, "text": "home", "is_correct": true },
+        { "option_id": 3, "text": "office", "is_correct": false },
+        { "option_id": 4, "text": "market", "is_correct": false }
+      ],
+      "answer": "home"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is a small family?",
+      "options": [
+        { "option_id": 1, "text": "Parents and children", "is_correct": true },
+        { "option_id": 2, "text": "Parents, grandparents, uncles and aunts", "is_correct": false },
+        { "option_id": 3, "text": "Many relatives living together", "is_correct": false },
+        { "option_id": 4, "text": "Whole village", "is_correct": false }
+      ],
+      "answer": "Parents and children"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "A big family is also called a ________ family.",
+      "options": [
+        { "option_id": 1, "text": "small", "is_correct": false },
+        { "option_id": 2, "text": "joint", "is_correct": true },
+        { "option_id": 3, "text": "tiny", "is_correct": false },
+        { "option_id": 4, "text": "single", "is_correct": false }
+      ],
+      "answer": "joint"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these people is part of a family?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": false },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Mother", "is_correct": true },
+        { "option_id": 4, "text": "Postman", "is_correct": false }
+      ],
+      "answer": "Mother"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who usually takes care of children at home?",
+      "options": [
+        { "option_id": 1, "text": "Parents", "is_correct": true },
+        { "option_id": 2, "text": "Friends", "is_correct": false },
+        { "option_id": 3, "text": "Teachers", "is_correct": false },
+        { "option_id": 4, "text": "Neighbours", "is_correct": false }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these helps make a home happy?",
+      "options": [
+        { "option_id": 1, "text": "Fighting", "is_correct": false },
+        { "option_id": 2, "text": "Love and care", "is_correct": true },
+        { "option_id": 3, "text": "Anger", "is_correct": false },
+        { "option_id": 4, "text": "Noise", "is_correct": false }
+      ],
+      "answer": "Love and care"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these is a duty of children at home?",
+      "options": [
+        { "option_id": 1, "text": "Helping parents", "is_correct": true },
+        { "option_id": 2, "text": "Breaking things", "is_correct": false },
+        { "option_id": 3, "text": "Fighting", "is_correct": false },
+        { "option_id": 4, "text": "Making noise", "is_correct": false }
+      ],
+      "answer": "Helping parents"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which room is used for cooking food?",
+      "options": [
+        { "option_id": 1, "text": "Bedroom", "is_correct": false },
+        { "option_id": 2, "text": "Kitchen", "is_correct": true },
+        { "option_id": 3, "text": "Bathroom", "is_correct": false },
+        { "option_id": 4, "text": "Study room", "is_correct": false }
+      ],
+      "answer": "Kitchen"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which room is used for sleeping?",
+      "options": [
+        { "option_id": 1, "text": "Kitchen", "is_correct": false },
+        { "option_id": 2, "text": "Bathroom", "is_correct": false },
+        { "option_id": 3, "text": "Bedroom", "is_correct": true },
+        { "option_id": 4, "text": "Dining room", "is_correct": false }
+      ],
+      "answer": "Bedroom"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these keeps our home clean?",
+      "options": [
+        { "option_id": 1, "text": "Throwing waste anywhere", "is_correct": false },
+        { "option_id": 2, "text": "Cleaning daily", "is_correct": true },
+        { "option_id": 3, "text": "Not cleaning", "is_correct": false },
+        { "option_id": 4, "text": "Making a mess", "is_correct": false }
+      ],
+      "answer": "Cleaning daily"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a responsibility of family members?",
+      "options": [
+        { "option_id": 1, "text": "Caring for each other", "is_correct": true },
+        { "option_id": 2, "text": "Ignoring each other", "is_correct": false },
+        { "option_id": 3, "text": "Fighting daily", "is_correct": false },
+        { "option_id": 4, "text": "Shouting", "is_correct": false }
+      ],
+      "answer": "Caring for each other"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which family has grandparents living together?",
+      "options": [
+        { "option_id": 1, "text": "Small family", "is_correct": false },
+        { "option_id": 2, "text": "Joint family", "is_correct": true },
+        { "option_id": 3, "text": "Single family", "is_correct": false },
+        { "option_id": 4, "text": "Tiny family", "is_correct": false }
+      ],
+      "answer": "Joint family"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these should we do at home?",
+      "options": [
+        { "option_id": 1, "text": "Respect elders", "is_correct": true },
+        { "option_id": 2, "text": "Disobey parents", "is_correct": false },
+        { "option_id": 3, "text": "Fight", "is_correct": false },
+        { "option_id": 4, "text": "Make noise", "is_correct": false }
+      ],
+      "answer": "Respect elders"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why do we need a home?",
+      "options": [
+        { "option_id": 1, "text": "To feel safe and comfortable", "is_correct": true },
+        { "option_id": 2, "text": "To play only", "is_correct": false },
+        { "option_id": 3, "text": "To study only", "is_correct": false },
+        { "option_id": 4, "text": "To travel", "is_correct": false }
+      ],
+      "answer": "To feel safe and comfortable"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a family?",
+      "answer": "A family is a group of people who live together."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a home?",
+      "answer": "A home is the place where we live with our family."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a small family?",
+      "answer": "A small family has parents and children."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a joint family?",
+      "answer": "A joint family has parents, grandparents and other relatives living together."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name two members of your family.",
+      "answer": "My mother and father are members of my family."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who takes care of you at home?",
+      "answer": "My parents take care of me."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why should we love our family?",
+      "answer": "Our family loves and cares for us."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What should children do at home?",
+      "answer": "Children should help parents and follow rules."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why should we keep our home clean?",
+      "answer": "A clean home keeps us healthy."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one room in your house.",
+      "answer": "Bedroom is one room in my house."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which room is used for cooking?",
+      "answer": "The kitchen is used for cooking."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why should we respect elders?",
+      "answer": "Elders guide and care for us."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What makes a home happy?",
+      "answer": "Love and care make a home happy."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why do we feel safe at home?",
+      "answer": "Our family protects and cares for us."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How can we help our family?",
+      "answer": "We can help by doing small household work."
+    }
+  ]
+}
+

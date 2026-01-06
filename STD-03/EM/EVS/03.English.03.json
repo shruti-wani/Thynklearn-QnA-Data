@@ -1,0 +1,192 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.03",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Animal Shelter"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Animals need shelters to ________.",
+      "options": [
+        { "option_id": 1, "text": "play", "is_correct": false },
+        { "option_id": 2, "text": "stay safe", "is_correct": true },
+        { "option_id": 3, "text": "fly", "is_correct": false },
+        { "option_id": 4, "text": "sleep outside", "is_correct": false }
+      ],
+      "answer": "stay safe"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which animal lives in a nest?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Bird", "is_correct": true },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Bird"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "A dog lives in a ________.",
+      "options": [
+        { "option_id": 1, "text": "stable", "is_correct": false },
+        { "option_id": 2, "text": "kennel", "is_correct": true },
+        { "option_id": 3, "text": "cage", "is_correct": false },
+        { "option_id": 4, "text": "nest", "is_correct": false }
+      ],
+      "answer": "kennel"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which animal lives in a stable?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Horse", "is_correct": true },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Hen", "is_correct": false }
+      ],
+      "answer": "Horse"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Cows live in a ________.",
+      "options": [
+        { "option_id": 1, "text": "stable", "is_correct": false },
+        { "option_id": 2, "text": "shed", "is_correct": true },
+        { "option_id": 3, "text": "kennel", "is_correct": false },
+        { "option_id": 4, "text": "nest", "is_correct": false }
+      ],
+      "answer": "shed"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which animal lives in a burrow?",
+      "options": [
+        { "option_id": 1, "text": "Rabbit", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Rabbit"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "A lion lives in a ________.",
+      "options": [
+        { "option_id": 1, "text": "cage", "is_correct": false },
+        { "option_id": 2, "text": "den", "is_correct": true },
+        { "option_id": 3, "text": "nest", "is_correct": false },
+        { "option_id": 4, "text": "shed", "is_correct": false }
+      ],
+      "answer": "den"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Hens live in a ________.",
+      "options": [
+        { "option_id": 1, "text": "coop", "is_correct": true },
+        { "option_id": 2, "text": "kennel", "is_correct": false },
+        { "option_id": 3, "text": "stable", "is_correct": false },
+        { "option_id": 4, "text": "burrow", "is_correct": false }
+      ],
+      "answer": "coop"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which animal lives in a hive?",
+      "options": [
+        { "option_id": 1, "text": "Ant", "is_correct": false },
+        { "option_id": 2, "text": "Bee", "is_correct": true },
+        { "option_id": 3, "text": "Spider", "is_correct": false },
+        { "option_id": 4, "text": "Snake", "is_correct": false }
+      ],
+      "answer": "Bee"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which animal lives in a web?",
+      "options": [
+        { "option_id": 1, "text": "Bee", "is_correct": false },
+        { "option_id": 2, "text": "Spider", "is_correct": true },
+        { "option_id": 3, "text": "Ant", "is_correct": false },
+        { "option_id": 4, "text": "Bird", "is_correct": false }
+      ],
+      "answer": "Spider"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why do animals need shelters?",
+      "answer": "Animals need shelters to stay safe from heat, cold, rain and enemies."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Where does a bird live?",
+      "answer": "A bird lives in a nest."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the shelter of a dog?",
+      "answer": "A dog lives in a kennel."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Where does a cow live?",
+      "answer": "A cow lives in a shed."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name the shelter of a horse.",
+      "answer": "A horse lives in a stable."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which animal lives in a den?",
+      "answer": "A lion lives in a den."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Where does a rabbit live?",
+      "answer": "A rabbit lives in a burrow."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a hen’s shelter called?",
+      "answer": "A hen’s shelter is called a coop."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which animal lives in a hive?",
+      "answer": "A bee lives in a hive."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why should we take care of animal shelters?",
+      "answer": "We should take care of animal shelters to keep animals safe and healthy."
+    }
+  ]
+}

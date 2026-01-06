@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.53",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "My Mobile is Ringing"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What was ringing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "My mobile",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Doorbell",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Clock",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "My mobile"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where did she first look for the mobile?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the table",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In the bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Under the chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the purse",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the table"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where was the mobile finally found?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the purse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "On the table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Near the basket",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Behind the bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the purse"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who was calling at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nikita",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ravi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teacher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nikita"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the lesson teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Look carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shout loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hide things",
+          "is_correct": false
+        }
+      ],
+      "answer": "Look carefully"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was ringing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "My mobile",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Doorbell",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Clock",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "My mobile"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where did she first look for the mobile?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the table",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In the bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Under the chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the purse",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the table"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where was the mobile finally found?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the purse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "On the table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Near the basket",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Behind the bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the purse"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who was calling at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nikita",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ravi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teacher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nikita"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the lesson teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Look carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shout loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hide things",
+          "is_correct": false
+        }
+      ],
+      "answer": "Look carefully"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What was ringing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "My mobile",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Doorbell",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Clock",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "My mobile"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where did she first look for the mobile?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the table",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "In the bag",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Under the chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the purse",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the table"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where was the mobile finally found?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the purse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "On the table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Near the basket",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Behind the bag",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the purse"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who was calling at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nikita",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ravi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teacher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nikita"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does the lesson teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Look carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shout loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hide things",
+          "is_correct": false
+        }
+      ],
+      "answer": "Look carefully"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What was ringing?",
+      "answer": "Her mobile was ringing."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Where did she search first?",
+      "answer": "She looked on the table first."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Where was the mobile found?",
+      "answer": "It was in her purse."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Who was calling?",
+      "answer": "Nikita was calling."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What should we do when we lose something?",
+      "answer": "We should search carefully."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What was ringing?",
+      "answer": "Her mobile was ringing."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Where did she search first?",
+      "answer": "She looked on the table first."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Where was the mobile found?",
+      "answer": "It was in her purse."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Who was calling?",
+      "answer": "Nikita was calling."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What should we do when we lose something?",
+      "answer": "We should search carefully."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What was ringing?",
+      "answer": "Her mobile was ringing."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Where did she search first?",
+      "answer": "She looked on the table first."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Where was the mobile found?",
+      "answer": "It was in her purse."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Who was calling?",
+      "answer": "Nikita was calling."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What should we do when we lose something?",
+      "answer": "We should search carefully."
+    }
+  ]
+}

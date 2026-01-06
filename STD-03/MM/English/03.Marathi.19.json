@@ -1,0 +1,721 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.19",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "शब्दबाग – २"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "दिलेल्या शब्दाचा योग्य वापर कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीचा वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य वापर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "हा शब्द वाक्यात वापरा.",
+      "answer": "हा शब्द सोप्या वाक्यात योग्य प्रकारे वापरलेला आहे."
+    }
+  ]
+}

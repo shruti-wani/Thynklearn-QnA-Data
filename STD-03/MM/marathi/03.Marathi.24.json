@@ -1,0 +1,1678 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03-Marathi-24",
+    "standard": "3",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "ट्रॅफिकदादा",
+    "chapter_type": "कविता / सामाजिक जाणीव"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘ट्रॅफिकदादा’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या कवितेत ‘ट्रॅफिकदादा’ कोण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादा मुलांना काय सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लाल दिवा लागला असता काय करावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पिवळा दिवा लागला असता काय करावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हिरवा दिवा लागला असता काय करावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादा कोणते नियम पाळायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर वाहन चालवताना काय महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सिग्नल का पाळला पाहिजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "या कवितेत मुलांना कोणाची भूमिका समजावली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर धावपळ का करू नये?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वाहन चालवताना शिस्त का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादा कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या कवितेत ‘दादा’ हा शब्द कशासाठी वापरला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर अपघात का होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिक नियम पाळल्यास काय फायदा होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादा कोणत्या कामासाठी उभा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर चालताना कुठे चालावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पादचाऱ्यांसाठी कोणता मार्ग असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सिग्नलवरील रंग काय दर्शवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादा मुलांना कसे बोलतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "या कवितेत मुलांना कोणती सवय लावायची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "वाहन चालवताना वेग का मर्यादित असावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर हॉर्नचा वापर कसा असावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "या कवितेत कोणते नियम सांगितले आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादाचे बोलणे कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर शिस्त का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "वाहन चालवताना लक्ष कुठे असावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "या कवितेत कोणती सामाजिक जाणीव दिली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादा मुलांना काय शिकवतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर खेळणे योग्य आहे का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "वाहन चालवताना कोणती काळजी घ्यावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "या कवितेत कोणते रंग पुन्हा पुन्हा येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर नियम तोडल्यास काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादाचा आवाज कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "या कवितेत संवाद कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिक नियम कोणासाठी असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर सुरक्षितता कशी राखता येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "या कवितेचा शेवट कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादा कोणासाठी आदर्श आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "या कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "मुलांनी ट्रॅफिक नियम का शिकावेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर वाहन थांबवणे कधी आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "वाहन चालवताना संयम का हवा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "या कवितेत कोणते शब्द लक्षात राहतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "ट्रॅफिकदादा कोणत्या ठिकाणी उभा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "या कवितेतील मुख्य पात्र कोण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "‘ट्रॅफिकदादा’ हे शीर्षक योग्य का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक पोलीस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेतील शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहनचालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक पोलीस"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिकदादा कोण आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिकदादा मुलांना काय सांगतो?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "लाल दिव्याचा अर्थ काय आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पिवळ्या दिव्याचा अर्थ काय आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "हिरव्या दिव्याचा अर्थ काय आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिक नियम का पाळावेत?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर चालताना कोणती काळजी घ्यावी?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वाहन चालवताना वेग मर्यादित का असावा?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर खेळणे का धोकादायक आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "या कवितेचा मुख्य विषय काय आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिकदादाचे काम काय आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर शिस्त का आवश्यक आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पादचाऱ्यांसाठी कोणते नियम आहेत?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "सिग्नलवरील रंग कशासाठी असतात?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिक नियम न पाळल्यास काय होऊ शकते?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या कवितेत कोणती सामाजिक जाणीव दिली आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिकदादा मुलांसाठी आदर्श का आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "वाहन चालवताना लक्ष कुठे असावे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "हॉर्नचा वापर कसा करावा?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर सुरक्षितता कशी राखता येते?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "या कवितेत संवाद कसा आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "मुलांनी ट्रॅफिक नियम का शिकावेत?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिकदादा कोणत्या ठिकाणी उभा असतो?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर अपघात का होतात?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिक नियम पाळल्यास काय फायदे होतात?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "या कवितेचा संदेश काय आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर वाहन थांबवणे कधी आवश्यक असते?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "वाहन चालवताना संयम का आवश्यक आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "या कवितेतील कोणते शब्द लक्षात राहतात?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिकदादा कसा बोलतो?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर चालताना कुठे चालावे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "पादचारी मार्गाचे महत्त्व काय आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "या कवितेत कोणते रंग महत्त्वाचे आहेत?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "वाहन चालवताना नियम तोडल्यास काय होते?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिकदादाचे बोलणे मुलांना कसे वाटते?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "या कवितेतील मुख्य पात्र कोण आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "‘ट्रॅफिकदादा’ हे शीर्षक का योग्य आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर सुरक्षिततेसाठी कोणते नियम आहेत?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिकदादा मुलांना कोणती सवय लावतो?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "या कवितेतून आपल्याला काय शिकायला मिळते?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "वाहन चालवताना मोबाईल वापरणे योग्य आहे का?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर नियम पाळणे का महत्त्वाचे आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "या कवितेत समाजासाठी काय संदेश आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिकदादाची भूमिका का महत्त्वाची आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "मुलांनी रस्त्यावर कसे वागावे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "ट्रॅफिक नियम कशासाठी बनवले आहेत?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "या कवितेचा शेवट कसा आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर सुरक्षितता राखणे कोणाची जबाबदारी आहे?",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "या कवितेतील मुख्य शिकवण लिहा.",
+      "answer": "हे उत्तर कवितेतील आशय व नियमांवर आधारित आहे."
+    }
+  ]
+}

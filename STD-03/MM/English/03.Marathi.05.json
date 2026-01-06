@@ -1,0 +1,381 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.05",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "चित्रांसंबंधी बोला"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'चित्रांसंबंधी बोला' या धड्यात काय करायला सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्र पाहून बोलणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कविता वाचणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कथा लिहिणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गाणे म्हणणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्र पाहून बोलणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "चित्र पाहताना प्रथम काय करावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्षपूर्वक पाहावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ताबडतोब बोलावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्र झाकावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र बदलावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्षपूर्वक पाहावे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चित्रात काय दिसते हे सांगणे कशासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बोलण्याची सवय लागते",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लिहिणे टाळता येते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ जातो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ थांबतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "बोलण्याची सवय लागते"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चित्र पाहून बोलताना शब्द कसे असावेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोपे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "चित्रांबद्दल बोलताना कोणती गोष्ट महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ओरडणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गप्प बसणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षण"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "चित्र पाहून बोलल्याने कोणता गुण वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "चित्रात दिसणाऱ्या गोष्टींबद्दल काय सांगता येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नावे आणि कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त आकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "नावे आणि कृती"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "चित्रांबद्दल बोलताना कसे वागावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांतपणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ओरडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हसून दुर्लक्ष करून",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांतपणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या कौशल्यासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बोलणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धावणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिहिणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गाणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बोलणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "या धड्याचा मुख्य उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बोलण्याचा सराव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कथा पाठ करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गाणी शिकणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बोलण्याचा सराव"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "'चित्रांसंबंधी बोला' या धड्यात काय शिकायला मिळते?",
+      "answer": "या धड्यात चित्र पाहून बोलायला शिकायला मिळते."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "चित्र पाहताना काय करावे?",
+      "answer": "चित्र लक्षपूर्वक पाहावे."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "चित्रांबद्दल बोलल्याने काय फायदा होतो?",
+      "answer": "चित्रांबद्दल बोलल्याने बोलण्याची सवय लागते."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "चित्रात काय काय सांगता येते?",
+      "answer": "चित्रात दिसणाऱ्या गोष्टींची नावे आणि कृती सांगता येतात."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून बोलताना शब्द कसे असावेत?",
+      "answer": "शब्द सोपे आणि स्पष्ट असावेत."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "चित्रांबद्दल बोलताना कसे वागावे?",
+      "answer": "चित्रांबद्दल बोलताना शांतपणे वागावे."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "या धड्यामुळे कोणता गुण वाढतो?",
+      "answer": "या धड्यामुळे आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून बोलणे का महत्त्वाचे आहे?",
+      "answer": "यामुळे विचार मांडण्याची सवय लागते."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून बोलताना घाई का करू नये?",
+      "answer": "घाई केल्यास नीट सांगता येत नाही."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "हा धडा मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "चित्रांबद्दल बोलताना काय टाळावे?",
+      "answer": "ओरडणे आणि घाई टाळावी."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून बोलल्याने कोणते कौशल्य वाढते?",
+      "answer": "बोलण्याचे कौशल्य वाढते."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून बोलताना काय लक्षात ठेवावे?",
+      "answer": "चित्रातील सर्व गोष्टी लक्षात ठेवाव्यात."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "चित्रांबद्दल बोलताना आत्मविश्वास का आवश्यक आहे?",
+      "answer": "आत्मविश्वासामुळे नीट बोलता येते."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुम्हाला काय शिकायला मिळाले?",
+      "answer": "मला चित्र पाहून बोलायला शिकायला मिळाले."
+    }
+  ]
+}

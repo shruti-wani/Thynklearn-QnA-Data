@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.33",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Articles"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which is an article?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which article is used before vowel sound?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "On",
+          "is_correct": false
+        }
+      ],
+      "answer": "An"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which sentence uses an article?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I have a pen.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I run.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She sings.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play fast.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I have a pen."
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which article is used for a specific thing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "An",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "On",
+          "is_correct": false
+        }
+      ],
+      "answer": "The"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which is correct?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The apple a",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple an",
+          "is_correct": false
+        }
+      ],
+      "answer": "An apple"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which is an article? (33-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which article is used before vowel sound? (33-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "On",
+          "is_correct": false
+        }
+      ],
+      "answer": "An"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which sentence uses an article? (33-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I have a pen.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I run.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She sings.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play fast.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I have a pen."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which article is used for a specific thing? (33-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "An",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "On",
+          "is_correct": false
+        }
+      ],
+      "answer": "The"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which is correct? (33-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The apple a",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple an",
+          "is_correct": false
+        }
+      ],
+      "answer": "An apple"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which is an article? (33-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which article is used before vowel sound? (33-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "On",
+          "is_correct": false
+        }
+      ],
+      "answer": "An"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which sentence uses an article? (33-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I have a pen.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I run.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She sings.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Play fast.",
+          "is_correct": false
+        }
+      ],
+      "answer": "I have a pen."
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which article is used for a specific thing? (33-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "An",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "On",
+          "is_correct": false
+        }
+      ],
+      "answer": "The"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which is correct? (33-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An apple",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The apple a",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apple an",
+          "is_correct": false
+        }
+      ],
+      "answer": "An apple"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is an article?",
+      "answer": "An article is a small word used before a noun."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Name the three articles.",
+      "answer": "A, an and the."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "When do we use 'an'?",
+      "answer": "We use 'an' before words that start with vowel sound."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'a'.",
+      "answer": "I have a pen."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'the'.",
+      "answer": "The sun is bright."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is an article? (33-6)",
+      "answer": "An article is a small word used before a noun."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name the three articles. (33-7)",
+      "answer": "A, an and the."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "When do we use 'an'? (33-8)",
+      "answer": "We use 'an' before words that start with vowel sound."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'a'. (33-9)",
+      "answer": "I have a pen."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'the'. (33-10)",
+      "answer": "The sun is bright."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is an article? (33-11)",
+      "answer": "An article is a small word used before a noun."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Name the three articles. (33-12)",
+      "answer": "A, an and the."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "When do we use 'an'? (33-13)",
+      "answer": "We use 'an' before words that start with vowel sound."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'a'. (33-14)",
+      "answer": "I have a pen."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'the'. (33-15)",
+      "answer": "The sun is bright."
+    }
+  ]
+}

@@ -1,0 +1,1536 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03-Marathi-09",
+    "standard": "3",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "शेरास सव्वाशेर",
+    "chapter_type": "कथा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘शेरास सव्वाशेर’ या कथेतील मुख्य पात्र कोण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "नानाकाकांचे शेतीजवळ कोणते प्राणी त्रास देत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "उंदीर शेतात कशामुळे येत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "नानाकाकांनी उंदीर पकडण्यासाठी काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पिंपळाच्या फांदीवर काय ठेवले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "उंदीर पिंपात का पडले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "नानाकाकांनी पिंपात पाणी का ओतले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "उंदीर पाण्यात पडल्यावर काय झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "रात्री शेतात कोणते वातावरण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "उंदीर पकडण्यासाठी नानाकाकांनी कोणती युक्ती वापरली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "उंदीर शेतातील कोणती पिके खात होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पिंपात पडलेले उंदीर कसे वागले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "नानाकाकांच्या युक्तीचा परिणाम काय झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "उंदीर पकडल्यावर नानाकाकांना कसे वाटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या कथेतील उंदीर कशाचे प्रतीक आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "नानाकाकांच्या हुशारीचे उदाहरण कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कथेतील घटना कुठे घडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "नानाकाकांनी थेट उंदीर मारले का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "उंदीर पकडण्यासाठी पिंप वापरण्याची कल्पना कोणाची होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कथेतील समस्या कोणती होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "नानाकाकांनी समस्येचे निराकरण कसे केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कथेच्या शेवटी काय घडले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "नानाकाकांनी सकाळी काय पाहिले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "उंदीर पकडल्यावर शेताचे काय झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "या कथेचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘शेरास सव्वाशेर’ या म्हणीचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कथेतील नानाकाका कसे व्यक्तिमत्त्व आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "उंदीर पिंपात पडल्यावर पळू शकले का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "नानाकाकांनी उंदीर पकडण्यासाठी धैर्य दाखवले का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कथेत शेताचे वर्णन कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "नानाकाकांच्या कृतीत कोणता गुण दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "उंदीर रात्रीच का बाहेर येत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कथेतील युक्ती यशस्वी का ठरली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "नानाकाकांनी पिंप कुठे ठेवले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कथेतील संघर्ष कोणामध्ये आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "नानाकाकांनी उंदीर पकडण्यासाठी हिंसा वापरली का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "या कथेतील शेतकरी कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "उंदीर पिंपात पडण्यामागे काय कारण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कथेतील प्रसंग मुलांना काय शिकवतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "नानाकाकांच्या हुशारीचे कौतुक का केले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "उंदीर पकडल्यावर शेत सुरक्षित झाले का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "या कथेचा शेवट समाधानकारक आहे का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कथेतील निसर्गाचा कोणता भाग दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कथेतील घटना वास्तववादी आहेत का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "या कथेतून कोणती म्हण समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नानाकाका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतमजूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नानाकाका"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "नानाकाकांना कोणती अडचण होती?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "उंदीर शेतात का येत होते?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "नानाकाकांनी उंदीर पकडण्यासाठी काय योजना केली?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "पिंपाचा उपयोग कशासाठी केला?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "उंदीर पिंपात कसे पडले?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "नानाकाकांनी पिंपात पाणी का ओतले?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रात्री शेतात काय घडले?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सकाळी नानाकाकांनी काय पाहिले?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "उंदीर पकडल्यावर नानाकाकांना कसे वाटले?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "या कथेतील नानाकाकांचा मुख्य गुण कोणता?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कथेतील समस्या कोणती होती?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "नानाकाकांनी समस्या सोडवण्यासाठी काय केले?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "या कथेचा संदेश काय आहे?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "‘शेरास सव्वाशेर’ या म्हणीचा अर्थ सांगा.",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "नानाकाकांनी उंदीर मारले का?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कथेतील उंदीर कशाचे प्रतीक आहेत?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नानाकाकांची युक्ती यशस्वी का ठरली?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "या कथेतून हुशारीचे कोणते उदाहरण मिळते?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "नानाकाकांनी हिंसा न वापरता समस्या कशी सोडवली?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कथेतील घटना कुठे घडते?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "उंदीर पिंपात पडल्यावर पळू शकले का?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "नानाकाकांनी शेताचे संरक्षण कसे केले?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "या कथेतील संघर्ष कोणामध्ये आहे?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "नानाकाकांच्या व्यक्तिमत्त्वाबद्दल काय सांगता येईल?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कथेतील शेवट समाधानकारक का आहे?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "या कथेतून मुलांना काय शिकायला मिळते?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "नानाकाकांनी धैर्य कसे दाखवले?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कथेतील निसर्गाचे वर्णन कसे आहे?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "उंदीर रात्रीच का बाहेर येतात?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "नानाकाकांच्या हुशारीचे कौतुक का होते?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "या कथेत कोणती म्हण स्पष्ट होते?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "नानाकाकांची युक्ती वेगळी कशी आहे?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कथेतील शेतकरी कसा दाखवला आहे?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "उंदीर पकडल्यावर शेतात काय बदल झाला?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "या कथेतून संयमाचा संदेश कसा मिळतो?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "नानाकाकांनी पिंप कुठे ठेवले होते?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "कथेतील घटना वास्तवाशी कशी जोडलेली आहे?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "या कथेतून काय प्रेरणा मिळते?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "नानाकाकांनी अडचणींवर मात कशी केली?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "कथेतील शेवट आनंददायी का आहे?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "नानाकाकांच्या कृतीत शहाणपण कसे दिसते?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "या कथेतून कोणता नैतिक धडा मिळतो?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "उंदीर पकडण्याची ही पद्धत का प्रभावी ठरली?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "कथेतील शीर्षक योग्य का आहे?",
+      "answer": "हे उत्तर कथेमधील घटनांवर आधारित आहे."
+    }
+  ]
+}

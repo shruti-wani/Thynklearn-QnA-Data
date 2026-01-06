@@ -1,0 +1,381 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.04",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "वाराचे गाणे (गाणे)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'वाराचे गाणे' या कवितेत वारा कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हलका आणि गार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "जोरदार आणि उष्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर आणि शांत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भयानक",
+          "is_correct": false
+        }
+      ],
+      "answer": "हलका आणि गार"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवितेत वारा काय करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "थांबतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झोपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लपतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतो"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वाऱ्यामुळे काय हालते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दगड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रस्ते",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवितेत वाऱ्याचा आवाज कसा वर्णन केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाण्यासारखा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणासारखा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ओरड्यासारखा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शांत",
+          "is_correct": false
+        }
+      ],
+      "answer": "गाण्यासारखा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'वाराचे गाणे' ही कविता कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शहर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वाऱ्यामुळे वातावरण कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताजे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घाणेरडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अंधारलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्ण",
+          "is_correct": false
+        }
+      ],
+      "answer": "ताजे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेत वारा कोणत्या वेळेस येतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सतत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कधीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त रात्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त सकाळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सतत"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेतील भावना कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दु:खी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भितीदायक",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वारा कशाशी तुलना केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाण्याशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आगीशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पाण्याशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दगडाशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "गाण्याशी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त मोठ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त शेतकऱ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "'वाराचे गाणे' या कवितेत वारा कसा आहे?",
+      "answer": "कवितेत वारा हलका आणि गार आहे."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "वाऱ्यामुळे झाडांचे काय होते?",
+      "answer": "वाऱ्यामुळे झाडे हलतात."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "कवितेत वाऱ्याचा आवाज कसा आहे?",
+      "answer": "कवितेत वाऱ्याचा आवाज गाण्यासारखा आहे."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता निसर्गाबद्दल आहे."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "वाऱ्यामुळे वातावरण कसे वाटते?",
+      "answer": "वाऱ्यामुळे वातावरण ताजे वाटते."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवितेतील भावना कोणती आहे?",
+      "answer": "कवितेतील भावना आनंदी आहे."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "वाऱ्याची तुलना कशाशी केली आहे?",
+      "answer": "वाऱ्याची तुलना गाण्याशी केली आहे."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "वारा काय करतो?",
+      "answer": "वारा सतत वाहतो."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "ही कविता वाचल्यावर काय वाटते?",
+      "answer": "ही कविता वाचल्यावर आनंद वाटतो."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "वारा कशामुळे महत्त्वाचा आहे?",
+      "answer": "वारा निसर्गाचा भाग आहे म्हणून महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "कवितेत निसर्ग कसा दाखवला आहे?",
+      "answer": "कवितेत निसर्ग सुंदर दाखवला आहे."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "वाऱ्यामुळे कोणते बदल दिसतात?",
+      "answer": "वाऱ्यामुळे झाडे आणि पाने हलतात."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "ही कविता मुलांना काय शिकवते?",
+      "answer": "निसर्गाचे सौंदर्य ओळखायला शिकवते."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "वाऱ्याचा अनुभव कसा असतो?",
+      "answer": "वाऱ्याचा अनुभव गार आणि सुखद असतो."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "तुम्हाला वारा कसा वाटतो?",
+      "answer": "मला वारा गार आणि आनंददायी वाटतो."
+    }
+  ]
+}

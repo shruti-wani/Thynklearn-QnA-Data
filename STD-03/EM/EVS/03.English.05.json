@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.05",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Understanding Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following helps us know the time?",
+      "options": [
+        { "option_id": 1, "text": "Map", "is_correct": false },
+        { "option_id": 2, "text": "Clock", "is_correct": true },
+        { "option_id": 3, "text": "Compass", "is_correct": false },
+        { "option_id": 4, "text": "Scale", "is_correct": false }
+      ],
+      "answer": "Clock"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How many hours are there in a day?",
+      "options": [
+        { "option_id": 1, "text": "12", "is_correct": false },
+        { "option_id": 2, "text": "24", "is_correct": true },
+        { "option_id": 3, "text": "30", "is_correct": false },
+        { "option_id": 4, "text": "60", "is_correct": false }
+      ],
+      "answer": "24"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How many minutes make one hour?",
+      "options": [
+        { "option_id": 1, "text": "30", "is_correct": false },
+        { "option_id": 2, "text": "60", "is_correct": true },
+        { "option_id": 3, "text": "24", "is_correct": false },
+        { "option_id": 4, "text": "100", "is_correct": false }
+      ],
+      "answer": "60"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which hand of the clock shows hours?",
+      "options": [
+        { "option_id": 1, "text": "Second hand", "is_correct": false },
+        { "option_id": 2, "text": "Minute hand", "is_correct": false },
+        { "option_id": 3, "text": "Hour hand", "is_correct": true },
+        { "option_id": 4, "text": "All hands", "is_correct": false }
+      ],
+      "answer": "Hour hand"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which hand of the clock moves fastest?",
+      "options": [
+        { "option_id": 1, "text": "Hour hand", "is_correct": false },
+        { "option_id": 2, "text": "Minute hand", "is_correct": false },
+        { "option_id": 3, "text": "Second hand", "is_correct": true },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Second hand"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following shows the days of a month?",
+      "options": [
+        { "option_id": 1, "text": "Clock", "is_correct": false },
+        { "option_id": 2, "text": "Calendar", "is_correct": true },
+        { "option_id": 3, "text": "Watch", "is_correct": false },
+        { "option_id": 4, "text": "Map", "is_correct": false }
+      ],
+      "answer": "Calendar"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many days are there in a week?",
+      "options": [
+        { "option_id": 1, "text": "5", "is_correct": false },
+        { "option_id": 2, "text": "6", "is_correct": false },
+        { "option_id": 3, "text": "7", "is_correct": true },
+        { "option_id": 4, "text": "8", "is_correct": false }
+      ],
+      "answer": "7"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How many months are there in a year?",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "11", "is_correct": false },
+        { "option_id": 3, "text": "12", "is_correct": true },
+        { "option_id": 4, "text": "24", "is_correct": false }
+      ],
+      "answer": "12"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these comes after morning?",
+      "options": [
+        { "option_id": 1, "text": "Night", "is_correct": false },
+        { "option_id": 2, "text": "Evening", "is_correct": false },
+        { "option_id": 3, "text": "Afternoon", "is_correct": true },
+        { "option_id": 4, "text": "Midnight", "is_correct": false }
+      ],
+      "answer": "Afternoon"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following comes at the end of the day?",
+      "options": [
+        { "option_id": 1, "text": "Morning", "is_correct": false },
+        { "option_id": 2, "text": "Afternoon", "is_correct": false },
+        { "option_id": 3, "text": "Evening", "is_correct": false },
+        { "option_id": 4, "text": "Night", "is_correct": true }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following is used to measure long periods of time?",
+      "options": [
+        { "option_id": 1, "text": "Clock", "is_correct": false },
+        { "option_id": 2, "text": "Calendar", "is_correct": true },
+        { "option_id": 3, "text": "Watch", "is_correct": false },
+        { "option_id": 4, "text": "Stopwatch", "is_correct": false }
+      ],
+      "answer": "Calendar"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which activity do we usually do in the morning?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping", "is_correct": false },
+        { "option_id": 2, "text": "Going to school", "is_correct": true },
+        { "option_id": 3, "text": "Having dinner", "is_correct": false },
+        { "option_id": 4, "text": "Watching stars", "is_correct": false }
+      ],
+      "answer": "Going to school"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these shows time in seconds, minutes and hours?",
+      "options": [
+        { "option_id": 1, "text": "Calendar", "is_correct": false },
+        { "option_id": 2, "text": "Clock", "is_correct": true },
+        { "option_id": 3, "text": "Map", "is_correct": false },
+        { "option_id": 4, "text": "Diary", "is_correct": false }
+      ],
+      "answer": "Clock"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is the shortest unit of time?",
+      "options": [
+        { "option_id": 1, "text": "Hour", "is_correct": false },
+        { "option_id": 2, "text": "Minute", "is_correct": false },
+        { "option_id": 3, "text": "Second", "is_correct": true },
+        { "option_id": 4, "text": "Day", "is_correct": false }
+      ],
+      "answer": "Second"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these tells us today’s date?",
+      "options": [
+        { "option_id": 1, "text": "Clock", "is_correct": false },
+        { "option_id": 2, "text": "Calendar", "is_correct": true },
+        { "option_id": 3, "text": "Map", "is_correct": false },
+        { "option_id": 4, "text": "Compass", "is_correct": false }
+      ],
+      "answer": "Calendar"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is time?",
+      "answer": "Time tells us when things happen."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What do we use to see the time?",
+      "answer": "We use a clock or watch to see the time."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How many hours are there in a day?",
+      "answer": "There are 24 hours in a day."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How many minutes make one hour?",
+      "answer": "Sixty minutes make one hour."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name the three hands of a clock.",
+      "answer": "The three hands of a clock are hour hand, minute hand and second hand."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which hand of the clock moves the fastest?",
+      "answer": "The second hand moves the fastest."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does a calendar show?",
+      "answer": "A calendar shows days, months and dates."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How many days are there in a week?",
+      "answer": "There are seven days in a week."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name any two parts of a day.",
+      "answer": "Morning and night are parts of a day."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "When do we usually go to sleep?",
+      "answer": "We usually go to sleep at night."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How many months are there in a year?",
+      "answer": "There are twelve months in a year."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is time important?",
+      "answer": "Time helps us plan our work and daily activities."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which part of the day comes after afternoon?",
+      "answer": "Evening comes after afternoon."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which tool helps us remember dates?",
+      "answer": "A calendar helps us remember dates."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What do we usually do in the morning?",
+      "answer": "We wake up and get ready for school in the morning."
+    }
+  ]
+}

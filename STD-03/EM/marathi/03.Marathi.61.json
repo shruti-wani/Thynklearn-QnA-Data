@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.61",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Faces and Feelings"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which face shows happiness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smiling face",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Crying face",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry face",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleepy face",
+          "is_correct": false
+        }
+      ],
+      "answer": "Smiling face"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which face shows sadness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Crying face",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Smiling face",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Laughing face",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proud face",
+          "is_correct": false
+        }
+      ],
+      "answer": "Crying face"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which feeling is shown by a smiling face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happy"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which face shows fear?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Scared face",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happy face",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleepy face",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proud face",
+          "is_correct": false
+        }
+      ],
+      "answer": "Scared face"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which feeling is shown by closed eyes and yawning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleepy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sleepy"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which face shows happiness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smiling face",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Crying face",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry face",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleepy face",
+          "is_correct": false
+        }
+      ],
+      "answer": "Smiling face"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which face shows sadness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Crying face",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Smiling face",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Laughing face",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proud face",
+          "is_correct": false
+        }
+      ],
+      "answer": "Crying face"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which feeling is shown by a smiling face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happy"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which face shows fear?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Scared face",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happy face",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleepy face",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proud face",
+          "is_correct": false
+        }
+      ],
+      "answer": "Scared face"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which feeling is shown by closed eyes and yawning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleepy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sleepy"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which face shows happiness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smiling face",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Crying face",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry face",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleepy face",
+          "is_correct": false
+        }
+      ],
+      "answer": "Smiling face"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which face shows sadness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Crying face",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Smiling face",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Laughing face",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proud face",
+          "is_correct": false
+        }
+      ],
+      "answer": "Crying face"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which feeling is shown by a smiling face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happy"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which face shows fear?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Scared face",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happy face",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleepy face",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proud face",
+          "is_correct": false
+        }
+      ],
+      "answer": "Scared face"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which feeling is shown by closed eyes and yawning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleepy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sleepy"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "It is about faces and feelings."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Which face shows happiness?",
+      "answer": "A smiling face shows happiness."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Which face shows sadness?",
+      "answer": "A crying face shows sadness."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Write one feeling.",
+      "answer": "Happy."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why do faces show feelings?",
+      "answer": "Faces help us understand how a person feels."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "It is about faces and feelings."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Which face shows happiness?",
+      "answer": "A smiling face shows happiness."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Which face shows sadness?",
+      "answer": "A crying face shows sadness."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write one feeling.",
+      "answer": "Happy."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why do faces show feelings?",
+      "answer": "Faces help us understand how a person feels."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "It is about faces and feelings."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Which face shows happiness?",
+      "answer": "A smiling face shows happiness."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Which face shows sadness?",
+      "answer": "A crying face shows sadness."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Write one feeling.",
+      "answer": "Happy."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do faces show feelings?",
+      "answer": "Faces help us understand how a person feels."
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.19",
+    "standard": "3",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "A Skit"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What kind of lesson is this?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A skit",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A poem",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A letter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A story",
+          "is_correct": false
+        }
+      ],
+      "answer": "A skit"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who asks 'Who are you?'",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Student 1",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Student 2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Student 3",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Student 4",
+          "is_correct": false
+        }
+      ],
+      "answer": "Student 1"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What animal says 'I leap, jump and run'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dog",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deer"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who does the hunter hunt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Animals",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trees",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Birds only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "People",
+          "is_correct": false
+        }
+      ],
+      "answer": "Animals"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the main activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Acting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Acting"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What kind of lesson is this?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A skit",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A poem",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A letter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A story",
+          "is_correct": false
+        }
+      ],
+      "answer": "A skit"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who asks 'Who are you?'",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Student 1",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Student 2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Student 3",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Student 4",
+          "is_correct": false
+        }
+      ],
+      "answer": "Student 1"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What animal says 'I leap, jump and run'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dog",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deer"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who does the hunter hunt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Animals",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trees",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Birds only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "People",
+          "is_correct": false
+        }
+      ],
+      "answer": "Animals"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the main activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Acting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Acting"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What kind of lesson is this?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A skit",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A poem",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A letter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A story",
+          "is_correct": false
+        }
+      ],
+      "answer": "A skit"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who asks 'Who are you?'",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Student 1",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Student 2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Student 3",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Student 4",
+          "is_correct": false
+        }
+      ],
+      "answer": "Student 1"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What animal says 'I leap, jump and run'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dog",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deer"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who does the hunter hunt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Animals",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trees",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Birds only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "People",
+          "is_correct": false
+        }
+      ],
+      "answer": "Animals"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the main activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Acting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Acting"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is this lesson?",
+      "answer": "It is a skit."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Who asks 'Who are you?'",
+      "answer": "Student 1 asks the question."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Which animal says it can leap, jump and run?",
+      "answer": "The deer."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Who says he is a hunter?",
+      "answer": "Student 1 says he is a hunter."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What skill does the lesson develop?",
+      "answer": "Acting and speaking."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is this lesson?",
+      "answer": "It is a skit."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Who asks 'Who are you?'",
+      "answer": "Student 1 asks the question."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Which animal says it can leap, jump and run?",
+      "answer": "The deer."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Who says he is a hunter?",
+      "answer": "Student 1 says he is a hunter."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What skill does the lesson develop?",
+      "answer": "Acting and speaking."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is this lesson?",
+      "answer": "It is a skit."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Who asks 'Who are you?'",
+      "answer": "Student 1 asks the question."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Which animal says it can leap, jump and run?",
+      "answer": "The deer."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Who says he is a hunter?",
+      "answer": "Student 1 says he is a hunter."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What skill does the lesson develop?",
+      "answer": "Acting and speaking."
+    }
+  ]
+}

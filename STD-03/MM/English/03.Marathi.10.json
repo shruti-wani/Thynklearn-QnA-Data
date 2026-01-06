@@ -1,0 +1,721 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.ENG.MAR.10",
+    "standard": "3",
+    "subject": "Marathi Sulabhbharati",
+    "medium": "English",
+    "chapter_name": "ससुबाई (गाणे) – बाळाजी बोरकर"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'ससुबाई' या गाण्यात कोणाबद्दल सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ससुबाईबद्दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आईबद्दल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुलाबद्दल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षकाबद्दल",
+          "is_correct": false
+        }
+      ],
+      "answer": "ससुबाईबद्दल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "'ससुबाई' हे गाणे कोणत्या प्रकारचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी गाणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दु:खी गाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट गाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भितीदायक गाणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी गाणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गाण्यातील ससुबाई कशा आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेमळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमळ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "गाण्याचा भाव कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दु:खी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'ससुबाई' या गाण्यातील वातावरण कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्साही",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शांत नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साही"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "गाण्यातील शब्द कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपे आणि गोड",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "असभ्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोपे आणि गोड"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "हे गाणे ऐकल्यावर कसे वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद वाटतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती वाटते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग येतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंटाळा येतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद वाटतो"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "गाण्यातील ससुबाई कशी वागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्नेहाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उद्धटपणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुर्लक्ष करून",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्नेहाने"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "या गाण्यातून कोणती भावना दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दु:ख",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'ससुबाई' गाणे कोणासाठी योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त मोठ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गाणे म्हणताना कोणता गुण वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्नेह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्नेह"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गाण्यामुळे मन कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'ससुबाई' गाण्यातील व्यक्तिरेखा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपुलकीची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भितीदायक",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकीची"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या गाण्याचा मुख्य विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपुलकी आणि प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी आणि प्रेम"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गाण्यातील शब्द लक्षात ठेवणे कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खूप कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अशक्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोपे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "गाणे गाताना आवाज कसा असावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधुर आणि स्पष्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खूप मोठा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खूप हळू",
+          "is_correct": false
+        }
+      ],
+      "answer": "मधुर आणि स्पष्ट"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "या गाण्यामुळे कोणती भावना वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'ससुबाई' गाणे ऐकल्यावर कोणता संदेश मिळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेमाने वागावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाने वागावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडण करावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमाने वागावे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गाण्यातील वातावरण मुलांना कसे वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भितीदायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कंटाळवाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दु:खी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "हे गाणे मुलांना काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम आणि आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम आणि आपुलकी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "'ससुबाई' या गाण्यात कोणाबद्दल सांगितले आहे?",
+      "answer": "या गाण्यात ससुबाईबद्दल सांगितले आहे."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "'ससुबाई' हे गाणे कोणत्या प्रकारचे आहे?",
+      "answer": "हे एक आनंदी गाणे आहे."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "गाण्यातील ससुबाई कशा आहेत?",
+      "answer": "गाण्यातील ससुबाई प्रेमळ आहेत."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "गाण्याचा भाव कसा आहे?",
+      "answer": "गाण्याचा भाव आनंदी आहे."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "गाण्यातील वातावरण कसे आहे?",
+      "answer": "गाण्यातील वातावरण उत्साही आहे."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "गाण्यातील शब्द कसे आहेत?",
+      "answer": "गाण्यातील शब्द सोपे आणि गोड आहेत."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "हे गाणे ऐकल्यावर कसे वाटते?",
+      "answer": "हे गाणे ऐकल्यावर आनंद वाटतो."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "गाण्यातील ससुबाई कशी वागते?",
+      "answer": "ससुबाई स्नेहाने वागते."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "या गाण्यातून कोणती भावना दिसते?",
+      "answer": "या गाण्यातून प्रेमाची भावना दिसते."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "हे गाणे कोणासाठी योग्य आहे?",
+      "answer": "हे गाणे मुलांसाठी योग्य आहे."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "गाणे म्हणताना कोणता गुण वाढतो?",
+      "answer": "गाणे म्हणताना स्नेहाचा गुण वाढतो."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "गाण्यामुळे मन कसे होते?",
+      "answer": "गाण्यामुळे मन आनंदी होते."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "'ससुबाई' गाण्यातील व्यक्तिरेखा कशी आहे?",
+      "answer": "ती आपुलकीची आहे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "या गाण्याचा मुख्य विषय काय आहे?",
+      "answer": "या गाण्याचा मुख्य विषय प्रेम आणि आपुलकी आहे."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "गाण्यातील शब्द लक्षात ठेवणे कसे आहे?",
+      "answer": "शब्द लक्षात ठेवणे सोपे आहे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "गाणे गाताना आवाज कसा असावा?",
+      "answer": "आवाज मधुर आणि स्पष्ट असावा."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "या गाण्यामुळे कोणती भावना वाढते?",
+      "answer": "या गाण्यामुळे आपुलकी वाढते."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "'ससुबाई' गाणे ऐकल्यावर कोणता संदेश मिळतो?",
+      "answer": "प्रेमाने वागावे असा संदेश मिळतो."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "गाण्यातील वातावरण मुलांना कसे वाटते?",
+      "answer": "गाण्यातील वातावरण मुलांना आनंदी वाटते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "हे गाणे मुलांना काय शिकवते?",
+      "answer": "हे गाणे प्रेम आणि आपुलकी शिकवते."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "गाण्यातील शब्द गोड का वाटतात?",
+      "answer": "ते सोपे आणि प्रेमळ असल्यामुळे गोड वाटतात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "गाणे गाताना शिस्त का आवश्यक आहे?",
+      "answer": "शिस्त ठेवल्याने गाणे नीट होते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "गाणे गाताना मिळून का गावे?",
+      "answer": "मिळून गाल्याने अधिक आनंद मिळतो."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "हे गाणे वाचल्यावर किंवा गातल्यावर काय वाटते?",
+      "answer": "हे गाणे गातल्यावर आनंद वाटतो."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "तुम्हाला हे गाणे का आवडते?",
+      "answer": "मला हे गाणे आनंदी आणि प्रेमळ असल्यामुळे आवडते."
+    }
+  ]
+}

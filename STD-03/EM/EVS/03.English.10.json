@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.10",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "More About Water"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Water can change its ________.",
+      "options": [
+        { "option_id": 1, "text": "colour", "is_correct": false },
+        { "option_id": 2, "text": "shape", "is_correct": true },
+        { "option_id": 3, "text": "taste", "is_correct": false },
+        { "option_id": 4, "text": "smell", "is_correct": false }
+      ],
+      "answer": "shape"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Ice is water in ________ form.",
+      "options": [
+        { "option_id": 1, "text": "liquid", "is_correct": false },
+        { "option_id": 2, "text": "solid", "is_correct": true },
+        { "option_id": 3, "text": "gas", "is_correct": false },
+        { "option_id": 4, "text": "mixed", "is_correct": false }
+      ],
+      "answer": "solid"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Water vapour is water in ________ form.",
+      "options": [
+        { "option_id": 1, "text": "solid", "is_correct": false },
+        { "option_id": 2, "text": "liquid", "is_correct": false },
+        { "option_id": 3, "text": "gas", "is_correct": true },
+        { "option_id": 4, "text": "hard", "is_correct": false }
+      ],
+      "answer": "gas"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When ice melts, it changes into ________.",
+      "options": [
+        { "option_id": 1, "text": "steam", "is_correct": false },
+        { "option_id": 2, "text": "water", "is_correct": true },
+        { "option_id": 3, "text": "snow", "is_correct": false },
+        { "option_id": 4, "text": "cloud", "is_correct": false }
+      ],
+      "answer": "water"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When water is heated, it changes into ________.",
+      "options": [
+        { "option_id": 1, "text": "ice", "is_correct": false },
+        { "option_id": 2, "text": "steam", "is_correct": true },
+        { "option_id": 3, "text": "snow", "is_correct": false },
+        { "option_id": 4, "text": "cloud", "is_correct": false }
+      ],
+      "answer": "steam"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which form of water flows easily?",
+      "options": [
+        { "option_id": 1, "text": "Ice", "is_correct": false },
+        { "option_id": 2, "text": "Steam", "is_correct": false },
+        { "option_id": 3, "text": "Liquid water", "is_correct": true },
+        { "option_id": 4, "text": "Snow", "is_correct": false }
+      ],
+      "answer": "Liquid water"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which form of water takes the shape of its container?",
+      "options": [
+        { "option_id": 1, "text": "Ice", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Snow", "is_correct": false },
+        { "option_id": 4, "text": "Rock", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a form of water?",
+      "options": [
+        { "option_id": 1, "text": "Ice", "is_correct": false },
+        { "option_id": 2, "text": "Steam", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Sand", "is_correct": true }
+      ],
+      "answer": "Sand"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Water vapour cools down to form ________.",
+      "options": [
+        { "option_id": 1, "text": "ice", "is_correct": false },
+        { "option_id": 2, "text": "clouds", "is_correct": true },
+        { "option_id": 3, "text": "snow", "is_correct": false },
+        { "option_id": 4, "text": "river", "is_correct": false }
+      ],
+      "answer": "clouds"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these is frozen water?",
+      "options": [
+        { "option_id": 1, "text": "Steam", "is_correct": false },
+        { "option_id": 2, "text": "Ice", "is_correct": true },
+        { "option_id": 3, "text": "Rain", "is_correct": false },
+        { "option_id": 4, "text": "Cloud", "is_correct": false }
+      ],
+      "answer": "Ice"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which form of water cannot be seen easily?",
+      "options": [
+        { "option_id": 1, "text": "Ice", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Steam", "is_correct": true },
+        { "option_id": 4, "text": "Snow", "is_correct": false }
+      ],
+      "answer": "Steam"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which process changes water into ice?",
+      "options": [
+        { "option_id": 1, "text": "Heating", "is_correct": false },
+        { "option_id": 2, "text": "Cooling", "is_correct": true },
+        { "option_id": 3, "text": "Boiling", "is_correct": false },
+        { "option_id": 4, "text": "Melting", "is_correct": false }
+      ],
+      "answer": "Cooling"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which process changes ice into water?",
+      "options": [
+        { "option_id": 1, "text": "Freezing", "is_correct": false },
+        { "option_id": 2, "text": "Melting", "is_correct": true },
+        { "option_id": 3, "text": "Cooling", "is_correct": false },
+        { "option_id": 4, "text": "Condensing", "is_correct": false }
+      ],
+      "answer": "Melting"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Steam changes into water on ________.",
+      "options": [
+        { "option_id": 1, "text": "heating", "is_correct": false },
+        { "option_id": 2, "text": "cooling", "is_correct": true },
+        { "option_id": 3, "text": "freezing", "is_correct": false },
+        { "option_id": 4, "text": "melting", "is_correct": false }
+      ],
+      "answer": "cooling"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which form of water is used for drinking?",
+      "options": [
+        { "option_id": 1, "text": "Ice", "is_correct": false },
+        { "option_id": 2, "text": "Steam", "is_correct": false },
+        { "option_id": 3, "text": "Liquid water", "is_correct": true },
+        { "option_id": 4, "text": "Snow", "is_correct": false }
+      ],
+      "answer": "Liquid water"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name the three forms of water.",
+      "answer": "The three forms of water are ice, water and water vapour."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is ice?",
+      "answer": "Ice is the solid form of water."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is water vapour?",
+      "answer": "Water vapour is the gaseous form of water."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What happens when ice melts?",
+      "answer": "Ice changes into water when it melts."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What happens when water is heated?",
+      "answer": "Water changes into steam when heated."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which form of water flows easily?",
+      "answer": "Liquid water flows easily."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which form of water takes the shape of a container?",
+      "answer": "Liquid water takes the shape of its container."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What happens when steam cools down?",
+      "answer": "Steam changes into water on cooling."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one example of frozen water.",
+      "answer": "Ice is an example of frozen water."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why can we not see water vapour easily?",
+      "answer": "Water vapour is a gas and is invisible."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which form of water is used for drinking?",
+      "answer": "Liquid water is used for drinking."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is melting?",
+      "answer": "Melting is the process of changing ice into water."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is freezing?",
+      "answer": "Freezing is the process of changing water into ice."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is cooling?",
+      "answer": "Cooling is the process of lowering temperature."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is water important in all its forms?",
+      "answer": "Water is important because it supports life in all its forms."
+    }
+  ]
+}

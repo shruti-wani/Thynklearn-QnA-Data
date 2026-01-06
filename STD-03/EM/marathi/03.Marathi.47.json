@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.47",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Mottos"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which is a good motto?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be kind to animals",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tell lies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Waste water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be kind to animals"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which motto teaches cleanliness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Keep this place clean",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Make it dirty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Do not help",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Break things",
+          "is_correct": false
+        }
+      ],
+      "answer": "Keep this place clean"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which motto tells us to save?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Save water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Waste water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Throw paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Save water"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which motto teaches truth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Never tell lies",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tell lies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cheat others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Never tell lies"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which motto teaches honesty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Honesty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Honesty"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which is a good motto? (47-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be kind to animals",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tell lies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Waste water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be kind to animals"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which motto teaches cleanliness? (47-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Keep this place clean",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Make it dirty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Do not help",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Break things",
+          "is_correct": false
+        }
+      ],
+      "answer": "Keep this place clean"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which motto tells us to save? (47-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Save water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Waste water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Throw paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Save water"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which motto teaches truth? (47-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Never tell lies",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tell lies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cheat others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Never tell lies"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which motto teaches honesty? (47-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Honesty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Honesty"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which is a good motto? (47-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be kind to animals",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tell lies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Waste water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be kind to animals"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which motto teaches cleanliness? (47-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Keep this place clean",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Make it dirty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Do not help",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Break things",
+          "is_correct": false
+        }
+      ],
+      "answer": "Keep this place clean"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which motto tells us to save? (47-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Save water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Waste water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Throw paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Save water"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which motto teaches truth? (47-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Never tell lies",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tell lies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cheat others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Never tell lies"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which motto teaches honesty? (47-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Honesty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Honesty"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is a motto?",
+      "answer": "A motto is a short sentence that gives a good message."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Write one motto.",
+      "answer": "Be kind to animals."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What does 'Save water' mean?",
+      "answer": "We should not waste water."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What does 'Be polite' teach us?",
+      "answer": "It teaches us to speak nicely."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why do we learn mottos?",
+      "answer": "We learn mottos to be good people."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is a motto? (47-6)",
+      "answer": "A motto is a short sentence that gives a good message."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Write one motto. (47-7)",
+      "answer": "Be kind to animals."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What does 'Save water' mean? (47-8)",
+      "answer": "We should not waste water."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What does 'Be polite' teach us? (47-9)",
+      "answer": "It teaches us to speak nicely."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why do we learn mottos? (47-10)",
+      "answer": "We learn mottos to be good people."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is a motto? (47-11)",
+      "answer": "A motto is a short sentence that gives a good message."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Write one motto. (47-12)",
+      "answer": "Be kind to animals."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What does 'Save water' mean? (47-13)",
+      "answer": "We should not waste water."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What does 'Be polite' teach us? (47-14)",
+      "answer": "It teaches us to speak nicely."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do we learn mottos? (47-15)",
+      "answer": "We learn mottos to be good people."
+    }
+  ]
+}

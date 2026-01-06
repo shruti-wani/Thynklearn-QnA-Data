@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.41",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Describing Words – 2"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word tells about feeling?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is an adjective?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tall",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tall"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word describes a thing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which describes a boy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Table",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word shows quality?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kind"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word tells about feeling? (41-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happy"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is an adjective? (41-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tall",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tall"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word describes a thing? (41-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which describes a boy? (41-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Table",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word shows quality? (41-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kind"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word tells about feeling? (41-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happy"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which is an adjective? (41-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tall",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tall"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word describes a thing? (41-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jump",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which describes a boy? (41-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Table",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word shows quality? (41-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kind"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What does a describing word do?",
+      "answer": "It tells more about a noun."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Give one example of a describing word.",
+      "answer": "Happy is a describing word."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Write one sentence with a describing word.",
+      "answer": "She is a good girl."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Which word tells about colour?",
+      "answer": "Red tells about colour."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why do we use describing words?",
+      "answer": "We use them to give more information."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What does a describing word do? (41-6)",
+      "answer": "It tells more about a noun."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Give one example of a describing word. (41-7)",
+      "answer": "Happy is a describing word."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Write one sentence with a describing word. (41-8)",
+      "answer": "She is a good girl."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Which word tells about colour? (41-9)",
+      "answer": "Red tells about colour."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why do we use describing words? (41-10)",
+      "answer": "We use them to give more information."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What does a describing word do? (41-11)",
+      "answer": "It tells more about a noun."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Give one example of a describing word. (41-12)",
+      "answer": "Happy is a describing word."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one sentence with a describing word. (41-13)",
+      "answer": "She is a good girl."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Which word tells about colour? (41-14)",
+      "answer": "Red tells about colour."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do we use describing words? (41-15)",
+      "answer": "We use them to give more information."
+    }
+  ]
+}

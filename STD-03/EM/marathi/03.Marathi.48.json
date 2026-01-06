@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.48",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Mary Had a Little Lamb"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who had a little lamb?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ravi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "John",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rita",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mary"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What colour was the lamb's fleece?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "White",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Black",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brown",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where did the lamb follow Mary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "School",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Park",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Home",
+          "is_correct": false
+        }
+      ],
+      "answer": "School"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who asked why the lamb loved Mary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who replied to the children?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teacher",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lamb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who had a little lamb? (48-6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ravi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "John",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rita",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mary"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What colour was the lamb's fleece? (48-7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "White",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Black",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brown",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where did the lamb follow Mary? (48-8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "School",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Park",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Home",
+          "is_correct": false
+        }
+      ],
+      "answer": "School"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who asked why the lamb loved Mary? (48-9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who replied to the children? (48-10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teacher",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lamb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who had a little lamb? (48-11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ravi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "John",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rita",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mary"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What colour was the lamb's fleece? (48-12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "White",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Black",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brown",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where did the lamb follow Mary? (48-13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "School",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Park",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Home",
+          "is_correct": false
+        }
+      ],
+      "answer": "School"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who asked why the lamb loved Mary? (48-14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who replied to the children? (48-15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teacher",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lamb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Who had a little lamb?",
+      "answer": "Mary had a little lamb."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What was the colour of the lamb?",
+      "answer": "It was white."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Where did the lamb go with Mary?",
+      "answer": "The lamb went to school."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Who answered the children's question?",
+      "answer": "The teacher answered."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why did the lamb love Mary?",
+      "answer": "Because Mary loved the lamb."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who had a little lamb? (48-6)",
+      "answer": "Mary had a little lamb."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What was the colour of the lamb? (48-7)",
+      "answer": "It was white."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Where did the lamb go with Mary? (48-8)",
+      "answer": "The lamb went to school."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Who answered the children's question? (48-9)",
+      "answer": "The teacher answered."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why did the lamb love Mary? (48-10)",
+      "answer": "Because Mary loved the lamb."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who had a little lamb? (48-11)",
+      "answer": "Mary had a little lamb."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What was the colour of the lamb? (48-12)",
+      "answer": "It was white."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Where did the lamb go with Mary? (48-13)",
+      "answer": "The lamb went to school."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Who answered the children's question? (48-14)",
+      "answer": "The teacher answered."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why did the lamb love Mary? (48-15)",
+      "answer": "Because Mary loved the lamb."
+    }
+  ]
+}

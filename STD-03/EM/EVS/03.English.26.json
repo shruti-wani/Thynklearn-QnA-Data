@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.26",
+    "standard": "3",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "As We Go from the Third to the Fourth"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Going from third to fourth means we are ________.",
+      "options": [
+        { "option_id": 1, "text": "becoming younger", "is_correct": false },
+        { "option_id": 2, "text": "growing up", "is_correct": true },
+        { "option_id": 3, "text": "becoming smaller", "is_correct": false },
+        { "option_id": 4, "text": "not changing", "is_correct": false }
+      ],
+      "answer": "growing up"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "As we grow up, our responsibilities ________.",
+      "options": [
+        { "option_id": 1, "text": "decrease", "is_correct": false },
+        { "option_id": 2, "text": "increase", "is_correct": true },
+        { "option_id": 3, "text": "end", "is_correct": false },
+        { "option_id": 4, "text": "remain same", "is_correct": false }
+      ],
+      "answer": "increase"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which habit shows that we are becoming responsible?",
+      "options": [
+        { "option_id": 1, "text": "Not doing homework", "is_correct": false },
+        { "option_id": 2, "text": "Doing work on time", "is_correct": true },
+        { "option_id": 3, "text": "Making noise", "is_correct": false },
+        { "option_id": 4, "text": "Fighting", "is_correct": false }
+      ],
+      "answer": "Doing work on time"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "As students move to a higher class, studies become ________.",
+      "options": [
+        { "option_id": 1, "text": "easier", "is_correct": false },
+        { "option_id": 2, "text": "more detailed", "is_correct": true },
+        { "option_id": 3, "text": "unimportant", "is_correct": false },
+        { "option_id": 4, "text": "shorter", "is_correct": false }
+      ],
+      "answer": "more detailed"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which quality should increase as we go to a higher class?",
+      "options": [
+        { "option_id": 1, "text": "Laziness", "is_correct": false },
+        { "option_id": 2, "text": "Discipline", "is_correct": true },
+        { "option_id": 3, "text": "Carelessness", "is_correct": false },
+        { "option_id": 4, "text": "Fear", "is_correct": false }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which habit helps us do better in the next class?",
+      "options": [
+        { "option_id": 1, "text": "Regular study", "is_correct": true },
+        { "option_id": 2, "text": "Skipping school", "is_correct": false },
+        { "option_id": 3, "text": "Not listening", "is_correct": false },
+        { "option_id": 4, "text": "Wasting time", "is_correct": false }
+      ],
+      "answer": "Regular study"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these shows good behaviour?",
+      "options": [
+        { "option_id": 1, "text": "Respecting elders", "is_correct": true },
+        { "option_id": 2, "text": "Shouting", "is_correct": false },
+        { "option_id": 3, "text": "Fighting", "is_correct": false },
+        { "option_id": 4, "text": "Breaking rules", "is_correct": false }
+      ],
+      "answer": "Respecting elders"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which skill becomes better as we grow?",
+      "options": [
+        { "option_id": 1, "text": "Thinking ability", "is_correct": true },
+        { "option_id": 2, "text": "Crying", "is_correct": false },
+        { "option_id": 3, "text": "Forgetting", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping all day", "is_correct": false }
+      ],
+      "answer": "Thinking ability"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these helps us become independent?",
+      "options": [
+        { "option_id": 1, "text": "Doing our own work", "is_correct": true },
+        { "option_id": 2, "text": "Depending on others", "is_correct": false },
+        { "option_id": 3, "text": "Avoiding work", "is_correct": false },
+        { "option_id": 4, "text": "Making excuses", "is_correct": false }
+      ],
+      "answer": "Doing our own work"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which value should children learn as they grow?",
+      "options": [
+        { "option_id": 1, "text": "Honesty", "is_correct": true },
+        { "option_id": 2, "text": "Cheating", "is_correct": false },
+        { "option_id": 3, "text": "Rudeness", "is_correct": false },
+        { "option_id": 4, "text": "Carelessness", "is_correct": false }
+      ],
+      "answer": "Honesty"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "As we grow, we should take care of our ________.",
+      "options": [
+        { "option_id": 1, "text": "toys only", "is_correct": false },
+        { "option_id": 2, "text": "things and surroundings", "is_correct": true },
+        { "option_id": 3, "text": "nothing", "is_correct": false },
+        { "option_id": 4, "text": "games only", "is_correct": false }
+      ],
+      "answer": "things and surroundings"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which habit shows self-discipline?",
+      "options": [
+        { "option_id": 1, "text": "Following rules", "is_correct": true },
+        { "option_id": 2, "text": "Breaking rules", "is_correct": false },
+        { "option_id": 3, "text": "Arguing", "is_correct": false },
+        { "option_id": 4, "text": "Ignoring work", "is_correct": false }
+      ],
+      "answer": "Following rules"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Moving to a higher class makes us more ________.",
+      "options": [
+        { "option_id": 1, "text": "careless", "is_correct": false },
+        { "option_id": 2, "text": "responsible", "is_correct": true },
+        { "option_id": 3, "text": "lazy", "is_correct": false },
+        { "option_id": 4, "text": "afraid", "is_correct": false }
+      ],
+      "answer": "responsible"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these helps us improve our behaviour?",
+      "options": [
+        { "option_id": 1, "text": "Listening to elders", "is_correct": true },
+        { "option_id": 2, "text": "Ignoring advice", "is_correct": false },
+        { "option_id": 3, "text": "Arguing", "is_correct": false },
+        { "option_id": 4, "text": "Shouting", "is_correct": false }
+      ],
+      "answer": "Listening to elders"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why is moving to the next class important?",
+      "options": [
+        { "option_id": 1, "text": "It helps us learn more", "is_correct": true },
+        { "option_id": 2, "text": "It reduces learning", "is_correct": false },
+        { "option_id": 3, "text": "It stops growth", "is_correct": false },
+        { "option_id": 4, "text": "It wastes time", "is_correct": false }
+      ],
+      "answer": "It helps us learn more"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does moving from third to fourth mean?",
+      "answer": "It means we are growing up and learning more."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What happens to our responsibilities as we grow?",
+      "answer": "Our responsibilities increase."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why should we be disciplined?",
+      "answer": "Discipline helps us learn and behave well."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one good habit of a student.",
+      "answer": "Doing homework regularly is a good habit."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How can students become independent?",
+      "answer": "By doing their own work."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why should we respect elders?",
+      "answer": "They guide us and have experience."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should improve as we grow?",
+      "answer": "Our behaviour and thinking should improve."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is regular study important?",
+      "answer": "It helps us understand lessons better."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does self-discipline mean?",
+      "answer": "Self-discipline means controlling our actions."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why should we follow rules?",
+      "answer": "Rules help us live peacefully."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How does growing up change us?",
+      "answer": "We become more responsible and careful."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What should students learn in higher classes?",
+      "answer": "Students should learn responsibility and discipline."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is listening to elders important?",
+      "answer": "It helps us learn good values."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What quality helps us grow into good citizens?",
+      "answer": "Honesty helps us grow into good citizens."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How does moving to the next class help us?",
+      "answer": "It helps us gain more knowledge and confidence."
+    }
+  ]
+}
+
